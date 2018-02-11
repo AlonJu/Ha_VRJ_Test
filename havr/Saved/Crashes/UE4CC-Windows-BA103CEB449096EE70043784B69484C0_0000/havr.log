@@ -1,0 +1,1097 @@
+﻿Log file open, 02/10/18 19:50:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: havr
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(85300581) SRandInit(85300581).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.181007
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.11-01.50.02:799][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.11-01.50.02:799][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.11-01.50.02:816][  0]LogInit: Computer: DESKTOP-FKFG7D5
+[2018.02.11-01.50.02:816][  0]LogInit: User: Brad
+[2018.02.11-01.50.02:816][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.11-01.50.02:816][  0]LogInit: High frequency timer resolution =3.386474 MHz
+[2018.02.11-01.50.02:816][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.11-01.50.02:816][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.11-01.50.02:816][  0]LogMemory: Process Physical Memory: 283.36 MB used, 283.36 MB peak
+[2018.02.11-01.50.02:816][  0]LogMemory: Process Virtual Memory: 277.91 MB used, 277.91 MB peak
+[2018.02.11-01.50.02:816][  0]LogMemory: Physical Memory: 8429.99 MB used,  7898.76 MB free, 16328.75 MB total
+[2018.02.11-01.50.02:816][  0]LogMemory: Virtual Memory: 733.80 MB used,  7898.76 MB free, 134217728.00 MB total
+[2018.02.11-01.50.03:035][  0]LogInit: Using OS detected language (en-US).
+[2018.02.11-01.50.03:035][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.11-01.50.03:039][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.11-01.50.03:828][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.11-01.50.03:853][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2018.02.11-01.50.03:853][  0]LogD3D11RHI:       6102/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.11-01.50.03:855][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.11-01.50.03:855][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.11-01.50.03:855][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.11-01.50.03:866][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.11-01.50.03:866][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.11-01.50.03:866][  0]LogWindows: EnumDisplayDevices:
+[2018.02.11-01.50.03:866][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2018.02.11-01.50.03:866][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.02.11-01.50.03:866][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.02.11-01.50.03:866][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.02.11-01.50.03:866][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.11-01.50.03:867][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2018.02.11-01.50.03:867][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.11-01.50.03:867][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.11-01.50.03:867][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.02.11-01.50.03:882][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.11-01.50.03:894][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.11-01.50.03:943][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../Users/Brad/Documents/Unreal Projects/havr/Intermediate/Shaders/WorkingDirectory/30528/).
+[2018.02.11-01.50.03:943][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Brad/AppData/Local/Temp/UnrealShaderWorkingDir/C7F8DC934124CAB45D9BCDB3977D2903/'.
+[2018.02.11-01.50.03:943][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.11-01.50.04:978][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.11-01.50.05:042][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.11-01.50.05:112][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.11-01.50.05:184][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.11-01.50.05:257][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.11-01.50.05:329][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.11-01.50.05:407][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.11-01.50.05:492][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.11-01.50.05:552][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.11-01.50.05:659][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.11-01.50.05:724][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.11-01.50.05:795][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.11-01.50.05:870][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.11-01.50.05:932][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.11-01.50.06:003][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.11-01.50.06:140][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.11-01.50.06:140][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.11-01.50.06:200][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.11-01.50.06:319][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.11-01.50.06:353][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.11-01.50.06:419][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.11-01.50.06:479][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.11-01.50.06:550][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.11-01.50.06:619][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.11-01.50.06:619][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.11-01.50.07:239][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.11-01.50.07:343][  0]LogDerivedDataCache: Loaded boot cache 0.10s 106MB C:/Users/Brad/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.11-01.50.07:343][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Brad/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.02.11-01.50.07:343][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Brad/Documents/Unreal Projects/havr/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.11-01.50.07:343][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.11-01.50.07:343][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Brad/Documents/Unreal Projects/havr/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.11-01.50.07:343][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.11-01.50.07:358][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.11-01.50.07:369][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Brad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.11-01.50.07:380][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.11-01.50.07:380][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.11-01.50.07:381][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.11-01.50.07:381][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.11-01.50.07:696][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.02.11-01.50.07:831][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.11-01.50.08:016][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.02.11-01.50.08:391][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.11-01.50.08:451][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.11-01.50.08:451][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.11-01.50.08:451][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.11-01.50.08:451][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.11-01.50.08:451][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.11-01.50.08:844][  0]LogNetVersion: havr , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4054377725)
+[2018.02.11-01.50.09:130][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.062386 seconds
+[2018.02.11-01.50.09:138][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.02.11-01.50.09:138][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.02.11-01.50.09:138][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.11-01.50.09:220][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.11-01.50.12:310][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.11-01.50.12:358][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.11-01.50.13:132][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.11-01.50.13:646][  0]SourceControl: Source control is disabled
+[2018.02.11-01.50.13:646][  0]SourceControl: Source control is disabled
+[2018.02.11-01.50.13:704][  0]SourceControl: Source control is disabled
+[2018.02.11-01.50.13:777][  0]SourceControl: Source control is disabled
+[2018.02.11-01.50.14:554][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.11-01.50.14:856][  0]LogOcInput: OculusInput pre-init called
+[2018.02.11-01.50.15:169][  0]LogEngine: Initializing Engine...
+[2018.02.11-01.50.15:170][  0]LogHMD: Oculus plugin initialized. Version: 4.17.2-3658906+++UE4+Release-4.17, OVRPlugin: 1.15.0
+[2018.02.11-01.50.15:400][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.11-01.50.15:400][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.11-01.50.15:567][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.11-01.50.15:589][  0]LogInit: XAudio2 using 'Headset Earphone (2- Razer Kraken 7.1 Chroma)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.11-01.50.15:624][  0]LogInit: FAudioDevice initialized.
+[2018.02.11-01.50.15:757][  0]LogDerivedDataCache: Saved boot cache 0.13s 106MB C:/Users/Brad/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.11-01.50.15:783][  0]LogInit: Texture streaming: Enabled
+[2018.02.11-01.50.15:945][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.11-01.50.16:260][  0]LogInit: Transaction tracking system initialized
+[2018.02.11-01.50.16:675][  0]BlueprintLog: New page: Editor Load
+[2018.02.11-01.50.17:819][  0]LocalizationService: Localization service is disabled
+[2018.02.11-01.50.18:777][  0]LogConsoleResponse: Display: 
+[2018.02.11-01.50.18:988][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.11-01.50.18:988][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.11-01.50.18:988][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.11-01.50.19:644][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brad/Documents/Unreal Projects/havr/Content/' took 0.02s
+[2018.02.11-01.50.20:347][  0]SourceControl: Source control is disabled
+[2018.02.11-01.50.20:347][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Brad/Documents/Unreal Projects/havr/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.11-01.50.20:353][  0]LightingResults: New page: Lighting Build
+[2018.02.11-01.50.20:403][  0]MapCheck: New page: Map Check
+[2018.02.11-01.50.20:403][  0]LightingResults: New page: Lighting Build
+[2018.02.11-01.50.20:696][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.02.11-01.50.20:703][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.11-01.50.20:714][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.11-01.50.20:781][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.87ms to complete.
+[2018.02.11-01.50.20:781][  0]LogFileHelpers: Loading map 'StartupMap' took 0.434
+[2018.02.11-01.50.20:937][  0]LogCollectionManager: Loaded 0 collections in 0.001546 seconds
+[2018.02.11-01.50.21:042][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brad/Documents/Unreal Projects/havr/Saved/Collections/' took 0.01s
+[2018.02.11-01.50.21:042][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brad/Documents/Unreal Projects/havr/Content/Developers/Brad/Collections/' took 0.01s
+[2018.02.11-01.50.21:042][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brad/Documents/Unreal Projects/havr/Content/Collections/' took 0.01s
+[2018.02.11-01.50.21:042][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.11-01.50.21:051][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2386 classes and 500 folders.
+[2018.02.11-01.50.21:149][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.02.11-01.50.21:191][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.02.11-01.50.21:255][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.02.11-01.50.21:360][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.02.11-01.50.21:360][  0]LogLoad: (Engine Initialization) Total time: 20.52 seconds
+[2018.02.11-01.50.21:360][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.11-01.50.21:360][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.11-01.50.21:370][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.11-01.50.21:374][  0]LogOcInput: OculusInput is initialized
+[2018.02.11-01.50.21:392][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.11-01.50.21:393][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.11-01.50.21:395][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.11-01.50.21:400][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.11-01.50.21:517][  1]LogAssetRegistry: Asset discovery search completed in 13.8431 seconds
+[2018.02.11-01.50.21:519][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.02.11-01.50.21:519][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000105 seconds (updated 0 objects)
+[2018.02.11-01.50.21:552][  2]LogRenderer: Reallocating scene render targets to support 760x360 Format 26 NumSamples 1 (Frame:1).
+[2018.02.11-01.50.23:875][224]LogRenderer: Reallocating scene render targets to support 1144x576 Format 26 NumSamples 1 (Frame:225).
+[2018.02.11-01.50.25:056][344]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.11-01.50.29:563][767]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.11-01.50.29:986][767]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 113 classes and 0 folders.
+[2018.02.11-01.50.30:819][767]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.11-01.50.30:913][767]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.11-01.50.31:278][768]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.11-01.50.33:196][870]LogRenderer: Reallocating scene render targets to support 1144x712 Format 26 NumSamples 1 (Frame:1).
+[2018.02.11-01.50.42:376][417]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.11-01.51.08:306][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.08:307][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.08:310][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.08:310][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.08:311][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:311][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:315][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:315][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:315][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:315][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:318][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.08:320][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.08:320][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.08:321][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.08:321][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.08:321][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.08:321][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.08:322][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:326][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:327][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:327][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:327][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:327][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:327][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:327][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:327][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:344][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:344][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:344][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:344][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:345][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:349][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:349][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:350][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.08:350][ 56]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.17:744][653]BlueprintLog: New page: Compile BP_MotionController
+[2018.02.11-01.51.18:312][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.18:312][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.18:315][653]LogActor: Warning: BP_ButtonParent_C /Engine/Transient.World_1:PersistentLevel.ChildActor1_GEN_VARIABLE_BP_ButtonParent_C_CAT_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.02.11-01.51.18:422][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:422][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:423][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:423][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:426][653]LogActor: Warning: BP_ButtonParent_C /Engine/Transient.World_0:PersistentLevel.ChildActor1_GEN_VARIABLE_BP_ButtonParent_C_CAT_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.02.11-01.51.18:554][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.18:558][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.18:558][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.18:558][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.18:558][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.18:558][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.18:558][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.51.18:559][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:564][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:564][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:564][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:564][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:566][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:566][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:566][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:567][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:571][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.51.18:571][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.51.18:571][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.51.18:641][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:641][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:641][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:641][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:641][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:646][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:646][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:646][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.18:646][653]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:422][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:425][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:425][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:425][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:425][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:426][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:426][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:426][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:426][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:427][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.51.34:430][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.51.34:430][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.51.34:430][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.51.34:430][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.51.34:430][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.51.34:430][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.51.34:534][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:535][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:535][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:535][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:535][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:539][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:540][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:540][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.51.34:540][678]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:913][587]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:918][587]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:918][587]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:918][587]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:918][587]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:936][588]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:941][588]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:941][588]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:941][588]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:942][588]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:962][589]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:971][589]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:971][589]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:972][589]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:972][589]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:989][590]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:993][590]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:993][590]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:993][590]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.04:993][590]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:009][591]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:014][591]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:014][591]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:015][591]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:015][591]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:031][592]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:036][592]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:036][592]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:036][592]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:036][592]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:051][593]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:056][593]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:056][593]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:056][593]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:056][593]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:077][594]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:081][594]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:081][594]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:082][594]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:082][594]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:099][595]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:103][595]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:103][595]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:104][595]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:104][595]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:186][600]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:191][600]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:192][600]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:192][600]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:192][600]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:211][601]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:215][601]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:215][601]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:216][601]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:216][601]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:231][602]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:236][602]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:236][602]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:236][602]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:237][602]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:325][608]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:330][608]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:330][608]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:331][608]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:331][608]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:345][609]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:349][609]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:349][609]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:350][609]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:350][609]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:366][610]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:370][610]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:370][610]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:371][610]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:371][610]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:417][613]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:422][613]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:422][613]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:423][613]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:423][613]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:442][614]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:446][614]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:446][614]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:446][614]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:446][614]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:461][615]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:466][615]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:466][615]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:466][615]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:466][615]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:654][627]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:659][627]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:659][627]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:659][627]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:659][627]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:702][628]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:707][628]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:707][628]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:707][628]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:707][628]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:725][629]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:730][629]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:730][629]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:730][629]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:730][629]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:751][630]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:755][630]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:755][630]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:756][630]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:756][630]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:786][631]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:790][631]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:790][631]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:790][631]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:790][631]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:821][633]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:825][633]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:825][633]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:826][633]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:826][633]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:842][634]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:847][634]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:847][634]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:847][634]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:847][634]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:862][635]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:868][635]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:868][635]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:868][635]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:868][635]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:893][636]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:902][636]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:902][636]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:903][636]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:903][636]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:918][637]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:922][637]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:922][637]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:922][637]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:922][637]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:938][638]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:942][638]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:942][638]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:943][638]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.05:943][638]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:245][919]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:249][919]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:249][919]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:250][919]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:250][919]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:267][920]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:271][920]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:271][920]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:272][920]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:272][920]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:288][921]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:293][921]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:293][921]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:293][921]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:293][921]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:417][929]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:429][929]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:429][929]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:431][929]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:431][929]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:446][930]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:450][930]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:450][930]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:450][930]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:451][930]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:543][936]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:548][936]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:548][936]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:549][936]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:549][936]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:565][937]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:570][937]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:570][937]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:570][937]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:570][937]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:585][938]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:590][938]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:590][938]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:591][938]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.10:591][938]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:237][174]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:241][174]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:241][174]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:242][174]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:242][174]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:287][177]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:292][177]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:292][177]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:293][177]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:293][177]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:393][184]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:402][184]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:402][184]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:403][184]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:403][184]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:419][185]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:423][185]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:423][185]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:424][185]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:424][185]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:440][186]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:445][186]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:445][186]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:445][186]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:445][186]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:508][190]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:513][190]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:513][190]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:513][190]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:513][190]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:528][191]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:532][191]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:532][191]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:533][191]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:533][191]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:549][192]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:553][192]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:553][192]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:554][192]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:554][192]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:597][195]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:603][195]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:603][195]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:603][195]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:603][195]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:620][196]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:624][196]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:624][196]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:624][196]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:624][196]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:640][197]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:645][197]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:645][197]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:646][197]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:646][197]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:660][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:665][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:665][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:665][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:665][198]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:682][199]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:686][199]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:686][199]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:687][199]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:687][199]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:702][200]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:708][200]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:708][200]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:708][200]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:708][200]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:725][201]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:730][201]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:730][201]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:731][201]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:731][201]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:752][202]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:757][202]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:757][202]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:757][202]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:757][202]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:772][203]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:777][203]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:777][203]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:778][203]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:778][203]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:793][204]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:798][204]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:798][204]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:798][204]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:798][204]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:815][205]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:819][205]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:819][205]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:819][205]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:819][205]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:834][206]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:839][206]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:839][206]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:840][206]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:840][206]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:855][207]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:859][207]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:859][207]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:860][207]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.14:860][207]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:234][600]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:238][600]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:239][600]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:239][600]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:240][600]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:256][601]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:261][601]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:261][601]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:261][601]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:262][601]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:281][602]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:286][602]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:286][602]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:286][602]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:287][602]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:302][603]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:307][603]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:307][603]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:308][603]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:308][603]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:324][604]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:329][604]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:329][604]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:330][604]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:330][604]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:360][606]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:364][606]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:364][606]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:364][606]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:364][606]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:383][607]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:388][607]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:388][607]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:389][607]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:389][607]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:404][608]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:409][608]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:409][608]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:410][608]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.21:410][608]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.25:975][887]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.25:980][887]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.25:980][887]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.25:980][887]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.25:980][887]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.25:999][888]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:005][888]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:005][888]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:005][888]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:006][888]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:021][889]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:026][889]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:026][889]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:027][889]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:027][889]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:046][890]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:052][890]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:052][890]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:052][890]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:052][890]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:087][892]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:092][892]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:092][892]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:092][892]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:092][892]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:111][893]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:115][893]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:115][893]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:116][893]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:116][893]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:135][894]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:139][894]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:139][894]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:139][894]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:140][894]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:163][895]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:168][895]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:168][895]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:169][895]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:169][895]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:185][896]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:189][896]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:189][896]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:189][896]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:189][896]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:206][897]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:211][897]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:211][897]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:211][897]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:211][897]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:226][898]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:233][898]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:233][898]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:233][898]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:233][898]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:248][899]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:253][899]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:253][899]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:253][899]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:253][899]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:276][900]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:281][900]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:281][900]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:281][900]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:281][900]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:299][901]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:303][901]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:303][901]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:303][901]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:304][901]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:319][902]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:324][902]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:324][902]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:325][902]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:325][902]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:477][912]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:481][912]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:481][912]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:481][912]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:481][912]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:500][913]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:505][913]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:505][913]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:506][913]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:506][913]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:522][914]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:527][914]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:527][914]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:528][914]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:528][914]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:545][915]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:549][915]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:549][915]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:550][915]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:550][915]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:649][921]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:654][921]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:654][921]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:655][921]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:655][921]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:672][922]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:677][922]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:677][922]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:677][922]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.26:677][922]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:299][957]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:303][957]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:303][957]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:304][957]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:304][957]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:322][958]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:327][958]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:327][958]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:328][958]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:328][958]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:342][959]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:349][959]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:349][959]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:349][959]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:349][959]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:364][960]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:368][960]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:368][960]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:369][960]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:369][960]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:384][961]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:388][961]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:388][961]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:389][961]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:389][961]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:471][967]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:476][967]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:476][967]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:476][967]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:476][967]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:493][968]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:497][968]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:497][968]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:497][968]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:497][968]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:730][983]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:735][983]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:735][983]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:736][983]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:736][983]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:752][984]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:757][984]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:757][984]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:757][984]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.27:757][984]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:693][237]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:699][237]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:699][237]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:700][237]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:700][237]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:718][238]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:723][238]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:723][238]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:723][238]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:723][238]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:740][239]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:745][239]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:745][239]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:746][239]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:746][239]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:763][240]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:769][240]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:769][240]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:770][240]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:770][240]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:785][241]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:789][241]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:790][241]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:790][241]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:790][241]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:806][242]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:811][242]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:811][242]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:811][242]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.31:812][242]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:018][255]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:023][255]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:023][255]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:023][255]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:023][255]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:056][257]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:061][257]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:061][257]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:061][257]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:061][257]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:128][261]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:133][261]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:133][261]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:133][261]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:133][261]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:150][262]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:155][262]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:155][262]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:156][262]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:156][262]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:171][263]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:176][263]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:176][263]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:177][263]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:177][263]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:215][265]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:220][265]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:220][265]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:220][265]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:220][265]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:265][268]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:269][268]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:269][268]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:269][268]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:269][268]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:286][269]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:290][269]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:291][269]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:291][269]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:291][269]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:306][270]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:312][270]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:312][270]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:312][270]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:313][270]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:327][271]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:331][271]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:331][271]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:331][271]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.32:331][271]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.41:128][840]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.41:132][840]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.41:132][840]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.41:132][840]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.41:132][840]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.41:133][840]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.41:133][840]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.41:133][840]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.41:133][840]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.52.41:134][840]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.52.41:137][840]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.52.41:137][840]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.52.41:137][840]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.52.41:137][840]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.52.41:137][840]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.52.41:138][840]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.54.00:157][986]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.00:161][986]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.00:161][986]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.00:162][986]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.00:162][986]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.00:162][986]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.00:162][986]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.00:162][986]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.00:163][986]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.00:163][986]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.54.00:166][986]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.54.00:166][986]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.54.00:166][986]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.54.00:167][986]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.54.00:167][986]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.54.00:167][986]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.54.51:946][256]BlueprintLog: New page: Compile BP_MotionController
+[2018.02.11-01.54.52:587][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.52:587][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.52:588][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.52:588][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.52:591][256]LogActor: Warning: BP_ButtonParent_C /Engine/Transient.World_0:PersistentLevel.ChildActor1_GEN_VARIABLE_BP_ButtonParent_C_CAT_19 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.02.11-01.54.52:702][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.54.52:702][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.54.52:705][256]LogActor: Warning: BP_ButtonParent_C /Engine/Transient.World_1:PersistentLevel.ChildActor1_GEN_VARIABLE_BP_ButtonParent_C_CAT_15 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2018.02.11-01.54.52:873][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.52:879][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.52:879][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.52:879][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.52:879][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.52:879][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.52:879][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.52:879][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.52:880][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_1)
+[2018.02.11-01.54.52:880][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.54.52:886][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.54.52:886][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.54.52:887][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.54.52:887][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.54.52:887][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.54.52:887][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_28)
+[2018.02.11-01.54.52:890][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_30)
+[2018.02.11-01.54.52:890][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_30)
+[2018.02.11-01.54.52:890][256]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_30)
+[2018.02.11-01.55.07:564][419]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.11-01.55.11:139][419]LogSavePackage: Save=532.25ms
+[2018.02.11-01.55.11:139][419]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/Unreal Projects/havr/Saved/BP_MotionControllerBFC96B254B3C8D1BD2A5F9AAE39B57C6.tmp' to '../../../../../../Users/Brad/Documents/Unreal Projects/havr/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2018.02.11-01.55.11:143][419]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/Unreal Projects/havr/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2018.02.11-01.55.11:146][419]Cmd: MAP LOAD FILE="../../../../../../Users/Brad/Documents/Unreal Projects/havr/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.11-01.55.11:146][419]LightingResults: New page: Lighting Build
+[2018.02.11-01.55.11:147][419]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2018.02.11-01.55.11:148][419]MapCheck: New page: Map Check
+[2018.02.11-01.55.11:148][419]LightingResults: New page: Lighting Build
+[2018.02.11-01.55.11:189][419]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.11-01.55.11:271][419]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.11-01.55.11:394][419]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 122.228ms to complete.
+[2018.02.11-01.55.11:395][419]LogFileHelpers: Loading map 'MotionControllerMap' took 0.251
+[2018.02.11-01.55.14:206][617]LogTemp: Repeating last play command: VR Preview
+[2018.02.11-01.55.14:333][617]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.11-01.55.14:334][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.11-01.55.14:334][617]LogHMD: Initializing OVRPlugin session
+[2018.02.11-01.55.14:443][617]PIE: New page: PIE session: MotionControllerMap (Feb 10, 2018, 1:55:14 PM)
+[2018.02.11-01.55.14:444][617]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.11-01.55.14:454][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010124s)
+[2018.02.11-01.55.14:455][617]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.11-01.55.14:455][617]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2018.02.11-01.55.14:456][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.011845s)
+[2018.02.11-01.55.14:491][617]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.11-01.55.14:542][617]LogInit: FAudioDevice initialized.
+[2018.02.11-01.55.14:639][617]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.02.11-01.55.14:679][617]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.11-01.55.14:679][617]LogLoad: Game class is 'GameModeBase'
+[2018.02.11-01.55.14:692][617]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.10-19.55.14
+[2018.02.11-01.55.14:695][617]LogWorld: Bringing up level for play took: 0.006310
+[2018.02.11-01.55.14:855][617]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2018.02.11-01.55.14:862][617]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.55.14:862][617]LogSkinnedMeshComp: Warning: GetSocketByName(index_03_r): No SkeletalMesh for Component(HandMesh) Actor(BP_MotionController_C_0)
+[2018.02.11-01.55.14:863][617]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.11-01.55.14:863][617]LogOutputDevice: Warning: 
+
+Script Stack:
+BP_MotionController_C.SetupRoomScaleOutline
+BP_MotionController_C.ExecuteUbergraph_BP_MotionController
+BP_MotionController_C.ReceiveBeginPlay
+MotionControllerPawn_C.ExecuteUbergraph_MotionControllerPawn
+MotionControllerPawn_C.ReceiveBeginPlay
+
+[2018.02.11-01.55.15:026][617]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.163 s
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: 
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Core\Private\Math\Matrix.cpp] [Line: 8]
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: Stack: 
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000012813E36
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000001259C2D2
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000125B4746
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000001253E1A1
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000CBE74EB
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000D53ABD3
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000D5706C4
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023CFE944
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023EBDDA4
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023ED3101
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023ED52E2
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023EBE7AE
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023ED52E2
+[2018.02.11-01.55.15:026][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023EBE7AE
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023ED52E2
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023CFE944
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023ED4675
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000CCCB247
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000DE75B47
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000CC8DC2F
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000CC9ABCB
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000CCC6959
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000CCA7E03
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000D3CBE89
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000CD005B6
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023CFE944
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023EBDDA4
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023ED3101
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023EFCDA4
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023ED52E2
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023EBE7AE
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023ED52E2
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023CFE944
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000023ED4675
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000CCCB247
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000DE75B47
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000CC8DC2F
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000CC9ABCB
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000DE5A871
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000D3D4991
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000DE4601E
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000000D3F7CF6
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000000BC2AE6C
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000000BC5584E
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000000BC71394
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000000B6DBDF8
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000000BF6D646
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor.exe!0x00000000FD97534A
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor.exe!0x00000000FD983970
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor.exe!0x00000000FD9839EA
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor.exe!0x00000000FD9902D9
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: UE4Editor.exe!0x00000000FD991C47
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: KERNEL32.DLL!0x000000005D011FE4
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: ntdll.dll!0x000000005F90EFB1
+[2018.02.11-01.55.15:027][617]LogOutputDevice: Error: 
+[2018.02.11-01.55.15:035][617]LogStats:                SubmitErrorReport -  0.000 s
