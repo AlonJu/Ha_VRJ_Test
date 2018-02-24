@@ -574,3 +574,575 @@ MotionControllerPawn_C.ReceiveBeginPlay
 [2018.02.24-20.10.58:083][620]LogSavePackage: Save=253.00ms
 [2018.02.24-20.10.58:083][620]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/MotionControllerPawn92952DB2498B25AB8C32B7A066981CB9.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
 [2018.02.24-20.10.58:087][620]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.02.24-20.19.17:555][442]LogTemp: Repeating last play command: VR Preview
+[2018.02.24-20.19.17:581][442]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-20.19.17:582][442]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.24-20.19.17:691][442]LogPlayLevel: [PlayLevel] Compiling BP_ButtonParent before play...
+[2018.02.24-20.19.17:722][442]LogPlayLevel: [PlayLevel]   Compiling BP_MotionController as a dependent...
+[2018.02.24-20.19.17:812][442]LogPlayLevel: [PlayLevel]   Compiling BP_Create_Structure as a dependent...
+[2018.02.24-20.19.17:816][442]LogPlayLevel: [PlayLevel]   Compiling MotionControllerPawn as a dependent...
+[2018.02.24-20.19.18:990][442]LogPlayLevel: PlayLevel: Blueprint regeneration took 1407 ms (4 blueprints)
+[2018.02.24-20.19.18:990][442]LogHMD: Initializing OVRPlugin session
+[2018.02.24-20.19.19:011][442]PIE: New page: PIE session: HAVR_MENU_SUCCESS (Feb 24, 2018, 8:19:19 AM)
+[2018.02.24-20.19.19:011][442]LogPlayLevel: Creating play world package: /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS
+[2018.02.24-20.19.19:066][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054825s)
+[2018.02.24-20.19.19:067][442]LogAIModule: Creating AISystem for world HAVR_MENU_SUCCESS
+[2018.02.24-20.19.19:067][442]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2018.02.24-20.19.19:067][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS to /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS (0.056066s)
+[2018.02.24-20.19.19:108][442]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.24-20.19.19:123][442]LogInit: FAudioDevice initialized.
+[2018.02.24-20.19.19:215][442]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.02.24-20.19.19:243][442]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.24-20.19.19:243][442]LogLoad: Game class is 'GameModeBase'
+[2018.02.24-20.19.19:246][442]LogWorld: Bringing World /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS up for play (max tick rate 0) at 2018.02.24-14.19.19
+[2018.02.24-20.19.19:246][442]LogWorld: Bringing up level for play took: 0.002489
+[2018.02.24-20.19.19:251][442]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-20.19.19:251][442]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-20.19.19:251][442]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-20.19.19:251][442]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-20.19.19:251][442]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.02.24-20.19.19:255][442]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-20.19.19:255][442]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-20.19.19:255][442]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-20.19.19:255][442]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-20.19.19:255][442]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.02.24-20.19.19:264][442]PIE: Play in editor start time for /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS 1.148
+[2018.02.24-20.19.19:264][442]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-20.19.56:654][744]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.19.57:476][818]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.19.58:921][948]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.20.00:833][120]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.20.03:545][364]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.20.05:422][533]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.20.06:689][647]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.20.08:255][787]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.20.20:744][910]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.20.29:034][648]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.20.30:700][798]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.20.33:078][ 12]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.20.55:505][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-20.20.55:646][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-20.22.33:567][754]LogSavePackage: Save=146.48ms
+[2018.02.24-20.22.33:567][754]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/HAVR_MENU_SUCCESS_Auto1236AA6B54C2CBE1B2BE1278BA348A6C7.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS_Auto1.umap'
+[2018.02.24-20.22.33:569][754]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS_Auto1.umap
+[2018.02.24-20.22.33:575][754]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VR_MENU/HAVR_MENU_SUCCESS' took 0.221
+[2018.02.24-20.22.33:575][754]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.221
+[2018.02.24-20.22.33:586][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData] ([1] browsable assets)...
+[2018.02.24-20.22.33:586][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData]
+[2018.02.24-20.22.33:636][754]Error: Cannot save asset '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS./Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS./Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS./Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2018.02.24-20.22.33:636][754]Warning: Asset '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS./Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2018.02.24-20.24.19:828][929]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.02.24-20.28.14:662][234]LogEditorTransaction: Undo Clicking on Actors
+[2018.02.24-20.28.44:711][932]BlueprintLog: New page: Compile BP_Create_Structure
+[2018.02.24-20.28.45:285][932]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_2.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-20.28.45:294][932]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_16.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-20.33.17:288][627]BlueprintLog: New page: Compile BP_Create_Structure
+[2018.02.24-20.33.17:751][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_6.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-20.33.17:756][627]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_8.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-20.33.23:883][199]LogTemp: Repeating last play command: VR Preview
+[2018.02.24-20.33.23:905][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-20.33.23:905][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-20.33.23:905][199]LogHMD: Initializing OVRPlugin session
+[2018.02.24-20.33.23:922][199]PIE: New page: PIE session: HAVR_MENU_SUCCESS (Feb 24, 2018, 8:33:23 AM)
+[2018.02.24-20.33.23:922][199]LogPlayLevel: Creating play world package: /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS
+[2018.02.24-20.33.23:928][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006193s)
+[2018.02.24-20.33.23:929][199]LogAIModule: Creating AISystem for world HAVR_MENU_SUCCESS
+[2018.02.24-20.33.23:929][199]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2018.02.24-20.33.23:929][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS to /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS (0.007204s)
+[2018.02.24-20.33.23:963][199]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.24-20.33.23:972][199]LogInit: FAudioDevice initialized.
+[2018.02.24-20.33.24:062][199]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.02.24-20.33.24:089][199]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.24-20.33.24:089][199]LogLoad: Game class is 'GameModeBase'
+[2018.02.24-20.33.24:092][199]LogWorld: Bringing World /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS up for play (max tick rate 0) at 2018.02.24-14.33.24
+[2018.02.24-20.33.24:092][199]LogWorld: Bringing up level for play took: 0.002247
+[2018.02.24-20.33.24:097][199]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-20.33.24:097][199]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-20.33.24:097][199]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-20.33.24:097][199]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-20.33.24:097][199]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.02.24-20.33.24:101][199]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-20.33.24:101][199]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-20.33.24:101][199]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-20.33.24:101][199]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-20.33.24:101][199]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.02.24-20.33.24:106][199]PIE: Play in editor start time for /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS -0.009
+[2018.02.24-20.33.24:116][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-20.33.37:643][546]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.33.37:645][546]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2018.02.24-20.33.49:788][631]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.33.49:789][631]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2018.02.24-20.33.51:376][774]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.33.51:377][774]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2018.02.24-20.33.52:498][873]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.33.52:500][873]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2018.02.24-20.33.54:365][ 41]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.33.54:367][ 41]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2018.02.24-20.33.55:266][122]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.33.55:267][122]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2018.02.24-20.33.56:876][267]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.33.56:878][267]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2018.02.24-20.33.57:718][336]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.33.57:720][336]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2018.02.24-20.33.58:353][393]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.33.58:355][393]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2018.02.24-20.33.59:309][479]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.33.59:310][479]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2018.02.24-20.34.00:243][563]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-20.34.00:244][563]LogAudio: Warning: Detected orphaned looping sound 'Starter_Music01'.
+[2018.02.24-20.34.06:158][ 95]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-20.34.06:315][ 95]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-20.34.18:478][182]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.02.24-20.34.20:938][363]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.02.24-20.40.50:850][322]LogSavePackage: Save=230.40ms
+[2018.02.24-20.40.50:851][322]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/HAVR_MENU_SUCCESS_Auto10A498DF3437635C862F0D6B1713E6530.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS_Auto1.umap'
+[2018.02.24-20.40.50:859][322]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS_Auto1.umap
+[2018.02.24-20.40.50:864][322]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VR_MENU/HAVR_MENU_SUCCESS' took 0.545
+[2018.02.24-20.40.50:864][322]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.545
+[2018.02.24-20.40.50:866][322]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData] ([1] browsable assets)...
+[2018.02.24-20.40.50:866][322]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData]
+[2018.02.24-20.40.50:893][322]Error: Cannot save asset '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS./Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS./Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS./Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2018.02.24-20.40.50:893][322]Warning: Asset '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS./Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2018.02.24-20.49.04:492][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewForceFeedbackEffect" FILE="../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Content/NewForceFeedbackEffect.uasset" SILENT=true
+[2018.02.24-20.49.04:500][596]LogSavePackage: Save=5.08ms
+[2018.02.24-20.49.04:500][596]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/NewForceFeedbackEffectE0EB8B994DD2C6DA5D7B0BB63F6DEDBF.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Content/NewForceFeedbackEffect.uasset'
+[2018.02.24-20.49.04:507][596]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Content/NewForceFeedbackEffect.uasset
+[2018.02.24-20.49.16:724][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_MENU/NewForceFeedbackEffect" FILE="../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Content/VR_MENU/NewForceFeedbackEffect.uasset" SILENT=true
+[2018.02.24-20.49.16:731][877]LogSavePackage: Save=4.68ms
+[2018.02.24-20.49.16:731][877]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/NewForceFeedbackEffectE334F6314A3BEC8CCB87049065C2DF66.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Content/VR_MENU/NewForceFeedbackEffect.uasset'
+[2018.02.24-20.49.16:734][877]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Content/VR_MENU/NewForceFeedbackEffect.uasset
+[2018.02.24-20.49.26:622][926]LogSavePackage: Save=5.72ms
+[2018.02.24-20.49.26:622][926]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/NewForceFeedbackEffect295E800B48EAF849188C8A8853145B21.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/NewForceFeedbackEffect.uasset'
+[2018.02.24-20.49.26:626][926]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/NewForceFeedbackEffect.uasset
+[2018.02.24-20.52.05:913][229]LogSavePackage: Save=138.11ms
+[2018.02.24-20.52.05:913][229]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/HAVR_MENU_SUCCESS_Auto1D61CFBD64F3C428248B179BDFA16B387.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS_Auto1.umap'
+[2018.02.24-20.52.05:917][229]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS_Auto1.umap
+[2018.02.24-20.52.05:922][229]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VR_MENU/HAVR_MENU_SUCCESS' took 0.243
+[2018.02.24-20.52.05:922][229]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.243
+[2018.02.24-20.52.05:929][229]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData] ([1] browsable assets)...
+[2018.02.24-20.52.05:929][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData]
+[2018.02.24-20.52.05:955][229]Error: Cannot save asset '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS./Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS./Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS./Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2018.02.24-20.52.05:955][229]Warning: Asset '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS./Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2018.02.24-20.56.57:122][376]BlueprintLog: New page: Compile BP_MotionController
+[2018.02.24-20.57.03:511][661]LogTemp: Repeating last play command: VR Preview
+[2018.02.24-20.57.03:532][661]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-20.57.03:532][661]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.24-20.57.03:536][661]LogPlayLevel: [PlayLevel] Compiling BP_Create_Structure before play...
+[2018.02.24-20.57.03:541][661]LogBlueprint: Error: [Compiler BP_Create_Structure] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2018.02.24-20.57.03:543][661]LogBlueprint: Warning: [Compiler BP_Create_Structure] [3090.53] Compile of BP_Create_Structure failed. 1 Fatal Issue(s) 0 Warning(s) [in 7 ms] (/Game/VR_MENU/MenuBP_3D/BP_Create_Structure.BP_Create_Structure)
+[2018.02.24-20.57.03:657][661]LogPlayLevel: PlayLevel: Blueprint regeneration took 125 ms (1 blueprints)
+[2018.02.24-20.57.03:658][661]BlueprintLog: Blueprint BP_Create_Structure failed to compile
+[2018.02.24-21.04.18:709][316]BlueprintLog: New page: Compile BP_Create_Structure
+[2018.02.24-21.04.18:717][316]LogBlueprint: Error: [Compiler BP_Create_Structure] The type of  Object  is undetermined.  Connect something to  Cast To BP_MotionController  to imply a specific type.
+[2018.02.24-21.04.18:718][316]LogBlueprint: Error: [Compiler BP_Create_Structure] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2018.02.24-21.04.18:833][316]LogBlueprint: Warning: [Compiler BP_Create_Structure] [3525.82] Compile of BP_Create_Structure failed. 2 Fatal Issue(s) 0 Warning(s) [in 123 ms] (/Game/VR_MENU/MenuBP_3D/BP_Create_Structure.BP_Create_Structure)
+[2018.02.24-21.04.53:194][657]BlueprintLog: New page: Compile BP_Create_Structure
+[2018.02.24-21.04.53:203][657]LogBlueprint: Error: [Compiler BP_Create_Structure] This blueprint (self) is not a BP_MotionController_C, therefore ' Target ' must have a connection.
+[2018.02.24-21.04.53:314][657]LogBlueprint: Warning: [Compiler BP_Create_Structure] [3560.30] Compile of BP_Create_Structure failed. 1 Fatal Issue(s) 0 Warning(s) [in 119 ms] (/Game/VR_MENU/MenuBP_3D/BP_Create_Structure.BP_Create_Structure)
+[2018.02.24-21.04.58:419][978]BlueprintLog: New page: Compile BP_Create_Structure
+[2018.02.24-21.04.58:559][978]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_60.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.04.58:563][978]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_62.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.04.58:569][978]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_64.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.05.05:378][478]LogTemp: Repeating last play command: VR Preview
+[2018.02.24-21.05.05:401][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.05.05:402][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-21.05.05:402][478]LogHMD: Initializing OVRPlugin session
+[2018.02.24-21.05.05:418][478]PIE: New page: PIE session: HAVR_MENU_SUCCESS (Feb 24, 2018, 9:05:05 AM)
+[2018.02.24-21.05.05:418][478]LogPlayLevel: Creating play world package: /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS
+[2018.02.24-21.05.05:426][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007470s)
+[2018.02.24-21.05.05:426][478]LogAIModule: Creating AISystem for world HAVR_MENU_SUCCESS
+[2018.02.24-21.05.05:426][478]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2018.02.24-21.05.05:427][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS to /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS (0.008529s)
+[2018.02.24-21.05.05:461][478]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.24-21.05.05:470][478]LogInit: FAudioDevice initialized.
+[2018.02.24-21.05.05:566][478]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.02.24-21.05.05:597][478]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.24-21.05.05:597][478]LogLoad: Game class is 'GameModeBase'
+[2018.02.24-21.05.05:600][478]LogWorld: Bringing World /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS up for play (max tick rate 0) at 2018.02.24-15.05.05
+[2018.02.24-21.05.05:601][478]LogWorld: Bringing up level for play took: 0.002564
+[2018.02.24-21.05.05:605][478]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.05.05:605][478]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.05.05:605][478]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.05.05:605][478]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.05.05:605][478]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.02.24-21.05.05:609][478]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.05.05:609][478]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.05.05:609][478]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.05.05:609][478]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.05.05:609][478]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.02.24-21.05.05:622][478]PIE: Play in editor start time for /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS -0.494
+[2018.02.24-21.05.05:622][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.05.19:608][695]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.05.21:054][825]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.05.22:820][982]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.05.24:985][177]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.05.26:207][286]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.05.27:364][390]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.05.33:643][953]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.05.34:420][ 23]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.05.35:728][130]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.05.41:276][628]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.05.41:448][628]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.05.54:289][376]BlueprintLog: New page: Compile BP_Create_Structure
+[2018.02.24-21.05.54:989][376]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_2.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.05.54:996][376]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_44.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.05.55:004][376]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_46.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.06.00:517][701]LogTemp: Repeating last play command: VR Preview
+[2018.02.24-21.06.00:547][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.06.00:547][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-21.06.00:547][701]LogHMD: Initializing OVRPlugin session
+[2018.02.24-21.06.00:582][701]PIE: New page: PIE session: HAVR_MENU_SUCCESS (Feb 24, 2018, 9:06:00 AM)
+[2018.02.24-21.06.00:583][701]LogPlayLevel: Creating play world package: /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS
+[2018.02.24-21.06.00:589][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006518s)
+[2018.02.24-21.06.00:590][701]LogAIModule: Creating AISystem for world HAVR_MENU_SUCCESS
+[2018.02.24-21.06.00:590][701]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2018.02.24-21.06.00:591][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS to /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS (0.008342s)
+[2018.02.24-21.06.00:636][701]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.24-21.06.00:647][701]LogInit: FAudioDevice initialized.
+[2018.02.24-21.06.00:744][701]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.02.24-21.06.00:775][701]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.24-21.06.00:775][701]LogLoad: Game class is 'GameModeBase'
+[2018.02.24-21.06.00:777][701]LogWorld: Bringing World /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS up for play (max tick rate 0) at 2018.02.24-15.06.00
+[2018.02.24-21.06.00:778][701]LogWorld: Bringing up level for play took: 0.002537
+[2018.02.24-21.06.00:783][701]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.06.00:784][701]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.06.00:784][701]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.06.00:784][701]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.06.00:784][701]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=nan Y=nan Z=70.000). Resetting to 1.f.
+[2018.02.24-21.06.00:789][701]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.06.00:789][701]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.06.00:789][701]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.06.00:789][701]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.06.00:789][701]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=nan Y=nan Z=70.000). Resetting to 1.f.
+[2018.02.24-21.06.00:806][701]PIE: Play in editor start time for /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS 0.69
+[2018.02.24-21.06.00:807][701]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.06.12:312][703]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.06.13:298][790]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.06.14:865][931]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.06.16:411][ 70]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.06.17:888][203]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.06.18:556][263]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.06.20:044][397]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.06.21:167][498]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.06.22:366][606]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.06.24:844][829]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.06.25:956][929]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.06.29:823][262]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.06.29:994][262]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.06.36:286][621]BlueprintLog: New page: Compile BP_Create_Structure
+[2018.02.24-21.06.37:001][621]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_6.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.06.37:007][621]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_44.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.06.37:022][621]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_46.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.06.51:798][485]BlueprintLog: New page: Compile BP_Create_Structure
+[2018.02.24-21.06.52:525][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_6.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.06.52:529][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_44.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.06.52:537][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_46.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.06.54:628][603]LogTemp: Repeating last play command: VR Preview
+[2018.02.24-21.06.54:662][603]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.06.54:662][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-21.06.54:662][603]LogHMD: Initializing OVRPlugin session
+[2018.02.24-21.06.54:687][603]PIE: New page: PIE session: HAVR_MENU_SUCCESS (Feb 24, 2018, 9:06:54 AM)
+[2018.02.24-21.06.54:687][603]LogPlayLevel: Creating play world package: /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS
+[2018.02.24-21.06.54:696][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008659s)
+[2018.02.24-21.06.54:697][603]LogAIModule: Creating AISystem for world HAVR_MENU_SUCCESS
+[2018.02.24-21.06.54:698][603]LogPlayLevel: PIE: World Init took: (0.001476s)
+[2018.02.24-21.06.54:698][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS to /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS (0.010441s)
+[2018.02.24-21.06.54:744][603]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.24-21.06.54:758][603]LogInit: FAudioDevice initialized.
+[2018.02.24-21.06.54:859][603]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.02.24-21.06.54:894][603]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.24-21.06.54:894][603]LogLoad: Game class is 'GameModeBase'
+[2018.02.24-21.06.54:897][603]LogWorld: Bringing World /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS up for play (max tick rate 0) at 2018.02.24-15.06.54
+[2018.02.24-21.06.54:898][603]LogWorld: Bringing up level for play took: 0.002525
+[2018.02.24-21.06.54:903][603]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.06.54:904][603]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.06.54:904][603]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.06.54:904][603]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.06.54:904][603]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=nan Y=nan Z=70.000). Resetting to 1.f.
+[2018.02.24-21.06.54:908][603]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.06.54:908][603]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.06.54:908][603]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.06.54:908][603]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.06.54:908][603]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=nan Y=nan Z=70.000). Resetting to 1.f.
+[2018.02.24-21.06.54:927][603]PIE: Play in editor start time for /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS 0.811
+[2018.02.24-21.06.54:927][603]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.07.11:192][ 13]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.14:667][321]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.16:045][445]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.17:267][555]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.18:512][667]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.19:345][742]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.20:813][874]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.25:202][269]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.29:524][658]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.31:335][821]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.31:991][880]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.32:536][929]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.33:891][ 51]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.35:801][222]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.37:935][413]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.39:681][570]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.41:248][711]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.42:403][815]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.43:253][889]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.43:936][951]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.44:980][ 45]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.07.45:658][106]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.08.37:246][651]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.08.37:981][716]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.08.38:625][774]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.08.40:526][945]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.08.50:262][811]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.08.51:407][914]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.08.51:583][914]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.09.16:681][414]LogSavePackage: Save=98.17ms
+[2018.02.24-21.09.16:681][414]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/HAVR_MENU_SUCCESS_Auto1FCA3D87540161D2D704AB49884364A8A.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS_Auto1.umap'
+[2018.02.24-21.09.16:683][414]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS_Auto1.umap
+[2018.02.24-21.09.16:685][414]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VR_MENU/HAVR_MENU_SUCCESS' took 0.152
+[2018.02.24-21.09.16:685][414]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.152
+[2018.02.24-21.09.16:688][414]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2018.02.24-21.09.16:708][414]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2018.02.24-21.09.16:708][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2018.02.24-21.09.17:204][414]LogSavePackage: Save=468.83ms
+[2018.02.24-21.09.17:204][414]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/BP_MotionController_Auto1CC8E379C48242E975C42D58C00907350.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto1.uasset'
+[2018.02.24-21.09.17:206][414]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto1.uasset
+[2018.02.24-21.09.17:208][414]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData] ([1] browsable assets)...
+[2018.02.24-21.09.17:208][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData]
+[2018.02.24-21.09.17:232][414]Error: Cannot save asset '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS./Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData_Auto1.uasset' as conversion of long package name failed. Reason: 'FilenameToLongPackageName failed to convert '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS./Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData_Auto1.uasset'. Attempt result was '/Temp/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS./Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData_Auto1', but the path contains illegal characters '.''.
+[2018.02.24-21.09.17:233][414]Warning: Asset '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/HAVR_MENU_SUCCESS./Game/VR_MENU/HAVR_MENU_SUCCESS_BuiltData_Auto1.uasset' is not allowed to save (see log for reason)
+[2018.02.24-21.14.28:560][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_61.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.14.28:565][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_63.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.14.28:571][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_65.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.14.36:797][461]BlueprintLog: New page: Compile BP_ButtonParent
+[2018.02.24-21.14.38:654][461]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_30.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.14.38:663][461]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_32.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.14.38:671][461]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_44.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.14.42:562][629]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.24-21.14.42:662][629]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.24-21.14.44:957][769]LogTemp: Repeating last play command: VR Preview
+[2018.02.24-21.14.44:991][769]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.14.44:991][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-21.14.44:991][769]LogHMD: Initializing OVRPlugin session
+[2018.02.24-21.14.45:011][769]PIE: New page: PIE session: HAVR_MENU_SUCCESS (Feb 24, 2018, 9:14:45 AM)
+[2018.02.24-21.14.45:011][769]LogPlayLevel: Creating play world package: /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS
+[2018.02.24-21.14.45:019][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008499s)
+[2018.02.24-21.14.45:020][769]LogAIModule: Creating AISystem for world HAVR_MENU_SUCCESS
+[2018.02.24-21.14.45:021][769]LogPlayLevel: PIE: World Init took: (0.001337s)
+[2018.02.24-21.14.45:021][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS to /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS (0.010191s)
+[2018.02.24-21.14.45:070][769]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.24-21.14.45:081][769]LogInit: FAudioDevice initialized.
+[2018.02.24-21.14.45:175][769]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.02.24-21.14.45:203][769]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.24-21.14.45:203][769]LogLoad: Game class is 'GameModeBase'
+[2018.02.24-21.14.45:206][769]LogWorld: Bringing World /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS up for play (max tick rate 0) at 2018.02.24-15.14.45
+[2018.02.24-21.14.45:207][769]LogWorld: Bringing up level for play took: 0.003794
+[2018.02.24-21.14.45:213][769]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.14.45:213][769]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.14.45:213][769]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.14.45:213][769]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.14.45:213][769]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=nan Y=nan Z=70.000). Resetting to 1.f.
+[2018.02.24-21.14.45:218][769]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.14.45:218][769]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.14.45:218][769]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.14.45:219][769]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.14.45:219][769]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=nan Y=nan Z=70.000). Resetting to 1.f.
+[2018.02.24-21.14.45:230][769]PIE: Play in editor start time for /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS 1.113
+[2018.02.24-21.14.45:230][769]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.14.55:364][620]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.14.56:909][759]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.14.58:763][921]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.14.59:998][ 32]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.00:777][102]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.01:409][159]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.02:110][222]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.02:843][288]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.04:377][426]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.05:899][563]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.07:499][707]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.08:143][764]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.08:710][815]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.09:267][865]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.09:999][931]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.11:055][ 26]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.13:084][200]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.14:654][335]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.16:478][499]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.17:344][577]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.17:955][632]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.20:177][832]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.21:122][917]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.22:478][ 39]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.23:744][153]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.26:122][367]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.29:933][710]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.33:778][ 56]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.36:198][264]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.38:201][444]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.38:856][503]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.39:400][552]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.15.47:803][307]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.15.47:961][307]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.16.42:595][ 78]BlueprintLog: New page: Compile BP_ButtonParent
+[2018.02.24-21.16.50:390][435]LogTemp: Repeating last play command: VR Preview
+[2018.02.24-21.16.50:413][435]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.16.50:413][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-21.16.50:413][435]LogHMD: Initializing OVRPlugin session
+[2018.02.24-21.16.50:431][435]PIE: New page: PIE session: HAVR_MENU_SUCCESS (Feb 24, 2018, 9:16:50 AM)
+[2018.02.24-21.16.50:431][435]LogPlayLevel: Creating play world package: /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS
+[2018.02.24-21.16.50:441][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010214s)
+[2018.02.24-21.16.50:442][435]LogAIModule: Creating AISystem for world HAVR_MENU_SUCCESS
+[2018.02.24-21.16.50:442][435]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2018.02.24-21.16.50:443][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS to /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS (0.012035s)
+[2018.02.24-21.16.50:480][435]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.24-21.16.50:491][435]LogInit: FAudioDevice initialized.
+[2018.02.24-21.16.50:622][435]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.02.24-21.16.50:658][435]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.24-21.16.50:658][435]LogLoad: Game class is 'GameModeBase'
+[2018.02.24-21.16.50:661][435]LogWorld: Bringing World /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS up for play (max tick rate 0) at 2018.02.24-15.16.50
+[2018.02.24-21.16.50:662][435]LogWorld: Bringing up level for play took: 0.002583
+[2018.02.24-21.16.50:667][435]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.16.50:667][435]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.16.50:667][435]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.16.50:667][435]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.16.50:667][435]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=nan Y=nan Z=70.000). Resetting to 1.f.
+[2018.02.24-21.16.50:672][435]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.16.50:672][435]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.16.50:672][435]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.16.50:672][435]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.16.50:672][435]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=nan Y=nan Z=70.000). Resetting to 1.f.
+[2018.02.24-21.16.50:698][435]PIE: Play in editor start time for /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS 0.582
+[2018.02.24-21.16.50:699][435]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.18.27:177][ 33]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.18.27:362][ 33]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.18.30:009][162]LogEditorTransaction: Undo Create Pin Link
+[2018.02.24-21.18.30:572][181]LogEditorTransaction: Undo Delete current selection
+[2018.02.24-21.18.31:061][198]LogEditorTransaction: Undo Move Nodes
+[2018.02.24-21.18.31:543][216]LogEditorTransaction: Undo Delete current selection
+[2018.02.24-21.18.44:218][852]BlueprintLog: New page: Compile BP_ButtonParent
+[2018.02.24-21.18.49:438][952]LogTemp: Repeating last play command: VR Preview
+[2018.02.24-21.18.49:465][952]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.18.49:465][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-21.18.49:465][952]LogHMD: Initializing OVRPlugin session
+[2018.02.24-21.18.49:485][952]PIE: New page: PIE session: HAVR_MENU_SUCCESS (Feb 24, 2018, 9:18:49 AM)
+[2018.02.24-21.18.49:485][952]LogPlayLevel: Creating play world package: /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS
+[2018.02.24-21.18.49:499][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013953s)
+[2018.02.24-21.18.49:500][952]LogAIModule: Creating AISystem for world HAVR_MENU_SUCCESS
+[2018.02.24-21.18.49:501][952]LogPlayLevel: PIE: World Init took: (0.001444s)
+[2018.02.24-21.18.49:501][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS to /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS (0.016142s)
+[2018.02.24-21.18.49:547][952]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.24-21.18.49:559][952]LogInit: FAudioDevice initialized.
+[2018.02.24-21.18.49:683][952]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.02.24-21.18.49:719][952]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.24-21.18.49:719][952]LogLoad: Game class is 'GameModeBase'
+[2018.02.24-21.18.49:723][952]LogWorld: Bringing World /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS up for play (max tick rate 0) at 2018.02.24-15.18.49
+[2018.02.24-21.18.49:723][952]LogWorld: Bringing up level for play took: 0.002839
+[2018.02.24-21.18.49:732][952]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.18.49:732][952]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.18.49:732][952]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.18.49:732][952]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.18.49:732][952]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.02.24-21.18.49:737][952]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.18.49:737][952]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.18.49:737][952]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.18.49:737][952]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.18.49:737][952]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=0.000 Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2018.02.24-21.18.49:760][952]PIE: Play in editor start time for /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS -0.357
+[2018.02.24-21.18.49:760][952]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.19.07:366][475]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.19.07:557][475]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.19.07:684][476]Cmd: SELECT NONE
+[2018.02.24-21.19.09:659][597]LogEditorTransaction: Undo Select None
+[2018.02.24-21.19.09:898][607]LogEditorTransaction: Undo Delete current selection
+[2018.02.24-21.19.10:093][609]LogEditorTransaction: Undo Delete current selection
+[2018.02.24-21.19.10:638][629]LogEditorTransaction: Undo Delete current selection
+[2018.02.24-21.19.10:824][630]LogEditorTransaction: Undo Move Nodes
+[2018.02.24-21.19.11:027][632]LogEditorTransaction: Undo Move Nodes
+[2018.02.24-21.19.13:711][758]BlueprintLog: New page: Compile BP_ButtonParent
+[2018.02.24-21.19.20:687][ 71]LogTemp: Repeating last play command: VR Preview
+[2018.02.24-21.19.20:709][ 71]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.19.20:709][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-21.19.20:709][ 71]LogHMD: Initializing OVRPlugin session
+[2018.02.24-21.19.20:727][ 71]PIE: New page: PIE session: HAVR_MENU_SUCCESS (Feb 24, 2018, 9:19:20 AM)
+[2018.02.24-21.19.20:727][ 71]LogPlayLevel: Creating play world package: /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS
+[2018.02.24-21.19.20:734][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006978s)
+[2018.02.24-21.19.20:735][ 71]LogAIModule: Creating AISystem for world HAVR_MENU_SUCCESS
+[2018.02.24-21.19.20:736][ 71]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2018.02.24-21.19.20:736][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS to /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS (0.008506s)
+[2018.02.24-21.19.20:777][ 71]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.24-21.19.20:787][ 71]LogInit: FAudioDevice initialized.
+[2018.02.24-21.19.20:882][ 71]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.02.24-21.19.20:911][ 71]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.24-21.19.20:911][ 71]LogLoad: Game class is 'GameModeBase'
+[2018.02.24-21.19.20:914][ 71]LogWorld: Bringing World /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS up for play (max tick rate 0) at 2018.02.24-15.19.20
+[2018.02.24-21.19.20:914][ 71]LogWorld: Bringing up level for play took: 0.002536
+[2018.02.24-21.19.20:920][ 71]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.19.20:920][ 71]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.19.20:920][ 71]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.19.20:920][ 71]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.19.20:920][ 71]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=nan Y=nan Z=70.000). Resetting to 1.f.
+[2018.02.24-21.19.20:925][ 71]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.19.20:925][ 71]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.19.20:925][ 71]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.19.20:925][ 71]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.19.20:925][ 71]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=nan Y=nan Z=70.000). Resetting to 1.f.
+[2018.02.24-21.19.20:933][ 71]PIE: Play in editor start time for /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS 0.817
+[2018.02.24-21.19.20:934][ 71]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.19.26:853][501]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.19.27:787][585]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.19.28:298][631]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.19.29:276][719]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.19.30:854][861]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.19.31:699][937]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.19.32:576][ 16]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.19.34:076][151]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.19.35:375][266]LogPlayerController: Warning: Invalid hand specified (2) for haptic feedback effect MotionControllerHaptics
+[2018.02.24-21.19.38:378][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.19.38:535][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.20.26:761][637]LogEditorTransaction: Undo Delete current selection
+[2018.02.24-21.21.13:997][ 64]LogEditorTransaction: Undo Create Pin Link
+[2018.02.24-21.21.14:474][ 77]LogEditorTransaction: Undo Create Pin Link
+[2018.02.24-21.21.14:789][ 85]LogEditorTransaction: Undo Move Node
+[2018.02.24-21.21.15:664][123]LogEditorTransaction: Undo Delete current selection
+[2018.02.24-21.21.16:667][167]LogEditorTransaction: Undo Create Reroute Node
+[2018.02.24-21.21.17:361][194]LogEditorTransaction: Undo Delete current selection
+[2018.02.24-21.21.44:280][550]BlueprintLog: New page: Compile BP_ButtonParent
+[2018.02.24-21.21.50:223][800]LogTemp: Repeating last play command: VR Preview
+[2018.02.24-21.21.50:246][800]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.21.50:246][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-21.21.50:246][800]LogHMD: Initializing OVRPlugin session
+[2018.02.24-21.21.50:264][800]PIE: New page: PIE session: HAVR_MENU_SUCCESS (Feb 24, 2018, 9:21:50 AM)
+[2018.02.24-21.21.50:264][800]LogPlayLevel: Creating play world package: /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS
+[2018.02.24-21.21.50:275][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010251s)
+[2018.02.24-21.21.50:277][800]LogAIModule: Creating AISystem for world HAVR_MENU_SUCCESS
+[2018.02.24-21.21.50:277][800]LogPlayLevel: PIE: World Init took: (0.002563s)
+[2018.02.24-21.21.50:278][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS to /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS (0.013249s)
+[2018.02.24-21.21.50:315][800]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.24-21.21.50:331][800]LogInit: FAudioDevice initialized.
+[2018.02.24-21.21.50:422][800]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.02.24-21.21.50:451][800]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.02.24-21.21.50:451][800]LogLoad: Game class is 'GameModeBase'
+[2018.02.24-21.21.50:454][800]LogWorld: Bringing World /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS up for play (max tick rate 0) at 2018.02.24-15.21.50
+[2018.02.24-21.21.50:455][800]LogWorld: Bringing up level for play took: 0.002713
+[2018.02.24-21.21.50:460][800]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.21.50:460][800]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.21.50:460][800]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.21.50:460][800]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.21.50:460][800]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=nan Y=nan Z=70.000). Resetting to 1.f.
+[2018.02.24-21.21.50:466][800]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.21.50:467][800]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.21.50:467][800]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.21.50:467][800]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2018.02.24-21.21.50:467][800]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=nan Y=nan Z=70.000). Resetting to 1.f.
+[2018.02.24-21.21.50:477][800]PIE: Play in editor start time for /Game/VR_MENU/UEDPIE_0_HAVR_MENU_SUCCESS 0.361
+[2018.02.24-21.21.50:477][800]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.22.49:186][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.22.49:354][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel' has LevelScriptBlueprint '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS' with GeneratedClass '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS_C' with ClassGeneratedBy '/Game/VR_MENU/HAVR_MENU_SUCCESS.HAVR_MENU_SUCCESS:PersistentLevel.HAVR_MENU_SUCCESS'
+[2018.02.24-21.23.00:959][794]BlueprintLog: New page: Compile BP_Create_Structure
+[2018.02.24-21.23.01:526][794]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_2.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.23.01:532][794]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_BP_Create_Structure_C_CHILDACTOR_44.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.02.24-21.23.13:081][314]LogSavePackage: Save=102.09ms
+[2018.02.24-21.23.13:081][314]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/HAVR_MENU_SUCCESSB60C9862415A1BE9ACBC7C9703A74C8D.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Content/VR_MENU/HAVR_MENU_SUCCESS.umap'
+[2018.02.24-21.23.13:087][314]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Content/VR_MENU/HAVR_MENU_SUCCESS.umap
+[2018.02.24-21.23.13:265][314]LogSavePackage: Save=116.00ms
+[2018.02.24-21.23.13:265][314]LogSavePackage: Moving '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Saved/HAVR_MENU_SUCCESS_BuiltData353B811A48ABA3025B03469AA405F603.tmp' to '../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Content/VR_MENU/HAVR_MENU_SUCCESS_BuiltData.uasset'
+[2018.02.24-21.23.13:269][314]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Brad/Documents/GitHub/Ha_VRJ_Test/havr/Content/VR_MENU/HAVR_MENU_SUCCESS_BuiltData.uasset
