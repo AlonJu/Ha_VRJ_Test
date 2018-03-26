@@ -409,3 +409,115 @@ LogInit: Object subsystem initialized
 [2018.03.26-21.02.45:796][749]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_25.BodySetup_381 when we are unable to.
 [2018.03.26-21.06.59:816][ 12]Cmd: TRANSACTION UNDO
 [2018.03.26-21.06.59:817][ 12]LogEditorTransaction: Undo Create Actors
+[2018.03.26-21.12.14:786][672]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.296
+[2018.03.26-21.12.14:801][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VR_MENU/MenuBP_3D/Beds] ([1] browsable assets)...
+[2018.03.26-21.12.14:857][672]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR_MENU/MenuBP_3D/Beds.Beds]
+[2018.03.26-21.12.14:857][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_MENU/MenuBP_3D/Beds]
+[2018.03.26-21.12.16:922][672]LogSavePackage: Save=108.95ms
+[2018.03.26-21.12.16:922][672]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Beds_Auto3585A8DE9472A2D170A41F5B6F68BBADD.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/Beds_Auto3.uasset'
+[2018.03.26-21.12.16:937][672]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/Beds_Auto3.uasset
+[2018.03.26-21.12.16:946][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/icons/015-bed_Mat] ([1] browsable assets)...
+[2018.03.26-21.12.17:001][672]OBJ SavePackage:     Rendered thumbnail for [Material /Game/icons/015-bed_Mat.015-bed_Mat]
+[2018.03.26-21.12.17:001][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/icons/015-bed_Mat]
+[2018.03.26-21.12.18:077][672]LogSavePackage: Save=845.83ms
+[2018.03.26-21.12.18:077][672]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/015-bed_Mat_Auto36AB4379142A8BBC5E6AC76B51CC42EFC.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/icons/015-bed_Mat_Auto3.uasset'
+[2018.03.26-21.12.18:106][672]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/icons/015-bed_Mat_Auto3.uasset
+[2018.03.26-21.12.18:106][672]LogFileHelpers: Auto-saving content packages took 3.315
+[2018.03.26-21.22.19:612][381]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.721
+[2018.03.26-21.22.19:622][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VR_MENU/MenuBP_3D/BP_Menu] ([1] browsable assets)...
+[2018.03.26-21.22.19:698][381]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR_MENU/MenuBP_3D/BP_Menu.BP_Menu]
+[2018.03.26-21.22.19:698][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_MENU/MenuBP_3D/BP_Menu]
+[2018.03.26-21.22.28:599][381]LogSavePackage: Save=3647.04ms
+[2018.03.26-21.22.28:599][381]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/BP_Menu_Auto4532AB342413CB65E8030CF9B9E813332.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/BP_Menu_Auto4.uasset'
+[2018.03.26-21.22.29:515][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/BP_Menu_Auto4.uasset
+[2018.03.26-21.22.29:515][381]LogFileHelpers: Auto-saving content packages took 9.902
+[2018.03.26-21.32.30:229][662]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.237
+[2018.03.26-21.40.44:667][433]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.DESTROYED_Beds_C_CHILDACTOR_181.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.40.44:719][433]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_Beds_C_CHILDACTOR_183.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.40.44:777][433]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_Beds_C_CHILDACTOR_197.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.40.44:858][433]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.DESTROYED_Beds_C_CHILDACTOR_199.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.41.09:167][879]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.2737 seconds. Added 1 classes and 0 folders.
+[2018.03.26-21.41.09:271][879]LogMaterial: Missing cached shader map for material 015-bed_Mat, compiling. 
+[2018.03.26-21.41.15:358][879]LogMaterial: Missing cached shader map for material 015-bed_Mat, compiling. 
+[2018.03.26-21.41.15:927][879]LogMaterial: Missing cached shader map for material 015-bed_Mat, compiling. 
+[2018.03.26-21.41.16:164][879]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.03.26-21.41.49:246][325]BlueprintLog: New page: Compile Beds
+[2018.03.26-21.41.53:443][325]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.DESTROYED_Beds_C_CHILDACTOR_23.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.41.53:529][325]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_Beds_C_CHILDACTOR_25.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.41.54:777][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_MENU/MenuBP_3D/Beds" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VR_MENU/MenuBP_3D/Beds.uasset" SILENT=true
+[2018.03.26-21.41.55:185][340]LogSavePackage: Save=223.14ms
+[2018.03.26-21.41.55:185][340]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Beds8BA23D3C49BE6711D4D790BDEDD08922.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VR_MENU/MenuBP_3D/Beds.uasset'
+[2018.03.26-21.41.55:227][340]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VR_MENU/MenuBP_3D/Beds.uasset
+[2018.03.26-21.46.47:002][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.895
+[2018.03.26-21.46.47:012][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VR_MENU/MenuBP_3D/BP_Menu] ([1] browsable assets)...
+[2018.03.26-21.46.47:072][ 25]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR_MENU/MenuBP_3D/BP_Menu.BP_Menu]
+[2018.03.26-21.46.47:072][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_MENU/MenuBP_3D/BP_Menu]
+[2018.03.26-21.46.48:528][ 25]LogSavePackage: Save=1392.74ms
+[2018.03.26-21.46.48:528][ 25]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/BP_Menu_Auto59032AFA546386B595C23039D3233F45B.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/BP_Menu_Auto5.uasset'
+[2018.03.26-21.46.48:605][ 25]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/BP_Menu_Auto5.uasset
+[2018.03.26-21.46.48:606][ 25]LogFileHelpers: Auto-saving content packages took 1.602
+[2018.03.26-21.56.31:420][783]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_Walls_C_CHILDACTOR_349.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.56.31:490][783]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.DESTROYED_Walls_C_CHILDACTOR_351.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.56.31:562][783]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.DESTROYED_Walls_C_CHILDACTOR_365.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.56.31:620][783]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_Walls_C_CHILDACTOR_367.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.57.07:892][894]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.556
+[2018.03.26-21.57.07:908][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VR_MENU/MenuBP_3D/BP_Menu] ([1] browsable assets)...
+[2018.03.26-21.57.07:908][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_MENU/MenuBP_3D/BP_Menu]
+[2018.03.26-21.57.10:303][894]LogSavePackage: Save=1422.55ms
+[2018.03.26-21.57.10:303][894]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/BP_Menu_Auto6E7AE3F2B4E641452B4D684BDD34E5145.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/BP_Menu_Auto6.uasset'
+[2018.03.26-21.57.10:374][894]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/BP_Menu_Auto6.uasset
+[2018.03.26-21.57.10:388][894]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VR_MENU/MenuBP_3D/Walls] ([1] browsable assets)...
+[2018.03.26-21.57.10:456][894]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR_MENU/MenuBP_3D/Walls.Walls]
+[2018.03.26-21.57.10:456][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_MENU/MenuBP_3D/Walls]
+[2018.03.26-21.57.10:869][894]LogSavePackage: Save=316.47ms
+[2018.03.26-21.57.10:870][894]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Walls_Auto6219FBF7546CB0029840FCB9FE1226793.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/Walls_Auto6.uasset'
+[2018.03.26-21.57.10:890][894]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/Walls_Auto6.uasset
+[2018.03.26-21.57.10:890][894]LogFileHelpers: Auto-saving content packages took 2.996
+[2018.03.26-22.03.48:255][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/001-export.jpg)
+[2018.03.26-22.03.48:341][125]LogTexture: Display: Building textures: 001-export (AutoDXT, 128X128)
+[2018.03.26-22.03.48:416][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/002-paint.jpg)
+[2018.03.26-22.03.48:659][125]LogTexture: Display: Building textures: 002-paint (AutoDXT, 128X128)
+[2018.03.26-22.03.48:925][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/002-save.jpg)
+[2018.03.26-22.03.49:050][125]LogTexture: Display: Building textures: 002-save (AutoDXT, 128X128)
+[2018.03.26-22.03.49:133][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/003-paint-bucket.jpg)
+[2018.03.26-22.03.49:217][125]LogTexture: Display: Building textures: 003-paint-bucket (AutoDXT, 128X128)
+[2018.03.26-22.03.49:327][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/004-parquet.jpg)
+[2018.03.26-22.03.49:357][125]LogTexture: Display: Building textures: 004-parquet (AutoDXT, 128X128)
+[2018.03.26-22.03.49:480][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/005-brick-wall.jpg)
+[2018.03.26-22.03.49:569][125]LogTexture: Display: Building textures: 005-brick-wall (AutoDXT, 128X128)
+[2018.03.26-22.03.49:692][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/006-stairs.jpg)
+[2018.03.26-22.03.49:762][125]LogTexture: Display: Building textures: 006-stairs (AutoDXT, 128X128)
+[2018.03.26-22.03.49:841][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/007-roof.jpg)
+[2018.03.26-22.03.49:927][125]LogTexture: Display: Building textures: 007-roof (AutoDXT, 128X128)
+[2018.03.26-22.03.50:020][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/008-house.jpg)
+[2018.03.26-22.03.50:054][125]LogTexture: Display: Building textures: 008-house (AutoDXT, 128X128)
+[2018.03.26-22.03.50:182][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/009-wrench.jpg)
+[2018.03.26-22.03.50:242][125]LogTexture: Display: Building textures: 009-wrench (AutoDXT, 128X128)
+[2018.03.26-22.03.50:409][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/010-gestures.jpg)
+[2018.03.26-22.03.50:427][125]LogTexture: Display: Building textures: 010-gestures (AutoDXT, 128X128)
+[2018.03.26-22.03.50:549][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/011-settings.jpg)
+[2018.03.26-22.03.50:612][125]LogTexture: Display: Building textures: 011-settings (AutoDXT, 128X128)
+[2018.03.26-22.03.50:709][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/012-garbage.jpg)
+[2018.03.26-22.03.50:844][125]LogTexture: Display: Building textures: 012-garbage (AutoDXT, 128X128)
+[2018.03.26-22.03.50:957][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/013-folder.jpg)
+[2018.03.26-22.03.50:984][125]LogTexture: Display: Building textures: 013-folder (AutoDXT, 128X128)
+[2018.03.26-22.03.51:060][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/016-chair.jpg)
+[2018.03.26-22.03.51:107][125]LogTexture: Display: Building textures: 016-chair (AutoDXT, 128X128)
+[2018.03.26-22.03.51:173][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/017-table.jpg)
+[2018.03.26-22.03.51:207][125]LogTexture: Display: Building textures: 017-table (AutoDXT, 128X128)
+[2018.03.26-22.03.55:258][247]LogMaterial: Missing cached shader map for material 001-export_Mat, compiling. 
+[2018.03.26-22.03.55:396][247]LogMaterial: Missing cached shader map for material 002-paint_Mat, compiling. 
+[2018.03.26-22.03.55:583][247]LogMaterial: Missing cached shader map for material 002-save_Mat, compiling. 
+[2018.03.26-22.03.55:736][247]LogMaterial: Missing cached shader map for material 003-paint-bucket_Mat, compiling. 
+[2018.03.26-22.03.55:888][247]LogMaterial: Missing cached shader map for material 004-parquet_Mat, compiling. 
+[2018.03.26-22.03.56:027][247]LogMaterial: Missing cached shader map for material 005-brick-wall_Mat, compiling. 
+[2018.03.26-22.03.56:138][247]LogMaterial: Missing cached shader map for material 006-stairs_Mat, compiling. 
+[2018.03.26-22.03.56:273][247]LogMaterial: Missing cached shader map for material 007-roof_Mat, compiling. 
+[2018.03.26-22.03.56:403][247]LogMaterial: Missing cached shader map for material 008-house_Mat, compiling. 
+[2018.03.26-22.03.56:532][247]LogMaterial: Missing cached shader map for material 009-wrench_Mat, compiling. 
+[2018.03.26-22.03.56:664][247]LogMaterial: Missing cached shader map for material 010-gestures_Mat, compiling. 
+[2018.03.26-22.03.56:806][247]LogMaterial: Missing cached shader map for material 011-settings_Mat, compiling. 
+[2018.03.26-22.03.56:972][247]LogMaterial: Missing cached shader map for material 012-garbage_Mat, compiling. 
+[2018.03.26-22.03.57:092][247]LogMaterial: Missing cached shader map for material 013-folder_Mat, compiling. 
+[2018.03.26-22.03.57:212][247]LogMaterial: Missing cached shader map for material 016-chair_Mat, compiling. 
+[2018.03.26-22.03.57:338][247]LogMaterial: Missing cached shader map for material 017-table_Mat, compiling. 
