@@ -1,0 +1,986 @@
+﻿Log file open, 03/26/18 15:30:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: havr
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1674635262) SRandInit(1674635262).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.383688
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.26-20.31.06:873][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.26-20.31.06:874][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.26-20.31.07:050][  0]LogInit: Computer: HAILEE
+[2018.03.26-20.31.07:050][  0]LogInit: User: HaileeMrotek
+[2018.03.26-20.31.07:051][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.03.26-20.31.07:051][  0]LogInit: High frequency timer resolution =1.851265 MHz
+[2018.03.26-20.31.07:052][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2018.03.26-20.31.07:052][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.26-20.31.07:052][  0]LogMemory: Process Physical Memory: 274.64 MB used, 274.64 MB peak
+[2018.03.26-20.31.07:052][  0]LogMemory: Process Virtual Memory: 269.29 MB used, 269.29 MB peak
+[2018.03.26-20.31.07:052][  0]LogMemory: Physical Memory: 4572.28 MB used,  1440.99 MB free, 6013.27 MB total
+[2018.03.26-20.31.07:052][  0]LogMemory: Virtual Memory: 664.43 MB used,  1440.99 MB free, 134217728.00 MB total
+[2018.03.26-20.31.08:366][  0]LogInit: Using OS detected language (en-US).
+[2018.03.26-20.31.08:366][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.26-20.31.08:535][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.26-20.31.10:261][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.26-20.31.14:575][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.26-20.31.19:721][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2018.03.26-20.31.19:722][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.03.26-20.31.19:745][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.26-20.31.19:745][  0]LogD3D11RHI:       0/0/3006 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.26-20.31.19:745][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.26-20.31.19:756][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.26-20.31.19:756][  0]LogD3D11RHI:     GPU DeviceId: 0x166 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.26-20.31.19:757][  0]LogWindows: EnumDisplayDevices:
+[2018.03.26-20.31.19:757][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1)
+[2018.03.26-20.31.19:757][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.03.26-20.31.19:758][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.03.26-20.31.19:758][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.26-20.31.19:758][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4000
+[2018.03.26-20.31.19:758][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.26-20.31.19:758][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.26-20.31.19:758][  0]LogRHI: Texture pool is 638 MB (70% of 912 MB)
+[2018.03.26-20.31.19:766][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.26-20.31.19:776][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2018.03.26-20.31.19:779][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Intermediate/Shaders/WorkingDirectory/220/).
+[2018.03.26-20.31.19:779][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Hailee Mrotek/AppData/Local/Temp/UnrealShaderWorkingDir/4644C0DA4C8340923B541A9875C27668/'.
+[2018.03.26-20.31.19:779][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.26-20.31.42:163][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.26-20.31.42:415][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.26-20.31.42:614][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.26-20.31.42:866][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.26-20.31.43:175][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.26-20.31.43:483][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.26-20.31.43:677][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.26-20.31.44:026][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.26-20.31.44:277][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.26-20.31.44:510][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.26-20.31.44:793][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.26-20.31.45:018][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.26-20.31.45:344][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.26-20.31.45:766][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.26-20.31.46:256][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.26-20.31.46:256][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.26-20.31.46:496][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.26-20.31.46:732][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.26-20.31.47:324][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.26-20.31.47:460][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.26-20.31.47:840][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.26-20.31.48:158][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.26-20.31.48:471][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.26-20.31.48:808][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.26-20.31.48:808][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.26-20.31.52:354][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.26-20.31.53:421][  0]LogDerivedDataCache: Loaded boot cache 1.07s 92MB C:/Users/Hailee Mrotek/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.26-20.31.53:421][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Hailee Mrotek/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.26-20.31.53:421][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.26-20.31.53:421][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.26-20.31.53:421][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.26-20.31.53:421][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.26-20.31.53:472][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.26-20.31.53:490][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Hailee Mrotek/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.26-20.31.53:574][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.26-20.31.53:574][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.26-20.31.53:603][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.26-20.31.53:603][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.26-20.32.00:675][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.26-20.32.02:397][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.26-20.32.02:658][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.26-20.32.02:658][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.26-20.32.02:658][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.26-20.32.02:658][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.26-20.32.02:658][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.26-20.32.02:791][  0]LogNetVersion: havr , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 283802736)
+[2018.03.26-20.32.03:635][  0]LogAssetRegistry: FAssetRegistry took 0.0337 seconds to start up
+[2018.03.26-20.32.08:752][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 1.606274 seconds
+[2018.03.26-20.32.08:775][  0]LogUObjectArray: 35871 objects as part of root set at end of initial load.
+[2018.03.26-20.32.08:775][  0]LogUObjectAllocator: 7363920 out of 0 bytes used by permanent object pool.
+[2018.03.26-20.32.08:775][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.26-20.32.09:093][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.26-20.33.26:317][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.26-20.33.26:440][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.26-20.33.29:686][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.26-20.33.31:972][  0]SourceControl: Source control is disabled
+[2018.03.26-20.33.31:972][  0]SourceControl: Source control is disabled
+[2018.03.26-20.33.32:476][  0]SourceControl: Source control is disabled
+[2018.03.26-20.33.32:861][  0]SourceControl: Source control is disabled
+[2018.03.26-20.33.36:822][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.26-20.33.37:867][  0]LogOcInput: OculusInput pre-init called
+[2018.03.26-20.33.39:058][  0]LogEngine: Initializing Engine...
+[2018.03.26-20.33.39:067][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.26-20.33.40:365][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.26-20.33.40:365][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.26-20.33.41:015][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.26-20.33.41:055][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.26-20.33.41:869][  0]LogInit: FAudioDevice initialized.
+[2018.03.26-20.33.42:266][  0]LogDerivedDataCache: Saved boot cache 0.40s 92MB C:/Users/Hailee Mrotek/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.26-20.33.42:289][  0]LogInit: Texture streaming: Enabled
+[2018.03.26-20.33.42:920][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.26-20.33.43:410][  0]LogInit: Transaction tracking system initialized
+[2018.03.26-20.33.45:007][  0]BlueprintLog: New page: Editor Load
+[2018.03.26-20.33.49:224][  0]LocalizationService: Localization service is disabled
+[2018.03.26-20.33.52:871][  0]LogConsoleResponse: Display: 
+[2018.03.26-20.33.54:414][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.26-20.33.54:414][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.26-20.33.54:414][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.26-20.33.55:123][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/' took 0.06s
+[2018.03.26-20.33.58:951][  0]SourceControl: Source control is disabled
+[2018.03.26-20.33.58:951][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.26-20.33.58:952][  0]LightingResults: New page: Lighting Build
+[2018.03.26-20.33.59:092][  0]MapCheck: New page: Map Check
+[2018.03.26-20.33.59:092][  0]LightingResults: New page: Lighting Build
+[2018.03.26-20.34.06:832][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.03.26-20.34.06:991][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.26-20.34.07:075][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.26-20.34.07:286][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 210.53ms to complete.
+[2018.03.26-20.34.07:286][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 8.335
+[2018.03.26-20.34.07:592][  0]LogCollectionManager: Loaded 0 collections in 0.005161 seconds
+[2018.03.26-20.34.07:809][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Collections/' took 0.01s
+[2018.03.26-20.34.07:809][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/Developers/HaileeMrotek/Collections/' took 0.01s
+[2018.03.26-20.34.07:809][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/Collections/' took 0.01s
+[2018.03.26-20.34.07:810][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.03.26-20.34.07:834][  0]LogContentBrowser: Native class hierarchy populated in 0.0244 seconds. Added 2363 classes and 519 folders.
+[2018.03.26-20.34.08:034][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.26-20.34.08:155][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.03.26-20.34.08:285][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.03.26-20.34.08:336][  0]LogSlate: Took 0.000430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.26-20.34.08:340][  0]LogSlate: Took 0.000396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.26-20.34.08:351][  0]LogSlate: Took 0.000455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.26-20.34.08:680][  0]LogRenderer: Reallocating scene render targets to support 856x372 Format 26 NumSamples 1 (Frame:1).
+[2018.03.26-20.34.10:432][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.03.26-20.34.10:432][  0]LogLoad: (Engine Initialization) Total time: 218.80 seconds
+[2018.03.26-20.34.10:432][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.26-20.34.10:432][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.26-20.34.10:846][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.26-20.34.10:884][  0]LogSlate: Took 0.000703 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.26-20.34.11:867][  3]LogAssetRegistry: Asset discovery search completed in 128.2539 seconds
+[2018.03.26-20.34.11:872][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.03.26-20.34.11:872][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000151 seconds (updated 0 objects)
+[2018.03.26-20.34.35:809][295]LogSlate: Took 0.000356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.26-20.34.38:436][295]LogMaterial: Missing cached shader map for material 001-export_Mat, compiling. 
+[2018.03.26-20.34.38:461][295]LogMaterial: Warning: C:\Users\Hailee Mrotek\Documents\GitHub\Ha_VRJ_Test\havr 4.18\Content\icons\001-export_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.26-20.34.38:461][295]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.03.26-20.44.01:512][256]LogSlate: Took 0.000553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.26-20.44.10:581][706]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.031
+[2018.03.26-20.44.10:640][706]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VR_MENU/MenuBP_3D/Stairs] ([1] browsable assets)...
+[2018.03.26-20.44.10:737][706]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR_MENU/MenuBP_3D/Stairs.Stairs]
+[2018.03.26-20.44.10:737][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_MENU/MenuBP_3D/Stairs]
+[2018.03.26-20.44.11:086][706]LogSavePackage: Save=174.05ms
+[2018.03.26-20.44.11:086][706]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Stairs_Auto160E409974877ADA6EA707280AF231C57.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/Stairs_Auto1.uasset'
+[2018.03.26-20.44.11:095][706]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/Stairs_Auto1.uasset
+[2018.03.26-20.44.11:095][706]LogFileHelpers: Auto-saving content packages took 0.513
+[2018.03.26-20.48.46:005][ 96]LogLinker: Warning: Can't find file '/Game/icons/001-export_Mat'
+[2018.03.26-20.48.46:005][ 96]LogLinker: Warning: Can't find file for asset '/Game/icons/001-export_Mat' while loading ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VR_MENU/MenuBP_3D/Stairs.uasset.
+[2018.03.26-20.48.46:020][ 96]LoadErrors: Error: /Game/VR_MENU/MenuBP_3D/Stairs : Can't find file for asset. /Game/icons/001-export_Mat
+[2018.03.26-20.48.46:021][ 96]LogLinker: Warning: Can't find file '/Game/icons/001-export_Mat'
+[2018.03.26-20.48.46:021][ 96]LogLinker: Warning: Can't find file for asset '/Game/icons/001-export_Mat' while loading ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VR_MENU/MenuBP_3D/Stairs.uasset.
+[2018.03.26-20.48.47:253][ 96]LogSlate: Took 0.000385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.26-20.48.48:152][ 96]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 116 classes and 0 folders.
+[2018.03.26-20.48.53:107][ 96]LogSlate: Took 0.034938 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.26-20.48.55:994][143]LogRenderer: Reallocating scene render targets to support 856x564 Format 26 NumSamples 1 (Frame:1).
+[2018.03.26-20.59.46:688][467]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/015-bed.jpg)
+[2018.03.26-20.59.46:772][467]LogTexture: Display: Building textures: 015-bed (AutoDXT, 128X128)
+[2018.03.26-20.59.54:475][813]LogMaterial: Missing cached shader map for material 015-bed_Mat, compiling. 
+[2018.03.26-21.00.27:677][615]LogSlate: Took 0.071424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.26-21.01.34:177][458]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.150
+[2018.03.26-21.01.34:185][458]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VR_MENU/MenuBP_3D/BP_Menu] ([1] browsable assets)...
+[2018.03.26-21.01.34:259][458]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR_MENU/MenuBP_3D/BP_Menu.BP_Menu]
+[2018.03.26-21.01.34:259][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_MENU/MenuBP_3D/BP_Menu]
+[2018.03.26-21.01.34:478][458]LogSavePackage: Save=179.50ms
+[2018.03.26-21.01.34:478][458]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/BP_Menu_Auto280793DD74E7CE5CF1D0124B0E831CD54.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/BP_Menu_Auto2.uasset'
+[2018.03.26-21.01.34:510][458]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/BP_Menu_Auto2.uasset
+[2018.03.26-21.01.34:518][458]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/icons/015-bed] ([1] browsable assets)...
+[2018.03.26-21.01.34:523][458]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/icons/015-bed.015-bed]
+[2018.03.26-21.01.34:523][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/icons/015-bed]
+[2018.03.26-21.01.34:548][458]LogSavePackage: Save=18.87ms
+[2018.03.26-21.01.34:548][458]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/015-bed_Auto230EEE1404147CD2BE35635A437E111BD.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/icons/015-bed_Auto2.uasset'
+[2018.03.26-21.01.34:558][458]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/icons/015-bed_Auto2.uasset
+[2018.03.26-21.01.34:563][458]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/icons/015-bed_Mat] ([1] browsable assets)...
+[2018.03.26-21.01.34:645][458]OBJ SavePackage:     Rendered thumbnail for [Material /Game/icons/015-bed_Mat.015-bed_Mat]
+[2018.03.26-21.01.34:645][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/icons/015-bed_Mat]
+[2018.03.26-21.01.34:684][458]LogSavePackage: Save=31.45ms
+[2018.03.26-21.01.34:685][458]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/015-bed_Mat_Auto251BAA19448FE542D0F96049BB8122E97.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/icons/015-bed_Mat_Auto2.uasset'
+[2018.03.26-21.01.34:694][458]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/icons/015-bed_Mat_Auto2.uasset
+[2018.03.26-21.01.34:694][458]LogFileHelpers: Auto-saving content packages took 0.515
+[2018.03.26-21.02.00:830][160]LogSavePackage: Save=613.54ms
+[2018.03.26-21.02.00:830][160]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/MotionControllerMapEA5F14274C9A706D2F3349ADC0889297.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.03.26-21.02.00:847][160]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.03.26-21.02.01:656][160]LogSavePackage: Save=521.27ms
+[2018.03.26-21.02.01:657][160]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/MotionControllerMap_BuiltData68C8923048FEB3F942A55882989D952E.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2018.03.26-21.02.01:666][160]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset
+[2018.03.26-21.02.43:764][695]LogMaterial: Warning: Material /Game/icons/015-bed_Mat.015-bed_Mat needed to have new flag set bUsedWithStaticLighting !
+[2018.03.26-21.02.43:788][695]LogMaterial: Missing cached shader map for material 015-bed_Mat, compiling. 
+[2018.03.26-21.02.45:705][749]Cmd: TRANSACTION UNDO
+[2018.03.26-21.02.45:705][749]LogEditorTransaction: Undo Create Actors
+[2018.03.26-21.02.45:796][749]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 0
+[2018.03.26-21.02.45:796][749]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 1
+[2018.03.26-21.02.45:796][749]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 2
+[2018.03.26-21.02.45:796][749]LogPhysics: Warning: Found bad index buffer when cooking UModelComponent physics data! Component: None, Buffer: 0, Buffer Size: 0, Element: 3
+[2018.03.26-21.02.45:796][749]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_25' invalid (296 verts, 0 indices).
+[2018.03.26-21.02.45:796][749]LogPhysics: Warning: Attempt to build physics data for /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.ModelComponent_25.BodySetup_381 when we are unable to.
+[2018.03.26-21.06.59:816][ 12]Cmd: TRANSACTION UNDO
+[2018.03.26-21.06.59:817][ 12]LogEditorTransaction: Undo Create Actors
+[2018.03.26-21.12.14:786][672]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.296
+[2018.03.26-21.12.14:801][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VR_MENU/MenuBP_3D/Beds] ([1] browsable assets)...
+[2018.03.26-21.12.14:857][672]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR_MENU/MenuBP_3D/Beds.Beds]
+[2018.03.26-21.12.14:857][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_MENU/MenuBP_3D/Beds]
+[2018.03.26-21.12.16:922][672]LogSavePackage: Save=108.95ms
+[2018.03.26-21.12.16:922][672]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Beds_Auto3585A8DE9472A2D170A41F5B6F68BBADD.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/Beds_Auto3.uasset'
+[2018.03.26-21.12.16:937][672]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/Beds_Auto3.uasset
+[2018.03.26-21.12.16:946][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/icons/015-bed_Mat] ([1] browsable assets)...
+[2018.03.26-21.12.17:001][672]OBJ SavePackage:     Rendered thumbnail for [Material /Game/icons/015-bed_Mat.015-bed_Mat]
+[2018.03.26-21.12.17:001][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/icons/015-bed_Mat]
+[2018.03.26-21.12.18:077][672]LogSavePackage: Save=845.83ms
+[2018.03.26-21.12.18:077][672]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/015-bed_Mat_Auto36AB4379142A8BBC5E6AC76B51CC42EFC.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/icons/015-bed_Mat_Auto3.uasset'
+[2018.03.26-21.12.18:106][672]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/icons/015-bed_Mat_Auto3.uasset
+[2018.03.26-21.12.18:106][672]LogFileHelpers: Auto-saving content packages took 3.315
+[2018.03.26-21.22.19:612][381]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.721
+[2018.03.26-21.22.19:622][381]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VR_MENU/MenuBP_3D/BP_Menu] ([1] browsable assets)...
+[2018.03.26-21.22.19:698][381]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR_MENU/MenuBP_3D/BP_Menu.BP_Menu]
+[2018.03.26-21.22.19:698][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_MENU/MenuBP_3D/BP_Menu]
+[2018.03.26-21.22.28:599][381]LogSavePackage: Save=3647.04ms
+[2018.03.26-21.22.28:599][381]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/BP_Menu_Auto4532AB342413CB65E8030CF9B9E813332.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/BP_Menu_Auto4.uasset'
+[2018.03.26-21.22.29:515][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/BP_Menu_Auto4.uasset
+[2018.03.26-21.22.29:515][381]LogFileHelpers: Auto-saving content packages took 9.902
+[2018.03.26-21.32.30:229][662]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.237
+[2018.03.26-21.40.44:667][433]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.DESTROYED_Beds_C_CHILDACTOR_181.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.40.44:719][433]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_Beds_C_CHILDACTOR_183.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.40.44:777][433]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_Beds_C_CHILDACTOR_197.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.40.44:858][433]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.DESTROYED_Beds_C_CHILDACTOR_199.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.41.09:167][879]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.2737 seconds. Added 1 classes and 0 folders.
+[2018.03.26-21.41.09:271][879]LogMaterial: Missing cached shader map for material 015-bed_Mat, compiling. 
+[2018.03.26-21.41.15:358][879]LogMaterial: Missing cached shader map for material 015-bed_Mat, compiling. 
+[2018.03.26-21.41.15:927][879]LogMaterial: Missing cached shader map for material 015-bed_Mat, compiling. 
+[2018.03.26-21.41.16:164][879]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.03.26-21.41.49:246][325]BlueprintLog: New page: Compile Beds
+[2018.03.26-21.41.53:443][325]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.DESTROYED_Beds_C_CHILDACTOR_23.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.41.53:529][325]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_Beds_C_CHILDACTOR_25.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.41.54:777][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_MENU/MenuBP_3D/Beds" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VR_MENU/MenuBP_3D/Beds.uasset" SILENT=true
+[2018.03.26-21.41.55:185][340]LogSavePackage: Save=223.14ms
+[2018.03.26-21.41.55:185][340]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Beds8BA23D3C49BE6711D4D790BDEDD08922.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VR_MENU/MenuBP_3D/Beds.uasset'
+[2018.03.26-21.41.55:227][340]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VR_MENU/MenuBP_3D/Beds.uasset
+[2018.03.26-21.46.47:002][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.895
+[2018.03.26-21.46.47:012][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VR_MENU/MenuBP_3D/BP_Menu] ([1] browsable assets)...
+[2018.03.26-21.46.47:072][ 25]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR_MENU/MenuBP_3D/BP_Menu.BP_Menu]
+[2018.03.26-21.46.47:072][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_MENU/MenuBP_3D/BP_Menu]
+[2018.03.26-21.46.48:528][ 25]LogSavePackage: Save=1392.74ms
+[2018.03.26-21.46.48:528][ 25]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/BP_Menu_Auto59032AFA546386B595C23039D3233F45B.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/BP_Menu_Auto5.uasset'
+[2018.03.26-21.46.48:605][ 25]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/BP_Menu_Auto5.uasset
+[2018.03.26-21.46.48:606][ 25]LogFileHelpers: Auto-saving content packages took 1.602
+[2018.03.26-21.56.31:420][783]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_Walls_C_CHILDACTOR_349.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.56.31:490][783]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.DESTROYED_Walls_C_CHILDACTOR_351.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.56.31:562][783]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.DESTROYED_Walls_C_CHILDACTOR_365.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.56.31:620][783]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_Walls_C_CHILDACTOR_367.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-21.57.07:892][894]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.556
+[2018.03.26-21.57.07:908][894]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VR_MENU/MenuBP_3D/BP_Menu] ([1] browsable assets)...
+[2018.03.26-21.57.07:908][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_MENU/MenuBP_3D/BP_Menu]
+[2018.03.26-21.57.10:303][894]LogSavePackage: Save=1422.55ms
+[2018.03.26-21.57.10:303][894]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/BP_Menu_Auto6E7AE3F2B4E641452B4D684BDD34E5145.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/BP_Menu_Auto6.uasset'
+[2018.03.26-21.57.10:374][894]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/BP_Menu_Auto6.uasset
+[2018.03.26-21.57.10:388][894]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VR_MENU/MenuBP_3D/Walls] ([1] browsable assets)...
+[2018.03.26-21.57.10:456][894]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VR_MENU/MenuBP_3D/Walls.Walls]
+[2018.03.26-21.57.10:456][894]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_MENU/MenuBP_3D/Walls]
+[2018.03.26-21.57.10:869][894]LogSavePackage: Save=316.47ms
+[2018.03.26-21.57.10:870][894]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Walls_Auto6219FBF7546CB0029840FCB9FE1226793.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/Walls_Auto6.uasset'
+[2018.03.26-21.57.10:890][894]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/Walls_Auto6.uasset
+[2018.03.26-21.57.10:890][894]LogFileHelpers: Auto-saving content packages took 2.996
+[2018.03.26-22.03.48:255][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/001-export.jpg)
+[2018.03.26-22.03.48:341][125]LogTexture: Display: Building textures: 001-export (AutoDXT, 128X128)
+[2018.03.26-22.03.48:416][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/002-paint.jpg)
+[2018.03.26-22.03.48:659][125]LogTexture: Display: Building textures: 002-paint (AutoDXT, 128X128)
+[2018.03.26-22.03.48:925][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/002-save.jpg)
+[2018.03.26-22.03.49:050][125]LogTexture: Display: Building textures: 002-save (AutoDXT, 128X128)
+[2018.03.26-22.03.49:133][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/003-paint-bucket.jpg)
+[2018.03.26-22.03.49:217][125]LogTexture: Display: Building textures: 003-paint-bucket (AutoDXT, 128X128)
+[2018.03.26-22.03.49:327][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/004-parquet.jpg)
+[2018.03.26-22.03.49:357][125]LogTexture: Display: Building textures: 004-parquet (AutoDXT, 128X128)
+[2018.03.26-22.03.49:480][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/005-brick-wall.jpg)
+[2018.03.26-22.03.49:569][125]LogTexture: Display: Building textures: 005-brick-wall (AutoDXT, 128X128)
+[2018.03.26-22.03.49:692][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/006-stairs.jpg)
+[2018.03.26-22.03.49:762][125]LogTexture: Display: Building textures: 006-stairs (AutoDXT, 128X128)
+[2018.03.26-22.03.49:841][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/007-roof.jpg)
+[2018.03.26-22.03.49:927][125]LogTexture: Display: Building textures: 007-roof (AutoDXT, 128X128)
+[2018.03.26-22.03.50:020][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/008-house.jpg)
+[2018.03.26-22.03.50:054][125]LogTexture: Display: Building textures: 008-house (AutoDXT, 128X128)
+[2018.03.26-22.03.50:182][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/009-wrench.jpg)
+[2018.03.26-22.03.50:242][125]LogTexture: Display: Building textures: 009-wrench (AutoDXT, 128X128)
+[2018.03.26-22.03.50:409][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/010-gestures.jpg)
+[2018.03.26-22.03.50:427][125]LogTexture: Display: Building textures: 010-gestures (AutoDXT, 128X128)
+[2018.03.26-22.03.50:549][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/011-settings.jpg)
+[2018.03.26-22.03.50:612][125]LogTexture: Display: Building textures: 011-settings (AutoDXT, 128X128)
+[2018.03.26-22.03.50:709][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/012-garbage.jpg)
+[2018.03.26-22.03.50:844][125]LogTexture: Display: Building textures: 012-garbage (AutoDXT, 128X128)
+[2018.03.26-22.03.50:957][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/013-folder.jpg)
+[2018.03.26-22.03.50:984][125]LogTexture: Display: Building textures: 013-folder (AutoDXT, 128X128)
+[2018.03.26-22.03.51:060][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/016-chair.jpg)
+[2018.03.26-22.03.51:107][125]LogTexture: Display: Building textures: 016-chair (AutoDXT, 128X128)
+[2018.03.26-22.03.51:173][125]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Hailee Mrotek/Pictures/017-table.jpg)
+[2018.03.26-22.03.51:207][125]LogTexture: Display: Building textures: 017-table (AutoDXT, 128X128)
+[2018.03.26-22.03.55:258][247]LogMaterial: Missing cached shader map for material 001-export_Mat, compiling. 
+[2018.03.26-22.03.55:396][247]LogMaterial: Missing cached shader map for material 002-paint_Mat, compiling. 
+[2018.03.26-22.03.55:583][247]LogMaterial: Missing cached shader map for material 002-save_Mat, compiling. 
+[2018.03.26-22.03.55:736][247]LogMaterial: Missing cached shader map for material 003-paint-bucket_Mat, compiling. 
+[2018.03.26-22.03.55:888][247]LogMaterial: Missing cached shader map for material 004-parquet_Mat, compiling. 
+[2018.03.26-22.03.56:027][247]LogMaterial: Missing cached shader map for material 005-brick-wall_Mat, compiling. 
+[2018.03.26-22.03.56:138][247]LogMaterial: Missing cached shader map for material 006-stairs_Mat, compiling. 
+[2018.03.26-22.03.56:273][247]LogMaterial: Missing cached shader map for material 007-roof_Mat, compiling. 
+[2018.03.26-22.03.56:403][247]LogMaterial: Missing cached shader map for material 008-house_Mat, compiling. 
+[2018.03.26-22.03.56:532][247]LogMaterial: Missing cached shader map for material 009-wrench_Mat, compiling. 
+[2018.03.26-22.03.56:664][247]LogMaterial: Missing cached shader map for material 010-gestures_Mat, compiling. 
+[2018.03.26-22.03.56:806][247]LogMaterial: Missing cached shader map for material 011-settings_Mat, compiling. 
+[2018.03.26-22.03.56:972][247]LogMaterial: Missing cached shader map for material 012-garbage_Mat, compiling. 
+[2018.03.26-22.03.57:092][247]LogMaterial: Missing cached shader map for material 013-folder_Mat, compiling. 
+[2018.03.26-22.03.57:212][247]LogMaterial: Missing cached shader map for material 016-chair_Mat, compiling. 
+[2018.03.26-22.03.57:338][247]LogMaterial: Missing cached shader map for material 017-table_Mat, compiling. 
+[2018.03.26-22.08.13:778][792]BlueprintLog: New page: Compile Walls
+[2018.03.26-22.08.18:181][792]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.DESTROYED_Walls_C_CHILDACTOR_6.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-22.08.18:309][792]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.DESTROYED_Walls_C_CHILDACTOR_21.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.26-22.08.19:417][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_MENU/MenuBP_3D/Walls" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VR_MENU/MenuBP_3D/Walls.uasset" SILENT=true
+[2018.03.26-22.08.19:839][802]LogSavePackage: Save=262.26ms
+[2018.03.26-22.08.19:839][802]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Walls9C70D4E542A9AF4FEB0825AD58C6B4ED.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VR_MENU/MenuBP_3D/Walls.uasset'
+[2018.03.26-22.08.19:863][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VR_MENU/MenuBP_3D/Walls.uasset
+[2018.03.26-22.08.23:018][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_MENU/MenuBP_3D/BP_Menu" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VR_MENU/MenuBP_3D/BP_Menu.uasset" SILENT=true
+[2018.03.26-22.08.23:466][839]LogSavePackage: Save=370.20ms
+[2018.03.26-22.08.23:466][839]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/BP_MenuDEA6D020449B5DD2E1C1F2830A4129D9.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VR_MENU/MenuBP_3D/BP_Menu.uasset'
+[2018.03.26-22.08.23:489][839]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VR_MENU/MenuBP_3D/BP_Menu.uasset
+[2018.03.26-22.08.25:381][865]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.26-22.08.28:668][876]LogSavePackage: Save=1441.88ms
+[2018.03.26-22.08.28:668][876]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/MotionControllerMapA5E9685B4F7196D449BD199E663275C0.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.03.26-22.08.28:722][876]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.03.26-22.08.29:979][876]LogSavePackage: Save=906.76ms
+[2018.03.26-22.08.29:980][876]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/MotionControllerMap_BuiltDataC3F4732B473BF8744E6A7DBBC9BF474C.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2018.03.26-22.08.29:990][876]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset
+[2018.03.26-22.08.33:111][919]LogSavePackage: Save=975.80ms
+[2018.03.26-22.08.33:111][919]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/MotionControllerMap369265B84ECEED6589CF6DB1026F8FBA.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.03.26-22.08.33:134][919]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.03.26-22.08.34:098][919]LogSavePackage: Save=817.03ms
+[2018.03.26-22.08.34:099][919]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/MotionControllerMap_BuiltData36858FA040C075B5A8B7B8B431187245.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2018.03.26-22.08.34:109][919]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset
+[2018.03.26-22.09.06:508][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/001-export" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/001-export.uasset" SILENT=true
+[2018.03.26-22.09.06:549][981]LogSavePackage: Save=31.69ms
+[2018.03.26-22.09.06:549][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/001-export53E7422348A618F2CBB781A281EE5271.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/001-export.uasset'
+[2018.03.26-22.09.06:570][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/001-export.uasset
+[2018.03.26-22.11.24:333][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/001-export_Mat" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/001-export_Mat.uasset" SILENT=true
+[2018.03.26-22.11.24:405][981]LogSavePackage: Save=64.02ms
+[2018.03.26-22.11.24:405][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/001-export_Mat49CAE6404171AEFA53D579A7ED8289C0.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/001-export_Mat.uasset'
+[2018.03.26-22.11.24:428][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/001-export_Mat.uasset
+[2018.03.26-22.11.24:447][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/002-paint" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/002-paint.uasset" SILENT=true
+[2018.03.26-22.11.24:481][981]LogSavePackage: Save=25.34ms
+[2018.03.26-22.11.24:481][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/002-paint27E15A6E4F8C513F61EAE0A51785B13D.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/002-paint.uasset'
+[2018.03.26-22.11.24:504][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/002-paint.uasset
+[2018.03.26-22.11.39:196][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/002-paint_Mat" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/002-paint_Mat.uasset" SILENT=true
+[2018.03.26-22.11.39:254][981]LogSavePackage: Save=51.35ms
+[2018.03.26-22.11.39:255][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/002-paint_Mat8FDBFABE4DC5252D3D723FA90B8AA754.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/002-paint_Mat.uasset'
+[2018.03.26-22.11.39:282][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/002-paint_Mat.uasset
+[2018.03.26-22.11.39:300][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/002-save" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/002-save.uasset" SILENT=true
+[2018.03.26-22.11.39:365][981]LogSavePackage: Save=24.42ms
+[2018.03.26-22.11.39:365][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/002-save246926F84818EDB5B5D9A593E7B507F8.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/002-save.uasset'
+[2018.03.26-22.11.39:394][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/002-save.uasset
+[2018.03.26-22.11.54:181][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/002-save_Mat" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/002-save_Mat.uasset" SILENT=true
+[2018.03.26-22.11.54:262][981]LogSavePackage: Save=72.97ms
+[2018.03.26-22.11.54:262][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/002-save_MatD41015064DCA381BED41D2941C00DA10.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/002-save_Mat.uasset'
+[2018.03.26-22.11.54:284][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/002-save_Mat.uasset
+[2018.03.26-22.11.54:303][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/003-paint-bucket" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/003-paint-bucket.uasset" SILENT=true
+[2018.03.26-22.11.54:353][981]LogSavePackage: Save=17.99ms
+[2018.03.26-22.11.54:353][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/003-paint-bucket16B52CE24EBE4733CD005084BF5CBEC0.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/003-paint-bucket.uasset'
+[2018.03.26-22.11.54:384][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/003-paint-bucket.uasset
+[2018.03.26-22.12.25:495][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/003-paint-bucket_Mat" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/003-paint-bucket_Mat.uasset" SILENT=true
+[2018.03.26-22.12.25:561][981]LogSavePackage: Save=57.83ms
+[2018.03.26-22.12.25:561][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/003-paint-bucket_MatACA2958E4AD5C0D73629009DE8174A3D.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/003-paint-bucket_Mat.uasset'
+[2018.03.26-22.12.25:584][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/003-paint-bucket_Mat.uasset
+[2018.03.26-22.12.25:622][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/004-parquet" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/004-parquet.uasset" SILENT=true
+[2018.03.26-22.12.25:655][981]LogSavePackage: Save=24.85ms
+[2018.03.26-22.12.25:655][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/004-parquetBF7FB4B54D54376EDAB6CBA8479ED00D.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/004-parquet.uasset'
+[2018.03.26-22.12.25:687][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/004-parquet.uasset
+[2018.03.26-22.14.20:910][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/004-parquet_Mat" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/004-parquet_Mat.uasset" SILENT=true
+[2018.03.26-22.14.20:957][981]LogSavePackage: Save=39.20ms
+[2018.03.26-22.14.20:957][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/004-parquet_Mat5AA8C49447786FF2413EF186F305A904.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/004-parquet_Mat.uasset'
+[2018.03.26-22.14.20:978][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/004-parquet_Mat.uasset
+[2018.03.26-22.14.20:997][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/005-brick-wall" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/005-brick-wall.uasset" SILENT=true
+[2018.03.26-22.14.21:020][981]LogSavePackage: Save=15.69ms
+[2018.03.26-22.14.21:020][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/005-brick-wallD2B90818422F270D28CD96807A115EE9.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/005-brick-wall.uasset'
+[2018.03.26-22.14.21:040][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/005-brick-wall.uasset
+[2018.03.26-22.14.50:053][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/005-brick-wall_Mat" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/005-brick-wall_Mat.uasset" SILENT=true
+[2018.03.26-22.14.50:125][981]LogSavePackage: Save=47.87ms
+[2018.03.26-22.14.50:125][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/005-brick-wall_MatEE353F2A4F98656876C1DFA2EFFAD456.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/005-brick-wall_Mat.uasset'
+[2018.03.26-22.14.50:145][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/005-brick-wall_Mat.uasset
+[2018.03.26-22.14.50:164][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/006-stairs" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/006-stairs.uasset" SILENT=true
+[2018.03.26-22.14.50:186][981]LogSavePackage: Save=14.87ms
+[2018.03.26-22.14.50:186][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/006-stairsE8EFC1284EDA8F98B5C272A722F62C87.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/006-stairs.uasset'
+[2018.03.26-22.14.50:207][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/006-stairs.uasset
+[2018.03.26-22.16.05:556][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/006-stairs_Mat" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/006-stairs_Mat.uasset" SILENT=true
+[2018.03.26-22.16.05:620][981]LogSavePackage: Save=52.78ms
+[2018.03.26-22.16.05:620][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/006-stairs_MatFDE6FAAA4279DECC3E9F9FAEC4DE1064.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/006-stairs_Mat.uasset'
+[2018.03.26-22.16.05:641][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/006-stairs_Mat.uasset
+[2018.03.26-22.16.05:659][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/007-roof" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/007-roof.uasset" SILENT=true
+[2018.03.26-22.16.05:685][981]LogSavePackage: Save=18.04ms
+[2018.03.26-22.16.05:685][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/007-roofB55A7AA04A408B92B93F53BB25864733.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/007-roof.uasset'
+[2018.03.26-22.16.05:705][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/007-roof.uasset
+[2018.03.26-22.17.45:854][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/007-roof_Mat" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/007-roof_Mat.uasset" SILENT=true
+[2018.03.26-22.17.45:919][981]LogSavePackage: Save=55.42ms
+[2018.03.26-22.17.45:919][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/007-roof_MatAE6B90A34886F750E40B98BCB6498D6B.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/007-roof_Mat.uasset'
+[2018.03.26-22.17.45:946][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/007-roof_Mat.uasset
+[2018.03.26-22.17.45:973][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/008-house" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/008-house.uasset" SILENT=true
+[2018.03.26-22.17.46:000][981]LogSavePackage: Save=18.67ms
+[2018.03.26-22.17.46:000][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/008-houseA9C5E11D4E1CFC76E76AD7A6D463924E.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/008-house.uasset'
+[2018.03.26-22.17.46:041][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/008-house.uasset
+[2018.03.26-22.20.13:514][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/008-house_Mat" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/008-house_Mat.uasset" SILENT=true
+[2018.03.26-22.20.13:568][981]LogSavePackage: Save=46.26ms
+[2018.03.26-22.20.13:568][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/008-house_Mat9AA39FD943AD29B39C0581BB281FC525.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/008-house_Mat.uasset'
+[2018.03.26-22.20.13:590][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/008-house_Mat.uasset
+[2018.03.26-22.20.13:609][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/009-wrench" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/009-wrench.uasset" SILENT=true
+[2018.03.26-22.20.13:653][981]LogSavePackage: Save=36.87ms
+[2018.03.26-22.20.13:653][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/009-wrench89594E1F427920C8AE0EE991402BC0E6.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/009-wrench.uasset'
+[2018.03.26-22.20.13:673][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/009-wrench.uasset
+[2018.03.26-22.21.14:976][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/009-wrench_Mat" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/009-wrench_Mat.uasset" SILENT=true
+[2018.03.26-22.21.15:027][981]LogSavePackage: Save=43.26ms
+[2018.03.26-22.21.15:028][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/009-wrench_Mat8518094E43E6CC5DCCA495BC5B3F04D8.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/009-wrench_Mat.uasset'
+[2018.03.26-22.21.15:050][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/009-wrench_Mat.uasset
+[2018.03.26-22.21.15:069][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/010-gestures" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/010-gestures.uasset" SILENT=true
+[2018.03.26-22.21.15:093][981]LogSavePackage: Save=16.17ms
+[2018.03.26-22.21.15:093][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/010-gesturesBE73A8D848CD309DAD3CAF95B17E7757.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/010-gestures.uasset'
+[2018.03.26-22.21.15:113][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/010-gestures.uasset
+[2018.03.26-22.22.08:336][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/010-gestures_Mat" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/010-gestures_Mat.uasset" SILENT=true
+[2018.03.26-22.22.08:385][981]LogSavePackage: Save=41.32ms
+[2018.03.26-22.22.08:385][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/010-gestures_MatB2F6AF064FC29A9E96D1E795CFAB9A48.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/010-gestures_Mat.uasset'
+[2018.03.26-22.22.08:408][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/010-gestures_Mat.uasset
+[2018.03.26-22.22.08:433][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/011-settings" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/011-settings.uasset" SILENT=true
+[2018.03.26-22.22.08:457][981]LogSavePackage: Save=17.00ms
+[2018.03.26-22.22.08:457][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/011-settings7E1E393543197E9192DCE79A53DBE9A5.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/011-settings.uasset'
+[2018.03.26-22.22.08:482][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/011-settings.uasset
+[2018.03.26-22.23.02:787][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/011-settings_Mat" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/011-settings_Mat.uasset" SILENT=true
+[2018.03.26-22.23.02:920][981]LogSavePackage: Save=125.52ms
+[2018.03.26-22.23.02:920][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/011-settings_MatCF44299C4B546809750E539F2B7C5137.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/011-settings_Mat.uasset'
+[2018.03.26-22.23.02:945][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/011-settings_Mat.uasset
+[2018.03.26-22.23.02:965][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/012-garbage" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/012-garbage.uasset" SILENT=true
+[2018.03.26-22.23.02:989][981]LogSavePackage: Save=16.95ms
+[2018.03.26-22.23.02:989][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/012-garbage89A648844E60F7C8137310A7845612C8.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/012-garbage.uasset'
+[2018.03.26-22.23.03:014][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/012-garbage.uasset
+[2018.03.26-22.24.21:506][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/012-garbage_Mat" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/012-garbage_Mat.uasset" SILENT=true
+[2018.03.26-22.24.21:690][981]LogSavePackage: Save=173.52ms
+[2018.03.26-22.24.21:690][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/012-garbage_MatB52CC05947F254A4D463DFA2B86123CF.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/012-garbage_Mat.uasset'
+[2018.03.26-22.24.21:717][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/012-garbage_Mat.uasset
+[2018.03.26-22.24.21:832][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/013-folder" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/013-folder.uasset" SILENT=true
+[2018.03.26-22.24.21:856][981]LogSavePackage: Save=15.95ms
+[2018.03.26-22.24.21:856][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/013-folder4D4F69FC42321FAD0CE7FBBFA6BEBB21.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/013-folder.uasset'
+[2018.03.26-22.24.21:901][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/013-folder.uasset
+[2018.03.26-22.26.44:456][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/013-folder_Mat" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/013-folder_Mat.uasset" SILENT=true
+[2018.03.26-22.26.44:526][981]LogSavePackage: Save=61.12ms
+[2018.03.26-22.26.44:526][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/013-folder_MatDDD0EC2E4AC3C0BAD6AECD9B35F8C355.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/013-folder_Mat.uasset'
+[2018.03.26-22.26.44:546][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/013-folder_Mat.uasset
+[2018.03.26-22.26.44:565][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/015-bed" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/015-bed.uasset" SILENT=true
+[2018.03.26-22.26.44:589][981]LogSavePackage: Save=15.74ms
+[2018.03.26-22.26.44:589][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/015-bed8BE94FE74E74439FEF1D7B9573F6BBD1.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/015-bed.uasset'
+[2018.03.26-22.26.44:609][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/015-bed.uasset
+[2018.03.26-22.26.44:693][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/015-bed_Mat" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/015-bed_Mat.uasset" SILENT=true
+[2018.03.26-22.26.44:750][981]LogSavePackage: Save=48.48ms
+[2018.03.26-22.26.44:750][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/015-bed_MatB2CB022F4CFE73B40074A3BB3C528586.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/015-bed_Mat.uasset'
+[2018.03.26-22.26.44:776][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/015-bed_Mat.uasset
+[2018.03.26-22.26.44:794][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/016-chair" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/016-chair.uasset" SILENT=true
+[2018.03.26-22.26.44:818][981]LogSavePackage: Save=15.87ms
+[2018.03.26-22.26.44:818][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/016-chairCE21ED4B4D1F519DF3F9E0AE4733CC5B.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/016-chair.uasset'
+[2018.03.26-22.26.44:839][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/016-chair.uasset
+[2018.03.26-22.29.55:506][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/016-chair_Mat" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/016-chair_Mat.uasset" SILENT=true
+[2018.03.26-22.29.55:564][981]LogSavePackage: Save=49.49ms
+[2018.03.26-22.29.55:564][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/016-chair_MatAD4EF0524611CE5ADD4B558D5FEFCBE6.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/016-chair_Mat.uasset'
+[2018.03.26-22.29.55:584][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/016-chair_Mat.uasset
+[2018.03.26-22.29.55:604][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/017-table" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/017-table.uasset" SILENT=true
+[2018.03.26-22.29.55:628][981]LogSavePackage: Save=16.72ms
+[2018.03.26-22.29.55:628][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/017-table00CDB79A426518AA12B1C09499451F48.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/017-table.uasset'
+[2018.03.26-22.29.55:648][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/017-table.uasset
+[2018.03.26-22.30.20:468][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/icons/017-table_Mat" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/017-table_Mat.uasset" SILENT=true
+[2018.03.26-22.30.20:706][981]LogSavePackage: Save=42.54ms
+[2018.03.26-22.30.20:706][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/017-table_Mat450BF40F462AEFAB0FABFC89E45B115B.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/017-table_Mat.uasset'
+[2018.03.26-22.30.20:727][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/icons/017-table_Mat.uasset
+[2018.03.26-22.30.20:739][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_MENU/MenuBP_3D/Stairs" FILE="../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VR_MENU/MenuBP_3D/Stairs.uasset" SILENT=true
+[2018.03.26-22.30.21:235][981]LogSavePackage: Save=449.56ms
+[2018.03.26-22.30.21:235][981]LogSavePackage: Moving '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/StairsD436F07042E20CB81F728B80EC71D396.tmp' to '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VR_MENU/MenuBP_3D/Stairs.uasset'
+[2018.03.26-22.30.21:260][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/VR_MENU/MenuBP_3D/Stairs.uasset
+[2018.03.26-22.30.24:216][982]Cmd: CLOSE_SLATE_MAINFRAME
+[2018.03.26-22.30.24:416][982]Cmd: QUIT_EDITOR
+[2018.03.26-22.30.27:277][982]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.26-22.30.28:571][982]LogExit: Preparing to exit.
+[2018.03.26-22.30.31:890][982]LogDirectoryWatcher: A directory notification for 'C:/Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/' was aborted.
+[2018.03.26-22.30.35:754][982]LogExit: Editor shut down
+[2018.03.26-22.30.36:650][982]LogExit: Transaction tracking system shut down
+[2018.03.26-22.30.40:090][982]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.26-22.30.40:090][982]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/' was aborted.
+[2018.03.26-22.30.40:090][982]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.26-22.30.40:090][982]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.26-22.30.40:091][982]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.26-22.30.40:091][982]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.26-22.30.40:091][982]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.26-22.31.06:899][982]LogExit: Object subsystem successfully closed.
+[2018.03.26-22.31.07:693][982]LogD3D11RHI: Shutdown
+[2018.03.26-22.31.07:698][982]LogD3D11RHI: CleanupD3DDevice
+[2018.03.26-22.31.08:027][982]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.26-22.31.12:064][982]LogModuleManager: Shutting down and abandoning module MaterialEditor (554)
+[2018.03.26-22.31.12:064][982]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.03.26-22.31.12:064][982]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (550)
+[2018.03.26-22.31.12:105][982]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.03.26-22.31.12:105][982]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.03.26-22.31.12:136][982]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.03.26-22.31.12:179][982]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.26-22.31.12:629][982]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.03.26-22.31.12:629][982]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.03.26-22.31.12:629][982]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.03.26-22.31.12:660][982]LogDirectoryWatcher: A directory notification for 'C:/Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/Collections/' was aborted.
+[2018.03.26-22.31.12:664][982]LogDirectoryWatcher: A directory notification for 'C:/Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Content/Developers/HaileeMrotek/Collections/' was aborted.
+[2018.03.26-22.31.12:664][982]LogDirectoryWatcher: A directory notification for 'C:/Users/Hailee Mrotek/Documents/GitHub/Ha_VRJ_Test/havr 4.18/Saved/Collections/' was aborted.
+[2018.03.26-22.31.12:664][982]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.03.26-22.31.12:714][982]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.03.26-22.31.12:729][982]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.03.26-22.31.12:764][982]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.03.26-22.31.12:774][982]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.03.26-22.31.12:774][982]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.03.26-22.31.12:774][982]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.03.26-22.31.12:775][982]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.03.26-22.31.12:775][982]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.03.26-22.31.12:775][982]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.03.26-22.31.12:775][982]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.03.26-22.31.12:785][982]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.03.26-22.31.12:798][982]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.03.26-22.31.12:814][982]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.03.26-22.31.12:989][982]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.03.26-22.31.13:311][982]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.03.26-22.31.13:311][982]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.03.26-22.31.13:311][982]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.03.26-22.31.13:311][982]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.03.26-22.31.13:311][982]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.03.26-22.31.13:311][982]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.03.26-22.31.13:311][982]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.03.26-22.31.13:311][982]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.03.26-22.31.13:312][982]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.03.26-22.31.13:312][982]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.03.26-22.31.13:312][982]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.03.26-22.31.13:312][982]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.03.26-22.31.13:356][982]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.03.26-22.31.13:378][982]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.03.26-22.31.13:378][982]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.03.26-22.31.13:378][982]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.03.26-22.31.13:378][982]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.03.26-22.31.13:378][982]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.03.26-22.31.13:417][982]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.03.26-22.31.13:427][982]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.03.26-22.31.13:441][982]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.03.26-22.31.13:481][982]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.03.26-22.31.13:608][982]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.03.26-22.31.13:608][982]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.03.26-22.31.13:608][982]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.03.26-22.31.13:608][982]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.03.26-22.31.13:958][982]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.03.26-22.31.13:958][982]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.03.26-22.31.13:958][982]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.03.26-22.31.13:958][982]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.03.26-22.31.13:974][982]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.03.26-22.31.13:983][982]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.03.26-22.31.13:983][982]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.03.26-22.31.14:005][982]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.03.26-22.31.14:005][982]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.03.26-22.31.14:013][982]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.03.26-22.31.14:025][982]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.03.26-22.31.14:025][982]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.03.26-22.31.14:025][982]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.03.26-22.31.14:025][982]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.03.26-22.31.14:038][982]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.03.26-22.31.14:038][982]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.03.26-22.31.14:039][982]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.03.26-22.31.14:039][982]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.03.26-22.31.14:040][982]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.03.26-22.31.14:106][982]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.03.26-22.31.14:148][982]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.03.26-22.31.14:164][982]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.03.26-22.31.14:175][982]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.03.26-22.31.14:187][982]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.03.26-22.31.14:254][982]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.03.26-22.31.14:306][982]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.03.26-22.31.14:479][982]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.03.26-22.31.14:510][982]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.03.26-22.31.14:510][982]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.03.26-22.31.14:543][982]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.03.26-22.31.14:544][982]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.03.26-22.31.14:578][982]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.03.26-22.31.14:578][982]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.03.26-22.31.14:578][982]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.03.26-22.31.14:889][982]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.03.26-22.31.14:889][982]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.03.26-22.31.14:889][982]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.03.26-22.31.14:904][982]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.03.26-22.31.14:933][982]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.03.26-22.31.14:949][982]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.03.26-22.31.14:962][982]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.03.26-22.31.14:964][982]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.03.26-22.31.14:964][982]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.03.26-22.31.14:964][982]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.03.26-22.31.14:964][982]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.03.26-22.31.14:964][982]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.03.26-22.31.14:964][982]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.03.26-22.31.14:964][982]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.03.26-22.31.14:964][982]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.03.26-22.31.14:964][982]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.03.26-22.31.14:965][982]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.03.26-22.31.14:974][982]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.03.26-22.31.14:989][982]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.03.26-22.31.14:989][982]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.03.26-22.31.15:143][982]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.03.26-22.31.15:414][982]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.03.26-22.31.15:414][982]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.03.26-22.31.15:414][982]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.03.26-22.31.15:423][982]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.03.26-22.31.15:432][982]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.03.26-22.31.15:432][982]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.03.26-22.31.15:432][982]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.03.26-22.31.15:448][982]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.03.26-22.31.15:448][982]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.03.26-22.31.15:448][982]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.03.26-22.31.15:448][982]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.03.26-22.31.15:468][982]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.03.26-22.31.15:468][982]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.03.26-22.31.15:468][982]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.03.26-22.31.15:468][982]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.03.26-22.31.15:480][982]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.03.26-22.31.15:480][982]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.03.26-22.31.15:513][982]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.03.26-22.31.15:513][982]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.03.26-22.31.15:513][982]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.03.26-22.31.15:674][982]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.03.26-22.31.15:708][982]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.03.26-22.31.15:710][982]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.03.26-22.31.15:710][982]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.03.26-22.31.15:710][982]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.03.26-22.31.15:743][982]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.03.26-22.31.15:768][982]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.03.26-22.31.15:791][982]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.03.26-22.31.15:809][982]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.03.26-22.31.15:809][982]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.03.26-22.31.15:809][982]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.03.26-22.31.15:809][982]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.03.26-22.31.15:834][982]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.03.26-22.31.15:840][982]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.03.26-22.31.15:865][982]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.03.26-22.31.15:872][982]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.03.26-22.31.15:872][982]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.03.26-22.31.15:927][982]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.03.26-22.31.15:927][982]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.03.26-22.31.15:928][982]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.03.26-22.31.15:928][982]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.03.26-22.31.15:928][982]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.03.26-22.31.15:928][982]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.03.26-22.31.15:928][982]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.03.26-22.31.15:943][982]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.03.26-22.31.16:241][982]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.03.26-22.31.16:348][982]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.26-22.31.16:453][982]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.26-22.31.16:453][982]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.26-22.31.16:453][982]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.26-22.31.16:463][982]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.26-22.31.16:463][982]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.26-22.31.16:468][982]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.26-22.31.16:468][982]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.26-22.31.16:468][982]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.26-22.31.16:482][982]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.26-22.31.16:536][982]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.26-22.31.16:536][982]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.26-22.31.16:546][982]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.26-22.31.16:547][982]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.26-22.31.16:596][982]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.26-22.31.16:596][982]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.26-22.31.16:603][982]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.26-22.31.16:603][982]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.26-22.31.16:603][982]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.26-22.31.16:648][982]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.26-22.31.16:667][982]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.26-22.31.16:667][982]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.26-22.31.16:705][982]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.26-22.31.16:709][982]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.26-22.31.16:725][982]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.26-22.31.16:725][982]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.26-22.31.16:738][982]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.26-22.31.16:778][982]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.26-22.31.16:848][982]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.26-22.31.16:848][982]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.26-22.31.16:885][982]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.26-22.31.16:890][982]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.26-22.31.16:952][982]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.26-22.31.16:952][982]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.26-22.31.16:952][982]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.26-22.31.16:952][982]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.26-22.31.16:952][982]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.26-22.31.16:952][982]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.26-22.31.16:952][982]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.26-22.31.16:966][982]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.26-22.31.17:008][982]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.26-22.31.17:008][982]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.26-22.31.17:071][982]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.26-22.31.17:078][982]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.26-22.31.17:079][982]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.26-22.31.17:090][982]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.26-22.31.17:090][982]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.26-22.31.17:103][982]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.26-22.31.17:114][982]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.26-22.31.17:201][982]LogDerivedDataCache: Shutdown
+[2018.03.26-22.31.17:201][982]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.26-22.31.17:215][982]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.26-22.31.17:237][982]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.26-22.31.17:246][982]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.26-22.31.17:267][982]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.26-22.31.17:273][982]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.26-22.31.17:299][982]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.26-22.31.17:300][982]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.26-22.31.17:300][982]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.26-22.31.17:300][982]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.26-22.31.17:310][982]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.26-22.31.17:310][982]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.26-22.31.17:311][982]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.26-22.31.17:311][982]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.26-22.31.17:318][982]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.26-22.31.17:318][982]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.26-22.31.17:318][982]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.26-22.31.17:318][982]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.26-22.31.17:319][982]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.26-22.31.17:319][982]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.26-22.31.17:339][982]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.26-22.31.17:339][982]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.26-22.31.17:339][982]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.26-22.31.17:339][982]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.26-22.31.17:339][982]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.26-22.31.17:339][982]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.26-22.31.17:340][982]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.26-22.31.17:340][982]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.26-22.31.17:340][982]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.26-22.31.17:340][982]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.26-22.31.17:340][982]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.26-22.31.17:340][982]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.26-22.31.17:341][982]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.26-22.31.17:341][982]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.26-22.31.17:341][982]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.26-22.31.17:341][982]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.26-22.31.17:341][982]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.26-22.31.17:341][982]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.26-22.31.17:342][982]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.26-22.31.17:342][982]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.26-22.31.17:342][982]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.26-22.31.17:342][982]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.26-22.31.17:342][982]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.26-22.31.17:342][982]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.26-22.31.17:342][982]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.26-22.31.17:343][982]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.26-22.31.17:359][982]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.26-22.31.17:359][982]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.26-22.31.17:359][982]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.26-22.31.17:359][982]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.26-22.31.17:359][982]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.26-22.31.17:406][982]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.26-22.31.17:424][982]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.26-22.31.17:424][982]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.26-22.31.17:436][982]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCACC173C-46A4-B759-4456-03B6710C0CEA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=ad42c58b42e620a4f3a42f9033699a6d%7Cd25a990051354199a88bff2896d5ec03%7C14a76efd-98fd-4b6a-b792-c49774a3f5df&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.26-22.31.17:526][982]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.26-22.31.17:655][982]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.26-22.31.17:693][982]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.26-22.31.17:695][982]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.26-22.31.17:727][982]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.26-22.31.17:728][982]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.26-22.31.17:728][982]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.26-22.31.17:728][982]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.26-22.31.17:887][982]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.26-22.31.17:959][982]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.26-22.31.17:959][982]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.26-22.31.17:989][982]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.26-22.31.17:990][982]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.26-22.31.17:990][982]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.26-22.31.17:990][982]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.26-22.31.18:030][982]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.26-22.31.18:030][982]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.26-22.31.18:065][982]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.26-22.31.18:103][982]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.26-22.31.18:230][982]LogExit: Exiting.
+[2018.03.26-22.31.18:535][982]Log file closed, 03/26/18 17:31:18
