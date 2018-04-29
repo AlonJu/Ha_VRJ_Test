@@ -1,0 +1,773 @@
+﻿Log file open, 04/28/18 20:27:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: havr
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1857219822) SRandInit(1857219822).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.211247
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.488s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-FKFG7D5 (192.168.1.3:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/UE4P/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.036s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.29-01.27.51:502][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.29-01.27.51:502][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.29-01.27.51:576][  0]LogInit: Computer: DESKTOP-FKFG7D5
+[2018.04.29-01.27.51:576][  0]LogInit: User: Brad
+[2018.04.29-01.27.51:576][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.29-01.27.51:576][  0]LogInit: High frequency timer resolution =3.386479 MHz
+[2018.04.29-01.27.51:576][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.29-01.27.51:576][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.29-01.27.51:576][  0]LogMemory: Process Physical Memory: 282.23 MB used, 282.23 MB peak
+[2018.04.29-01.27.51:576][  0]LogMemory: Process Virtual Memory: 270.76 MB used, 270.76 MB peak
+[2018.04.29-01.27.51:576][  0]LogMemory: Physical Memory: 7155.33 MB used,  9173.42 MB free, 16328.75 MB total
+[2018.04.29-01.27.51:576][  0]LogMemory: Virtual Memory: 741.08 MB used,  9173.42 MB free, 134217728.00 MB total
+[2018.04.29-01.27.51:749][  0]LogInit: Using OS detected language (en-US).
+[2018.04.29-01.27.51:749][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.29-01.27.51:860][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.29-01.27.52:503][  0]LogStreaming: Display: Took  0.755s to EndInitTextLocalization.
+[2018.04.29-01.27.52:504][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.29-01.27.52:723][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.29-01.27.52:723][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.29-01.27.55:632][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.29-01.27.55:679][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2018.04.29-01.27.55:679][  0]LogD3D11RHI:       6097/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.29-01.27.55:682][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.29-01.27.55:682][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.29-01.27.55:682][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.29-01.27.55:690][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.29-01.27.55:690][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.29-01.27.55:690][  0]LogWindows: EnumDisplayDevices:
+[2018.04.29-01.27.55:690][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2018.04.29-01.27.55:691][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.04.29-01.27.55:691][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.04.29-01.27.55:691][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.04.29-01.27.55:691][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.29-01.27.55:691][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2018.04.29-01.27.55:691][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.29-01.27.55:691][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.29-01.27.55:691][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2018.04.29-01.27.55:729][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.29-01.27.55:729][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.29-01.27.55:816][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.29-01.27.55:817][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Intermediate/Shaders/WorkingDirectory/16368/).
+[2018.04.29-01.27.55:817][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Brad/AppData/Local/Temp/UnrealShaderWorkingDir/215F10C446DB5DD055ECF48313ADED09/'.
+[2018.04.29-01.27.56:665][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.29-01.27.56:682][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.29-01.27.56:698][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.29-01.27.56:712][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.29-01.27.56:770][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.29-01.27.56:799][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.29-01.27.56:814][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.29-01.27.56:838][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.29-01.27.56:846][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.29-01.27.56:876][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.29-01.27.56:892][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.29-01.27.56:906][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.29-01.27.56:925][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.29-01.27.56:940][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.29-01.27.56:968][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.29-01.27.57:006][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.29-01.27.57:006][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.29-01.27.57:063][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.29-01.27.57:084][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.29-01.27.57:183][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.29-01.27.57:196][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.29-01.27.57:222][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.29-01.27.57:256][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.29-01.27.57:275][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.29-01.27.57:336][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.29-01.27.57:336][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.29-01.27.57:711][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.29-01.27.57:711][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.29-01.27.57:711][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.29-01.27.58:550][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.29-01.27.58:767][  0]LogDerivedDataCache: Loaded boot cache 0.22s 75MB C:/Users/Brad/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.29-01.27.58:767][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Brad/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.29-01.27.58:768][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.29-01.27.58:768][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.29-01.27.58:768][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.29-01.27.58:768][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.29-01.27.58:802][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.29-01.27.58:814][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Brad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.29-01.27.58:830][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.29-01.27.58:830][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.29-01.27.58:861][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.29-01.27.58:861][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.29-01.28.02:516][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.04.29-01.28.04:235][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.29-01.28.04:553][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.29-01.28.04:575][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.29-01.28.04:575][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.29-01.28.04:575][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.29-01.28.04:575][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.29-01.28.04:575][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.29-01.28.04:613][  0]LogNetVersion: havr , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3686149312)
+[2018.04.29-01.28.05:223][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.102473 seconds
+[2018.04.29-01.28.05:231][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.29-01.28.05:231][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.04.29-01.28.05:231][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.29-01.28.21:178][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.29-01.28.21:219][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.29-01.28.21:852][  0]SourceControl: Source control is disabled
+[2018.04.29-01.28.21:852][  0]SourceControl: Source control is disabled
+[2018.04.29-01.28.21:916][  0]SourceControl: Source control is disabled
+[2018.04.29-01.28.21:947][  0]SourceControl: Source control is disabled
+[2018.04.29-01.28.22:870][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.29-01.28.23:137][  0]LogOcInput: OculusInput pre-init called
+[2018.04.29-01.28.23:360][  0]LogEngine: Initializing Engine...
+[2018.04.29-01.28.23:360][  0]LogHMD: Oculus plugin initialized. Version: 4.19.0-3944462+++UE4+Release-4.19, OVRPlugin: 1.21.0
+[2018.04.29-01.28.23:362][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.29-01.28.23:362][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.29-01.28.23:705][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.29-01.28.23:722][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.29-01.28.23:735][  0]LogInit: FAudioDevice initialized.
+[2018.04.29-01.28.23:871][  0]LogDerivedDataCache: Saved boot cache 0.14s 75MB C:/Users/Brad/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.29-01.28.23:913][  0]LogInit: Texture streaming: Enabled
+[2018.04.29-01.28.23:959][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.29-01.28.23:995][  0]LogInit: Transaction tracking system initialized
+[2018.04.29-01.28.24:106][  0]BlueprintLog: New page: Editor Load
+[2018.04.29-01.28.24:414][  0]LocalizationService: Localization service is disabled
+[2018.04.29-01.28.24:772][  0]LogConsoleResponse: Display: 
+[2018.04.29-01.28.25:044][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.29-01.28.25:045][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.29-01.28.25:045][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.29-01.28.25:045][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.29-01.28.25:045][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.29-01.28.25:880][  0]LogFileCache: Scanning file cache for directory 'D:/GitHubDDriveRep/Ha_VRJ_Test/havr/Content/' took 0.02s
+[2018.04.29-01.28.26:424][  0]SourceControl: Source control is disabled
+[2018.04.29-01.28.26:424][  0]Cmd: MAP LOAD FILE="../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Maps/Building_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.29-01.28.26:425][  0]LightingResults: New page: Lighting Build
+[2018.04.29-01.28.26:427][  0]MapCheck: New page: Map Check
+[2018.04.29-01.28.26:427][  0]LightingResults: New page: Lighting Build
+[2018.04.29-01.28.29:171][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [125.543671ms] /Game/Models/Chairs/Cushion_chair/1_chair.1_chair
+[2018.04.29-01.28.29:193][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6335_.LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6335_.
+[2018.04.29-01.28.29:193][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6335_.LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6335_:BodySetup_0 when we are unable to.
+[2018.04.29-01.28.29:204][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__5274_.LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__5274_.
+[2018.04.29-01.28.29:204][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__5274_.LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__5274_:BodySetup_0 when we are unable to.
+[2018.04.29-01.28.29:406][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6779_.LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6779_.
+[2018.04.29-01.28.29:406][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6779_.LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6779_:BodySetup_0 when we are unable to.
+[2018.04.29-01.28.29:411][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.04.29-01.28.29:411][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.04.29-01.28.29:411][  0]LogPhysics: Warning: Failed to cook convex: /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_.LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_ 0 (FlipX:0). The remaining elements will not get cooked.
+[2018.04.29-01.28.29:411][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.04.29-01.28.29:411][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.04.29-01.28.29:411][  0]LogPhysics: Warning: Failed to cook convex: /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_.LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_ 0 (FlipX:1). The remaining elements will not get cooked.
+[2018.04.29-01.28.29:412][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_.LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_:BodySetup_0 when we are unable to.
+[2018.04.29-01.28.29:473][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [4.821822ms] /Game/Models/Chairs/Cushion_chair/1_Object002.1_Object002
+[2018.04.29-01.28.29:477][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [4.349355ms] /Game/Models/Chairs/Cushion_chair/1_Object001.1_Object001
+[2018.04.29-01.28.30:339][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [3.349497ms] /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+[2018.04.29-01.28.30:340][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Appliances/toaster/touster_polymsh_detached.touster_polymsh_detached.
+[2018.04.29-01.28.30:340][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Appliances/toaster/touster_polymsh_detached.touster_polymsh_detached:BodySetup_0 when we are unable to.
+[2018.04.29-01.28.30:376][  0]LogAIModule: Creating AISystem for world Building_Level
+[2018.04.29-01.28.30:883][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.29-01.28.31:087][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.29-01.28.31:211][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 123.468ms to complete.
+[2018.04.29-01.28.31:211][  0]LogFileHelpers: Loading map 'Building_Level' took 4.787
+[2018.04.29-01.28.31:521][  0]LogCollectionManager: Loaded 0 collections in 0.001140 seconds
+[2018.04.29-01.28.31:563][  0]LogFileCache: Scanning file cache for directory 'D:/GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Collections/' took 0.01s
+[2018.04.29-01.28.31:563][  0]LogFileCache: Scanning file cache for directory 'D:/GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Developers/Brad/Collections/' took 0.01s
+[2018.04.29-01.28.31:564][  0]LogFileCache: Scanning file cache for directory 'D:/GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Collections/' took 0.01s
+[2018.04.29-01.28.31:564][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.29-01.28.31:573][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2452 classes and 558 folders.
+[2018.04.29-01.28.31:580][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.29-01.28.31:656][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.29-01.28.31:661][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.29-01.28.31:812][  0]LogSlate: Took 0.038403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.29-01.28.31:814][  0]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.29-01.28.31:821][  0]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.29-01.28.31:957][  0]LogRenderer: Reallocating scene render targets to support 1048x604 Format 26 NumSamples 1 (Frame:1).
+[2018.04.29-01.28.32:110][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.29-01.28.32:110][  0]LogLoad: (Engine Initialization) Total time: 48.21 seconds
+[2018.04.29-01.28.32:110][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.29-01.28.32:120][  0]LogOcInput: OculusInput is initialized
+[2018.04.29-01.28.32:143][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.29-01.28.32:201][  0]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.29-01.28.32:335][  2]LogAssetRegistry: Asset discovery search completed in 29.8411 seconds
+[2018.04.29-01.28.32:337][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.29-01.28.32:337][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2018.04.29-01.29.15:202][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-01.29.15:531][411]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.29-01.29.15:903][411]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.04.29-01.29.16:976][411]LogSlate: Took 0.016761 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.29-01.29.18:547][500]LogRenderer: Reallocating scene render targets to support 1048x712 Format 26 NumSamples 1 (Frame:1).
+[2018.04.29-01.29.20:490][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-01.29.20:584][624]LogSlate: Window 'BP_Menu' being destroyed
+[2018.04.29-01.29.20:588][624]LogSlate: Window 'BP_Menu' being destroyed
+[2018.04.29-01.29.32:310][518]LogSlate: Took 0.005244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.29-01.30.03:859][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-01.30.13:340][466]BlueprintLog: New page: Compile BP_MotionController
+[2018.04.29-01.30.16:665][606]LogTemp: Repeating last play command: VR Preview
+[2018.04.29-01.30.16:697][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.29-01.30.16:697][606]LogHMD: Initializing OVRPlugin session
+[2018.04.29-01.30.16:921][606]PIE: New page: PIE session: Building_Level (Apr 28, 2018, 3:30:16 PM)
+[2018.04.29-01.30.16:921][606]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Building_Level
+[2018.04.29-01.30.17:511][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.590370s)
+[2018.04.29-01.30.17:512][606]LogAIModule: Creating AISystem for world Building_Level
+[2018.04.29-01.30.17:512][606]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2018.04.29-01.30.17:512][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Building_Level.Building_Level to /Game/Maps/UEDPIE_0_Building_Level.Building_Level (0.591434s)
+[2018.04.29-01.30.17:562][606]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.29-01.30.17:573][606]LogInit: FAudioDevice initialized.
+[2018.04.29-01.30.17:682][606]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.29-01.30.17:727][606]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.04.29-01.30.17:727][606]LogLoad: Game class is 'GameModeBase'
+[2018.04.29-01.30.17:779][606]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Building_Level.Building_Level up for play (max tick rate 0) at 2018.04.28-20.30.17
+[2018.04.29-01.30.17:780][606]LogWorld: Bringing up level for play took: 0.051828
+[2018.04.29-01.30.17:806][606]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.04.29-01.30.17:876][606]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Building_Level 0.76
+[2018.04.29-01.30.17:879][606]LogEngine: Changing dynamic resolution state.
+[2018.04.29-01.30.17:896][606]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.29-01.30.17:896][606]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.29-01.30.17:896][606]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.29-01.30.17:896][606]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.29-01.30.17:897][606]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.29-01.30.17:899][606]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.29-01.30.17:910][606]LogRenderer: Reallocating scene render targets to support 2720x1600 Format 26 NumSamples 1 (Frame:1).
+[2018.04.29-01.30.17:910][606]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.04.29-01.30.53:470][286]LogSlate: Window 'havr Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.29-01.30.53:670][287]LogEngine: Changing dynamic resolution state.
+[2018.04.29-01.31.04:406][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-01.31.04:523][888]LogTemp: Repeating last play command: VR Preview
+[2018.04.29-01.31.04:560][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.29-01.31.04:560][888]LogHMD: Initializing OVRPlugin session
+[2018.04.29-01.31.04:610][888]PIE: New page: PIE session: Building_Level (Apr 28, 2018, 3:31:04 PM)
+[2018.04.29-01.31.04:611][888]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Building_Level
+[2018.04.29-01.31.04:763][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152799s)
+[2018.04.29-01.31.04:764][888]LogAIModule: Creating AISystem for world Building_Level
+[2018.04.29-01.31.04:764][888]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2018.04.29-01.31.04:764][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Building_Level.Building_Level to /Game/Maps/UEDPIE_0_Building_Level.Building_Level (0.153956s)
+[2018.04.29-01.31.04:812][888]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.29-01.31.04:822][888]LogInit: FAudioDevice initialized.
+[2018.04.29-01.31.04:921][888]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.29-01.31.04:953][888]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.04.29-01.31.04:953][888]LogLoad: Game class is 'GameModeBase'
+[2018.04.29-01.31.05:019][888]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Building_Level.Building_Level up for play (max tick rate 0) at 2018.04.28-20.31.05
+[2018.04.29-01.31.05:019][888]LogWorld: Bringing up level for play took: 0.065849
+[2018.04.29-01.31.05:092][888]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Building_Level -0.025
+[2018.04.29-01.31.05:094][888]LogEngine: Changing dynamic resolution state.
+[2018.04.29-01.31.05:111][888]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.29-01.31.05:111][888]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.04.29-01.31.19:341][965]LogSlate: Window 'havr Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.29-01.31.19:496][966]LogEngine: Changing dynamic resolution state.
+[2018.04.29-01.31.56:352][708]BlueprintLog: New page: Compile BP_MotionController
+[2018.04.29-01.31.57:913][725]LogTemp: Repeating last play command: VR Preview
+[2018.04.29-01.31.57:945][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.29-01.31.57:945][725]LogHMD: Initializing OVRPlugin session
+[2018.04.29-01.31.57:993][725]PIE: New page: PIE session: Building_Level (Apr 28, 2018, 3:31:57 PM)
+[2018.04.29-01.31.57:994][725]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Building_Level
+[2018.04.29-01.31.58:140][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.146244s)
+[2018.04.29-01.31.58:140][725]LogAIModule: Creating AISystem for world Building_Level
+[2018.04.29-01.31.58:141][725]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2018.04.29-01.31.58:141][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Building_Level.Building_Level to /Game/Maps/UEDPIE_0_Building_Level.Building_Level (0.147298s)
+[2018.04.29-01.31.58:196][725]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.29-01.31.58:206][725]LogInit: FAudioDevice initialized.
+[2018.04.29-01.31.58:312][725]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.29-01.31.58:343][725]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.04.29-01.31.58:343][725]LogLoad: Game class is 'GameModeBase'
+[2018.04.29-01.31.58:403][725]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Building_Level.Building_Level up for play (max tick rate 0) at 2018.04.28-20.31.58
+[2018.04.29-01.31.58:404][725]LogWorld: Bringing up level for play took: 0.059226
+[2018.04.29-01.31.58:474][725]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Building_Level 1.357
+[2018.04.29-01.31.58:476][725]LogEngine: Changing dynamic resolution state.
+[2018.04.29-01.31.58:500][725]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.29-01.31.58:500][725]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.04.29-01.32.10:193][398]LogSlate: Window 'havr Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.29-01.32.10:341][399]LogEngine: Changing dynamic resolution state.
+[2018.04.29-01.32.18:082][753]BlueprintLog: New page: Compile BP_MotionController
+[2018.04.29-01.32.20:368][808]LogTemp: Repeating last play command: VR Preview
+[2018.04.29-01.32.20:399][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.29-01.32.20:399][808]LogHMD: Initializing OVRPlugin session
+[2018.04.29-01.32.20:449][808]PIE: New page: PIE session: Building_Level (Apr 28, 2018, 3:32:20 PM)
+[2018.04.29-01.32.20:449][808]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Building_Level
+[2018.04.29-01.32.20:598][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.148371s)
+[2018.04.29-01.32.20:599][808]LogAIModule: Creating AISystem for world Building_Level
+[2018.04.29-01.32.20:599][808]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2018.04.29-01.32.20:599][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Building_Level.Building_Level to /Game/Maps/UEDPIE_0_Building_Level.Building_Level (0.149464s)
+[2018.04.29-01.32.20:655][808]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.29-01.32.20:665][808]LogInit: FAudioDevice initialized.
+[2018.04.29-01.32.20:767][808]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.29-01.32.20:799][808]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.04.29-01.32.20:799][808]LogLoad: Game class is 'GameModeBase'
+[2018.04.29-01.32.20:857][808]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Building_Level.Building_Level up for play (max tick rate 0) at 2018.04.28-20.32.20
+[2018.04.29-01.32.20:858][808]LogWorld: Bringing up level for play took: 0.057772
+[2018.04.29-01.32.20:931][808]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Building_Level -0.186
+[2018.04.29-01.32.20:933][808]LogEngine: Changing dynamic resolution state.
+[2018.04.29-01.32.20:953][808]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.29-01.32.20:953][808]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.04.29-01.32.30:437][338]LogSlate: Window 'havr Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.29-01.32.30:596][339]LogEngine: Changing dynamic resolution state.
+[2018.04.29-01.32.38:620][710]BlueprintLog: New page: Compile BP_MotionController
+[2018.04.29-01.32.40:299][734]LogTemp: Repeating last play command: VR Preview
+[2018.04.29-01.32.40:331][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.29-01.32.40:331][734]LogHMD: Initializing OVRPlugin session
+[2018.04.29-01.32.40:381][734]PIE: New page: PIE session: Building_Level (Apr 28, 2018, 3:32:40 PM)
+[2018.04.29-01.32.40:381][734]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Building_Level
+[2018.04.29-01.32.40:531][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.150623s)
+[2018.04.29-01.32.40:532][734]LogAIModule: Creating AISystem for world Building_Level
+[2018.04.29-01.32.40:532][734]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2018.04.29-01.32.40:532][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Building_Level.Building_Level to /Game/Maps/UEDPIE_0_Building_Level.Building_Level (0.151711s)
+[2018.04.29-01.32.40:587][734]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.29-01.32.40:599][734]LogInit: FAudioDevice initialized.
+[2018.04.29-01.32.40:708][734]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.29-01.32.40:743][734]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.04.29-01.32.40:743][734]LogLoad: Game class is 'GameModeBase'
+[2018.04.29-01.32.40:803][734]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Building_Level.Building_Level up for play (max tick rate 0) at 2018.04.28-20.32.40
+[2018.04.29-01.32.40:803][734]LogWorld: Bringing up level for play took: 0.060213
+[2018.04.29-01.32.40:881][734]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Building_Level -0.236
+[2018.04.29-01.32.40:883][734]LogEngine: Changing dynamic resolution state.
+[2018.04.29-01.32.40:903][734]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.29-01.32.40:903][734]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.04.29-01.36.37:856][486]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.04.29-01.36.37:856][486]LogPhysics: Warning: ForeachShape(Convex): [/Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6335_.LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6335_] ScaledElem[0] invalid
+[2018.04.29-01.36.37:856][486]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.04.29-01.36.37:856][486]LogPhysics: Warning: ForeachShape(Convex): [/Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6779_.LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6779_] ScaledElem[0] invalid
+[2018.04.29-01.36.37:857][486]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.04.29-01.36.37:857][486]LogPhysics: Warning: ForeachShape(Convex): [/Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_.LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_] ScaledElem[0] invalid
+[2018.04.29-01.36.37:857][486]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.04.29-01.36.37:857][486]LogPhysics: Warning: ForeachShape(Convex): [/Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_.LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_] ScaledElem[1] invalid
+[2018.04.29-01.36.37:857][486]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.04.29-01.36.37:857][486]LogPhysics: Warning: ForeachShape(Convex): [/Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_.LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_] ScaledElem[2] invalid
+[2018.04.29-01.38.21:333][505]LogSlate: Window 'havr Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.29-01.38.21:519][506]LogEngine: Changing dynamic resolution state.
+[2018.04.29-01.41.17:993][172]LogSlate: Window 'BP_MotionController*' being destroyed
+[2018.04.29-01.41.17:997][172]LogSlate: Window 'BP_MotionController*' being destroyed
+[2018.04.29-01.44.02:949][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-01.44.18:871][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-01.45.56:539][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-01.46.09:389][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.29-01.46.12:275][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.29-01.46.12:768][174]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2018.04.29-01.46.14:984][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.29-01.46.17:960][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-01.46.27:082][339]LogActorFactory: Actor Factory created Plane
+[2018.04.29-01.46.30:407][564]LogActorFactory: Actor Factory created Plane
+[2018.04.29-01.46.37:204][104]Cmd: TRANSACTION UNDO
+[2018.04.29-01.46.37:204][104]LogEditorTransaction: Undo Move Actors
+[2018.04.29-01.46.49:234][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-01.46.57:664][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-01.47.08:575][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-01.47.21:016][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-01.47.50:577][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.29-01.47.51:340][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.04.29-01.47.54:374][946]Cmd: EDIT COPY
+[2018.04.29-01.47.54:426][949]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.29-01.47.56:590][949]LogSavePackage: Save=1992.71ms
+[2018.04.29-01.47.56:590][949]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Building_Level_Auto140ADB0314469F61DDDC6B0B38FAFE460.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Autosaves/Game/Maps/Building_Level_Auto1.umap'
+[2018.04.29-01.47.56:593][949]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Autosaves/Game/Maps/Building_Level_Auto1.umap
+[2018.04.29-01.47.56:598][949]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Building_Level' took 2.131
+[2018.04.29-01.47.56:598][949]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.131
+[2018.04.29-01.47.56:602][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2018.04.29-01.47.56:619][949]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2018.04.29-01.47.56:619][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2018.04.29-01.47.56:911][949]LogSavePackage: Save=279.23ms
+[2018.04.29-01.47.56:911][949]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/BP_MotionController_Auto1F0586A6A4DBDA79D9B173C9D0B74CE49.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto1.uasset'
+[2018.04.29-01.47.56:913][949]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto1.uasset
+[2018.04.29-01.47.56:913][949]LogFileHelpers: Auto-saving content packages took 0.313
+[2018.04.29-01.48.04:993][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.04.29-01.48.47:951][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-01.48.53:146][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-01.49.09:962][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-01.49.11:191][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.29-01.49.11:214][944]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2018.04.29-01.49.20:817][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-01.49.20:941][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Building_Level" FILE="../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Maps/Building_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.29-01.49.23:025][847]LogSavePackage: Save=2053.57ms
+[2018.04.29-01.49.23:026][847]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Building_Level7C6EBD27468ECC0ABAF0E89B6ADE7EE3.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Maps/Building_Level.umap'
+[2018.04.29-01.49.23:059][847]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Maps/Building_Level.umap
+[2018.04.29-01.49.23:109][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Building_Level_BuiltData" FILE="../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Maps/Building_Level_BuiltData.uasset" SILENT=true
+[2018.04.29-01.49.25:961][847]LogSavePackage: Save=2247.52ms
+[2018.04.29-01.49.25:961][847]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Building_Level_BuiltData56FA510B4E55358A7F9C66ADE81140F9.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Maps/Building_Level_BuiltData.uasset'
+[2018.04.29-01.49.25:981][847]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Maps/Building_Level_BuiltData.uasset
+[2018.04.29-02.09.49:154][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.10.11:340][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.29-02.10.15:505][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.29-02.10.17:891][391]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.29-02.10.37:717][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.29-02.10.42:720][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.10.57:570][670]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.29-02.11.00:894][849]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.29-02.11.06:662][179]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.29-02.11.22:961][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.11.35:743][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.29-02.11.46:679][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.11.49:107][442]LogMaterial: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2018.04.29-02.11.49:155][442]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.29-02.11.49:155][442]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.04.29-02.11.49:155][442]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.29-02.11.53:578][478]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.29-02.13.16:207][864]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.29-02.13.16:207][864]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Plane.Shape_Plane] ScaledElem[0] invalid
+[2018.04.29-02.13.16:208][864]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.29-02.13.16:208][864]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Plane.Shape_Plane] ScaledElem[0] invalid
+[2018.04.29-02.13.16:208][864]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.29-02.13.16:208][864]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Plane.Shape_Plane] ScaledElem[0] invalid
+[2018.04.29-02.13.16:210][864]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.29-02.13.16:210][864]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Plane.Shape_Plane] ScaledElem[0] invalid
+[2018.04.29-02.13.16:211][864]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.29-02.13.16:211][864]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Plane.Shape_Plane] ScaledElem[0] invalid
+[2018.04.29-02.13.16:211][864]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.29-02.13.16:211][864]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Plane.Shape_Plane] ScaledElem[0] invalid
+[2018.04.29-02.13.16:225][864]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.29-02.13.16:225][864]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Plane.Shape_Plane] ScaledElem[0] invalid
+[2018.04.29-02.13.16:226][864]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.29-02.13.16:226][864]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Plane.Shape_Plane] ScaledElem[0] invalid
+[2018.04.29-02.13.16:226][864]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.04.29-02.13.16:226][864]LogPhysics: Warning: ForeachShape(Convex): [/Game/StarterContent/Shapes/Shape_Plane.Shape_Plane] ScaledElem[0] invalid
+[2018.04.29-02.13.29:516][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.13.51:876][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.13.54:962][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.14.12:731][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.14.40:312][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.14.58:387][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.15.07:303][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.15.21:638][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.15.56:893][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.16.09:363][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.16.30:581][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.16.46:017][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.16.53:812][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.18.03:489][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.18.16:083][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.18.19:870][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.18.30:979][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.18.44:006][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.18.48:505][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.20.07:883][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.29-02.20.07:962][279]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Building_Level' took 0.042
+[2018.04.29-02.20.07:965][279]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall] ([1] browsable assets)...
+[2018.04.29-02.20.07:965][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall]
+[2018.04.29-02.20.08:218][279]LogSavePackage: Save=239.87ms
+[2018.04.29-02.20.08:218][279]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Item_Wall_Auto2326BF8DE467E9D251AA6B49CEF0ACD02.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall_Auto2.uasset'
+[2018.04.29-02.20.08:219][279]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Autosaves/Game/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall_Auto2.uasset
+[2018.04.29-02.20.08:219][279]LogFileHelpers: Auto-saving content packages took 0.256
+[2018.04.29-02.22.22:502][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.22.27:268][153]LogEditorTransaction: Undo Paste Component(s)
+[2018.04.29-02.22.28:827][237]LogUObjectHash: Warning: Ambiguous search, could be BoxComponent /Engine/Transient.Box2_GEN_VARIABLE or BoxComponent /Engine/Transient.Box2_GEN_VARIABLE
+[2018.04.29-02.22.29:883][306]LogUObjectHash: Warning: Ambiguous search, could be BoxComponent /Engine/Transient.Box2_GEN_VARIABLE or BoxComponent /Engine/Transient.Box2_GEN_VARIABLE
+[2018.04.29-02.22.50:877][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.23.04:938][194]LogUObjectHash: Warning: Ambiguous search, could be BoxComponent /Engine/Transient.Box1_GEN_VARIABLE or BoxComponent /Engine/Transient.Box1_GEN_VARIABLE
+[2018.04.29-02.23.05:605][236]LogUObjectHash: Warning: Ambiguous search, could be BoxComponent /Engine/Transient.Box1_GEN_VARIABLE or BoxComponent /Engine/Transient.Box1_GEN_VARIABLE
+[2018.04.29-02.23.11:322][540]LogUObjectHash: Warning: Ambiguous search, could be BoxComponent /Engine/Transient.Box_GEN_VARIABLE or BoxComponent /Engine/Transient.Box_GEN_VARIABLE
+[2018.04.29-02.23.11:957][581]LogUObjectHash: Warning: Ambiguous search, could be BoxComponent /Engine/Transient.Box_GEN_VARIABLE or BoxComponent /Engine/Transient.Box_GEN_VARIABLE
+[2018.04.29-02.23.16:829][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.23.16:905][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall" FILE="../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall.uasset" SILENT=true
+[2018.04.29-02.23.16:936][849]LogSavePackage: Save=21.63ms
+[2018.04.29-02.23.16:936][849]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Item_Wall7EEA9D914DAD2ABEAE9B21A64EA03161.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall.uasset'
+[2018.04.29-02.23.16:941][849]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall.uasset
+[2018.04.29-02.23.17:591][885]BlueprintLog: New page: Compile Item_Wall
+[2018.04.29-02.23.33:748][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.23.45:122][234]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.29-02.24.23:234][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.24.26:590][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.24.30:096][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.25.27:825][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.25.34:149][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall" FILE="../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall.uasset" SILENT=true
+[2018.04.29-02.25.34:187][168]LogSavePackage: Save=22.72ms
+[2018.04.29-02.25.34:187][168]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Item_Wall45A28F894FF0D2A143665CA387446E12.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall.uasset'
+[2018.04.29-02.25.34:191][168]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall.uasset
+[2018.04.29-02.25.53:961][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.26.00:562][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.26.04:892][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.26.04:969][796]BlueprintLog: New page: Compile Item_Wall
+[2018.04.29-02.26.06:578][873]LogTemp: Repeating last play command: VR Preview
+[2018.04.29-02.26.06:612][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.29-02.26.06:612][873]LogHMD: Initializing OVRPlugin session
+[2018.04.29-02.26.06:670][873]PIE: New page: PIE session: Building_Level (Apr 28, 2018, 4:26:06 PM)
+[2018.04.29-02.26.06:670][873]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Building_Level
+[2018.04.29-02.26.06:819][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.149185s)
+[2018.04.29-02.26.06:820][873]LogAIModule: Creating AISystem for world Building_Level
+[2018.04.29-02.26.06:820][873]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2018.04.29-02.26.06:820][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Building_Level.Building_Level to /Game/Maps/UEDPIE_0_Building_Level.Building_Level (0.150297s)
+[2018.04.29-02.26.06:866][873]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.29-02.26.06:878][873]LogInit: FAudioDevice initialized.
+[2018.04.29-02.26.06:975][873]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.29-02.26.07:007][873]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.04.29-02.26.07:007][873]LogLoad: Game class is 'GameModeBase'
+[2018.04.29-02.26.07:052][873]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Building_Level.Building_Level up for play (max tick rate 0) at 2018.04.28-21.26.07
+[2018.04.29-02.26.07:053][873]LogWorld: Bringing up level for play took: 0.045251
+[2018.04.29-02.26.07:122][873]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Building_Level 0.005
+[2018.04.29-02.26.07:124][873]LogEngine: Changing dynamic resolution state.
+[2018.04.29-02.26.07:139][873]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.29-02.26.07:139][873]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.04.29-02.26.37:306][458]LogSlate: Window 'havr Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.29-02.26.37:450][459]LogEngine: Changing dynamic resolution state.
+[2018.04.29-02.26.44:963][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.27.14:708][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.27.22:962][879]LogEditorTransaction: Undo Rename Component Variable
+[2018.04.29-02.27.24:034][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.27.31:768][383]LogEditorTransaction: Undo Rename Component Variable
+[2018.04.29-02.27.34:830][572]BlueprintLog: New page: Compile Item_Wall
+[2018.04.29-02.27.36:298][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall" FILE="../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall.uasset" SILENT=true
+[2018.04.29-02.27.36:328][639]LogSavePackage: Save=23.04ms
+[2018.04.29-02.27.36:328][639]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Item_WallBF5FD9CB4CE43281C1C045884D7EA2F3.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall.uasset'
+[2018.04.29-02.27.36:332][639]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall.uasset
+[2018.04.29-02.28.34:341][853]BlueprintLog: New page: Compile Item_Wall
+[2018.04.29-02.28.36:580][973]LogEditorTransaction: Undo Rename Component Variable
+[2018.04.29-02.28.41:606][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall" FILE="../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall.uasset" SILENT=true
+[2018.04.29-02.28.41:636][252]LogSavePackage: Save=22.00ms
+[2018.04.29-02.28.41:636][252]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Item_Wall9CEA6E8E44BDCCF1181EA9BD4A26F5E7.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall.uasset'
+[2018.04.29-02.28.41:641][252]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Wall.uasset
+[2018.04.29-02.28.47:679][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.29.02:410][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.29.02:484][440]LogSlate: Window 'Item_Wall*' being destroyed
+[2018.04.29-02.29.02:489][440]LogSlate: Window 'Item_Wall*' being destroyed
+[2018.04.29-02.29.15:129][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.29.36:472][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.29.47:486][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.29.53:443][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.29.59:287][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-02.30.05:665][800]BlueprintLog: New page: Compile Item_Wall
+[2018.04.29-02.30.08:465][920]LogSlate: Window 'Item_Wall*' being destroyed
+[2018.04.29-02.30.08:469][920]LogSlate: Window 'Item_Wall*' being destroyed
+[2018.04.29-02.31.50:934][877]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::MakeRotator' [The specified module could not be found.]
+[2018.04.29-02.31.54:633][ 27]LogUObjectArray: Warning: Other object in slot
+[2018.04.29-02.31.54:647][ 27]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.013 s
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: 
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: Stack: 
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000DD7EBA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000DD54AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000DD55ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000BA753DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000C70FB2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000B855C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000B83E77AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000B83EAEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000B8526E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000CC536057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000CC53BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000CC76C253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000CC590475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000CC568360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000CC55B197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000EF32E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000EF321B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000EF33052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000EF31D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x0000000011DAB85D USER32.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x0000000011DAB1EF USER32.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000EF331666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x000000005BB55475 UE4Editor.exe!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x000000005BB66BD0 UE4Editor.exe!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x000000005BB66C4A UE4Editor.exe!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x000000005BB74149 UE4Editor.exe!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x000000005BB75B57 UE4Editor.exe!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x00000000123D1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: [Callstack] 0x000000001317F061 ntdll.dll!UnknownFunction []
+[2018.04.29-02.31.54:647][ 27]LogOutputDevice: Error: 
+[2018.04.29-02.31.54:655][ 27]LogStats:                SubmitErrorReport -  0.000 s
