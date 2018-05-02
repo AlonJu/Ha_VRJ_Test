@@ -1,0 +1,1499 @@
+﻿Log file open, 04/30/18 14:49:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: havr
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1639400993) SRandInit(1639400993).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.293246
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.433s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-FKFG7D5 (192.168.1.3:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/UE4P/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.30-19.49.50:855][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.30-19.49.50:855][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.30-19.49.50:987][  0]LogInit: Computer: DESKTOP-FKFG7D5
+[2018.04.30-19.49.50:987][  0]LogInit: User: Brad
+[2018.04.30-19.49.50:987][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.30-19.49.50:987][  0]LogInit: High frequency timer resolution =3.386481 MHz
+[2018.04.30-19.49.51:005][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.30-19.49.51:005][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.30-19.49.51:005][  0]LogMemory: Process Physical Memory: 282.07 MB used, 282.07 MB peak
+[2018.04.30-19.49.51:005][  0]LogMemory: Process Virtual Memory: 270.64 MB used, 270.64 MB peak
+[2018.04.30-19.49.51:005][  0]LogMemory: Physical Memory: 7494.31 MB used,  8834.45 MB free, 16328.75 MB total
+[2018.04.30-19.49.51:005][  0]LogMemory: Virtual Memory: 741.08 MB used,  8834.45 MB free, 134217728.00 MB total
+[2018.04.30-19.49.51:719][  0]LogInit: Using OS detected language (en-US).
+[2018.04.30-19.49.51:719][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.30-19.49.51:959][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.30-19.49.52:620][  0]LogStreaming: Display: Took  0.902s to EndInitTextLocalization.
+[2018.04.30-19.49.52:644][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.30-19.49.53:288][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.30-19.49.53:288][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.30-19.49.56:109][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.30-19.49.56:159][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2018.04.30-19.49.56:159][  0]LogD3D11RHI:       6097/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.30-19.49.56:162][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.30-19.49.56:162][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.30-19.49.56:162][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.30-19.49.56:178][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.30-19.49.56:179][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.30-19.49.56:179][  0]LogWindows: EnumDisplayDevices:
+[2018.04.30-19.49.56:179][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2018.04.30-19.49.56:179][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.04.30-19.49.56:179][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.04.30-19.49.56:179][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.04.30-19.49.56:179][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.30-19.49.56:179][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2018.04.30-19.49.56:179][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.30-19.49.56:179][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.30-19.49.56:180][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2018.04.30-19.49.56:228][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.30-19.49.56:228][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.30-19.49.56:559][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.30-19.49.56:647][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Intermediate/Shaders/WorkingDirectory/1320/).
+[2018.04.30-19.49.56:654][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Brad/AppData/Local/Temp/UnrealShaderWorkingDir/D8E0B210479B41D9BFAFFF85F6E6F504/'.
+[2018.04.30-19.49.57:775][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.30-19.49.57:788][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.30-19.49.57:805][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.30-19.49.57:819][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.30-19.49.57:866][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.30-19.49.57:881][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.30-19.49.57:895][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.30-19.49.57:909][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.30-19.49.57:917][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.30-19.49.57:931][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.30-19.49.57:946][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.30-19.49.57:960][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.30-19.49.57:973][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.30-19.49.57:986][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.30-19.49.58:003][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.30-19.49.58:030][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.30-19.49.58:030][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.30-19.49.58:176][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.30-19.49.58:177][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.30-19.49.58:315][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.30-19.49.58:328][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.30-19.49.58:341][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.30-19.49.58:355][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.30-19.49.58:367][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.30-19.49.58:390][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.30-19.49.58:390][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.30-19.49.59:096][  0]LogXGEController: Cleaning working directory: C:/Users/Brad/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.30-19.49.59:096][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.30-19.49.59:107][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.30-19.49.59:107][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.30-19.50.02:083][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.30-19.50.02:376][  0]LogDerivedDataCache: Loaded boot cache 0.29s 75MB C:/Users/Brad/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.30-19.50.02:376][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Brad/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.30-19.50.02:376][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.30-19.50.02:376][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.30-19.50.02:376][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.30-19.50.02:376][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.30-19.50.02:453][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.30-19.50.02:465][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Brad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.30-19.50.02:521][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.30-19.50.02:564][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.30-19.50.02:651][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.30-19.50.02:651][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.30-19.50.09:023][  0]LogAssetRegistry: FAssetRegistry took 0.0287 seconds to start up
+[2018.04.30-19.50.13:508][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.30-19.50.15:941][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.30-19.50.15:947][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.30-19.50.15:956][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.30-19.50.15:964][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.30-19.50.15:964][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.30-19.50.15:964][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.30-19.50.16:441][  0]LogNetVersion: havr , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3686149312)
+[2018.04.30-19.50.20:014][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.178134 seconds
+[2018.04.30-19.50.20:030][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.30-19.50.20:030][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.04.30-19.50.20:030][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.30-19.50.37:334][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.30-19.50.37:370][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.30-19.50.38:234][  0]SourceControl: Source control is disabled
+[2018.04.30-19.50.38:234][  0]SourceControl: Source control is disabled
+[2018.04.30-19.50.38:263][  0]SourceControl: Source control is disabled
+[2018.04.30-19.50.38:294][  0]SourceControl: Source control is disabled
+[2018.04.30-19.50.39:145][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.30-19.50.39:342][  0]LogOcInput: OculusInput pre-init called
+[2018.04.30-19.50.39:807][  0]LogEngine: Initializing Engine...
+[2018.04.30-19.50.39:815][  0]LogHMD: Oculus plugin initialized. Version: 4.19.0-3944462+++UE4+Release-4.19, OVRPlugin: 1.21.0
+[2018.04.30-19.50.39:832][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.30-19.50.39:833][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.30-19.50.40:734][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.30-19.50.40:838][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.30-19.50.40:851][  0]LogInit: FAudioDevice initialized.
+[2018.04.30-19.50.40:927][  0]LogDerivedDataCache: Saved boot cache 0.08s 75MB C:/Users/Brad/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.30-19.50.40:936][  0]LogInit: Texture streaming: Enabled
+[2018.04.30-19.50.40:981][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.30-19.50.41:083][  0]LogInit: Transaction tracking system initialized
+[2018.04.30-19.50.41:324][  0]BlueprintLog: New page: Editor Load
+[2018.04.30-19.50.41:962][  0]LocalizationService: Localization service is disabled
+[2018.04.30-19.50.42:557][  0]LogConsoleResponse: Display: 
+[2018.04.30-19.50.44:240][  0]LogFileCache: Scanning file cache for directory 'D:/GitHubDDriveRep/Ha_VRJ_Test/havr/Content/' took 0.05s
+[2018.04.30-19.50.44:240][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.30-19.50.44:254][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.30-19.50.44:254][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.30-19.50.44:254][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.30-19.50.44:254][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.30-19.50.45:547][  0]SourceControl: Source control is disabled
+[2018.04.30-19.50.45:578][  0]Cmd: MAP LOAD FILE="../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Maps/Building_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.30-19.50.45:621][  0]LightingResults: New page: Lighting Build
+[2018.04.30-19.50.45:696][  0]MapCheck: New page: Map Check
+[2018.04.30-19.50.45:696][  0]LightingResults: New page: Lighting Build
+[2018.04.30-19.50.56:895][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [4.951453ms] /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+[2018.04.30-19.50.57:764][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6779_.LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6779_.
+[2018.04.30-19.50.57:764][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6779_.LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6779_:BodySetup_0 when we are unable to.
+[2018.04.30-19.50.57:786][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6335_.LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6335_.
+[2018.04.30-19.50.57:786][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6335_.LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6335_:BodySetup_0 when we are unable to.
+[2018.04.30-19.50.57:903][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [4.289408ms] /Game/Models/Chairs/Cushion_chair/1_Object001.1_Object001
+[2018.04.30-19.50.58:020][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [106.896805ms] /Game/Models/Chairs/Cushion_chair/1_chair.1_chair
+[2018.04.30-19.50.58:516][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [4.251906ms] /Game/Models/Chairs/Cushion_chair/1_Object002.1_Object002
+[2018.04.30-19.50.59:376][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.04.30-19.50.59:376][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.04.30-19.50.59:376][  0]LogPhysics: Warning: Failed to cook convex: /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_.LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_ 0 (FlipX:0). The remaining elements will not get cooked.
+[2018.04.30-19.50.59:376][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.04.30-19.50.59:376][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.04.30-19.50.59:376][  0]LogPhysics: Warning: Failed to cook convex: /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_.LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_ 0 (FlipX:1). The remaining elements will not get cooked.
+[2018.04.30-19.50.59:405][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_.LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_:BodySetup_0 when we are unable to.
+[2018.04.30-19.50.59:418][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Appliances/toaster/touster_polymsh_detached.touster_polymsh_detached.
+[2018.04.30-19.50.59:418][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Appliances/toaster/touster_polymsh_detached.touster_polymsh_detached:BodySetup_0 when we are unable to.
+[2018.04.30-19.50.59:443][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__5274_.LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__5274_.
+[2018.04.30-19.50.59:443][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__5274_.LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__5274_:BodySetup_0 when we are unable to.
+[2018.04.30-19.50.59:851][  0]LogAIModule: Creating AISystem for world Building_Level
+[2018.04.30-19.51.10:195][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.30-19.51.10:463][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.30-19.51.10:589][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 126.176ms to complete.
+[2018.04.30-19.51.10:590][  0]LogFileHelpers: Loading map 'Building_Level' took 25.016
+[2018.04.30-19.51.11:815][  0]LogCollectionManager: Loaded 0 collections in 0.012534 seconds
+[2018.04.30-19.51.11:975][  0]LogFileCache: Scanning file cache for directory 'D:/GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Collections/' took 0.01s
+[2018.04.30-19.51.11:975][  0]LogFileCache: Scanning file cache for directory 'D:/GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Developers/Brad/Collections/' took 0.01s
+[2018.04.30-19.51.11:975][  0]LogFileCache: Scanning file cache for directory 'D:/GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Collections/' took 0.01s
+[2018.04.30-19.51.11:975][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.30-19.51.11:987][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2452 classes and 558 folders.
+[2018.04.30-19.51.12:029][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.30-19.51.13:050][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.30-19.51.13:077][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.30-19.51.14:446][  0]LogSlate: Took 0.016069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.30-19.51.14:479][  0]LogSlate: Took 0.030461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.30-19.51.14:538][  0]LogSlate: Took 0.020830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.30-19.51.14:924][  0]LogRenderer: Reallocating scene render targets to support 1048x604 Format 26 NumSamples 1 (Frame:1).
+[2018.04.30-19.51.15:306][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.30-19.51.15:306][  0]LogLoad: (Engine Initialization) Total time: 95.73 seconds
+[2018.04.30-19.51.15:306][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.30-19.51.15:318][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.30-19.51.15:318][  0]LogOcInput: OculusInput is initialized
+[2018.04.30-19.51.15:395][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.30-19.51.15:533][  0]LogSlate: Took 0.013577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.30-19.51.15:619][  1]LogAssetRegistry: Asset discovery search completed in 66.6174 seconds
+[2018.04.30-19.51.15:636][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.30-19.51.15:636][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000135 seconds (updated 0 objects)
+[2018.04.30-19.51.17:101][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-19.59.09:869][676]LogTemp: Repeating last play command: VR Preview
+[2018.04.30-19.59.10:519][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.30-19.59.10:519][676]LogHMD: Initializing OVRPlugin session
+[2018.04.30-19.59.10:718][676]PIE: New page: PIE session: Building_Level (Apr 30, 2018, 9:59:10 AM)
+[2018.04.30-19.59.10:718][676]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Building_Level
+[2018.04.30-19.59.11:385][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.666859s)
+[2018.04.30-19.59.11:386][676]LogAIModule: Creating AISystem for world Building_Level
+[2018.04.30-19.59.11:386][676]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2018.04.30-19.59.11:386][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Building_Level.Building_Level to /Game/Maps/UEDPIE_0_Building_Level.Building_Level (0.668453s)
+[2018.04.30-19.59.11:420][676]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.30-19.59.11:431][676]LogInit: FAudioDevice initialized.
+[2018.04.30-19.59.11:542][676]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.30-19.59.11:626][676]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.04.30-19.59.11:626][676]LogLoad: Game class is 'GameModeBase'
+[2018.04.30-19.59.11:692][676]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Building_Level.Building_Level up for play (max tick rate 0) at 2018.04.30-14.59.11
+[2018.04.30-19.59.11:693][676]LogWorld: Bringing up level for play took: 0.051314
+[2018.04.30-19.59.11:716][676]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.04.30-19.59.11:853][676]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Building_Level 2.737
+[2018.04.30-19.59.11:863][676]LogEngine: Changing dynamic resolution state.
+[2018.04.30-19.59.11:873][676]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.11:882][676]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.11:936][676]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.30-19.59.11:936][676]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.30-19.59.11:936][676]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.30-19.59.11:936][676]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.30-19.59.11:936][676]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.30-19.59.11:936][676]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.30-19.59.11:946][676]LogRenderer: Reallocating scene render targets to support 2720x1600 Format 26 NumSamples 1 (Frame:1).
+[2018.04.30-19.59.11:946][676]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.04.30-19.59.11:990][677]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.11:990][677]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:005][678]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:005][678]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:027][679]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:027][679]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:046][680]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:046][680]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:066][681]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:066][681]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:076][682]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:076][682]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:088][683]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:088][683]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:100][684]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:100][684]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:125][685]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:125][685]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:144][686]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:145][686]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:162][687]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:162][687]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:200][688]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:200][688]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:212][689]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:212][689]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:234][690]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:234][690]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:255][691]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:255][691]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:277][692]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:277][692]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:288][693]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:288][693]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:298][694]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:299][694]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:311][695]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:311][695]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:323][696]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:323][696]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:333][697]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:333][697]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:344][698]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:344][698]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:355][699]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:355][699]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:366][700]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:366][700]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:376][701]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:376][701]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:388][702]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:388][702]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:400][703]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:400][703]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:411][704]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:411][704]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:422][705]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:422][705]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:432][706]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:432][706]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:444][707]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:444][707]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:455][708]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:455][708]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:466][709]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:466][709]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:478][710]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:478][710]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:499][711]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:499][711]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:511][712]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:511][712]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:521][713]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:521][713]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:532][714]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:532][714]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:544][715]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:544][715]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:555][716]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:555][716]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:566][717]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:566][717]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:577][718]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:577][718]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:589][719]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:589][719]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:601][720]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:601][720]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:612][721]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:613][721]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:633][722]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:633][722]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:644][723]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:644][723]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:655][724]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:655][724]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:666][725]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:666][725]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:678][726]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:678][726]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:690][727]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:690][727]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:710][728]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:710][728]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:722][729]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:722][729]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:734][730]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:734][730]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:745][731]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:745][731]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:756][732]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:756][732]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:767][733]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:768][733]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:779][734]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:779][734]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:792][735]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:792][735]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:811][736]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:811][736]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:823][737]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:823][737]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:835][738]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:835][738]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:855][739]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:855][739]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:867][740]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:867][740]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:877][741]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:877][741]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:888][742]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:888][742]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:899][743]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:900][743]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:911][744]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:911][744]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:922][745]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:922][745]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:933][746]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:933][746]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:944][747]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:944][747]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:955][748]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:955][748]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:967][749]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:967][749]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:978][750]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:978][750]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.12:990][751]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.12:990][751]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:001][752]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:002][752]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:022][753]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:022][753]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:034][754]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:034][754]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:046][755]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:046][755]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:057][756]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:057][756]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:079][757]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:080][757]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:100][758]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:100][758]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:111][759]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:111][759]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:122][760]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:122][760]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:133][761]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:133][761]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:144][762]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:144][762]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:156][763]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:156][763]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:167][764]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:167][764]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:178][765]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:178][765]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:189][766]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:189][766]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:211][767]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:211][767]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:222][768]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:222][768]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:233][769]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:233][769]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:244][770]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:244][770]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:255][771]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:255][771]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:266][772]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:266][772]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:277][773]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:277][773]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:289][774]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:289][774]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:299][775]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:299][775]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:313][776]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:314][776]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:333][777]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:333][777]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:344][778]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:344][778]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:355][779]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:355][779]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:366][780]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:366][780]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:377][781]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:377][781]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:388][782]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:388][782]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:400][783]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:400][783]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:411][784]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:411][784]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:422][785]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:422][785]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:433][786]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:433][786]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:444][787]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:444][787]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:455][788]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:455][788]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:466][789]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:466][789]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:477][790]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:477][790]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:489][791]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:489][791]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:500][792]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:500][792]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:511][793]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:511][793]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:522][794]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:522][794]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:534][795]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:534][795]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:545][796]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:546][796]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:567][797]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:567][797]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:579][798]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:579][798]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:590][799]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:590][799]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:610][800]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:610][800]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:622][801]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:622][801]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:634][802]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:634][802]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:645][803]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:645][803]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:666][804]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:667][804]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:688][805]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:688][805]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:699][806]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:699][806]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:710][807]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:710][807]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:722][808]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:722][808]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:734][809]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:734][809]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:745][810]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:746][810]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:767][811]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:767][811]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:778][812]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:778][812]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:790][813]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:790][813]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:801][814]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:801][814]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:822][815]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:822][815]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:833][816]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:833][816]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:846][817]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:846][817]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:857][818]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:857][818]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:877][819]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:877][819]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:889][820]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:889][820]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:900][821]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:900][821]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:912][822]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:912][822]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:923][823]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:923][823]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:944][824]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:944][824]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:955][825]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:955][825]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:966][826]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:966][826]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:977][827]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:977][827]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:988][828]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:988][828]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.13:999][829]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.13:999][829]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:011][830]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:011][830]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:022][831]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:022][831]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:033][832]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:033][832]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:050][833]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:050][833]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:061][834]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:062][834]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:072][835]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:072][835]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:083][836]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:083][836]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:095][837]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:095][837]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:105][838]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:105][838]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:117][839]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:117][839]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:128][840]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:129][840]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:139][841]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:139][841]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:151][842]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:151][842]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:160][843]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:161][843]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:172][844]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:172][844]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:183][845]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:183][845]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:194][846]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:194][846]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:206][847]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:206][847]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:217][848]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:217][848]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:228][849]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:228][849]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:238][850]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:238][850]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:249][851]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:249][851]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:260][852]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:260][852]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:271][853]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:271][853]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:283][854]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:283][854]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:293][855]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:294][855]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:305][856]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:306][856]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:315][857]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:315][857]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:326][858]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:326][858]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:338][859]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:338][859]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:349][860]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:349][860]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:361][861]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:361][861]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:371][862]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:371][862]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:383][863]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:383][863]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:393][864]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:393][864]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:404][865]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:404][865]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:416][866]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:417][866]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:426][867]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:426][867]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:438][868]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:438][868]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:449][869]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:449][869]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:460][870]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:460][870]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:471][871]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:471][871]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:482][872]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:482][872]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:494][873]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:494][873]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:505][874]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:505][874]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:516][875]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:516][875]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:526][876]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:527][876]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:537][877]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:537][877]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:549][878]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:549][878]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:560][879]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:560][879]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:571][880]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:571][880]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:582][881]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:583][881]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:594][882]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:594][882]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:605][883]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:605][883]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:616][884]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:616][884]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:627][885]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:627][885]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:638][886]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:638][886]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:650][887]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:650][887]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:660][888]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:660][888]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:672][889]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:672][889]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:683][890]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:683][890]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:694][891]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:694][891]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:705][892]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:705][892]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:716][893]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:716][893]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:727][894]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:727][894]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:737][895]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:738][895]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:749][896]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:749][896]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:759][897]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:759][897]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:772][898]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:772][898]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:783][899]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:784][899]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:793][900]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:793][900]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:805][901]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:805][901]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:815][902]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:815][902]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:826][903]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:826][903]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:838][904]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:838][904]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:849][905]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:849][905]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:861][906]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:861][906]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:871][907]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:871][907]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:882][908]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:882][908]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:893][909]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:893][909]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:904][910]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:904][910]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:916][911]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:916][911]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:926][912]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:927][912]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:938][913]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:938][913]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:949][914]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:949][914]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:960][915]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:960][915]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:971][916]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:971][916]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.14:983][917]LogBlueprintUserMessages: [BP_MotionController_C_0] Hello
+[2018.04.30-19.59.14:983][917]LogBlueprintUserMessages: [BP_MotionController_C_1] Hello
+[2018.04.30-19.59.15:121][917]LogSlate: Window 'havr Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.30-19.59.15:283][918]LogEngine: Changing dynamic resolution state.
+[2018.04.30-19.59.25:832][839]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.30-19.59.26:593][839]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.04.30-19.59.28:264][839]LogSlate: Took 0.016871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.30-19.59.37:117][196]LogSlate: Took 0.010693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.30-19.59.48:268][707]BlueprintLog: New page: Compile BP_MotionController
+[2018.04.30-19.59.51:728][809]LogTemp: Repeating last play command: VR Preview
+[2018.04.30-19.59.51:760][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.30-19.59.51:760][809]LogHMD: Initializing OVRPlugin session
+[2018.04.30-19.59.51:805][809]PIE: New page: PIE session: Building_Level (Apr 30, 2018, 9:59:51 AM)
+[2018.04.30-19.59.51:805][809]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Building_Level
+[2018.04.30-19.59.51:956][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151426s)
+[2018.04.30-19.59.51:957][809]LogAIModule: Creating AISystem for world Building_Level
+[2018.04.30-19.59.51:957][809]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2018.04.30-19.59.51:957][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Building_Level.Building_Level to /Game/Maps/UEDPIE_0_Building_Level.Building_Level (0.152494s)
+[2018.04.30-19.59.52:019][809]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.30-19.59.52:030][809]LogInit: FAudioDevice initialized.
+[2018.04.30-19.59.52:166][809]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.30-19.59.52:205][809]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.04.30-19.59.52:205][809]LogLoad: Game class is 'GameModeBase'
+[2018.04.30-19.59.52:268][809]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Building_Level.Building_Level up for play (max tick rate 0) at 2018.04.30-14.59.52
+[2018.04.30-19.59.52:269][809]LogWorld: Bringing up level for play took: 0.063396
+[2018.04.30-19.59.52:375][809]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Building_Level 1.258
+[2018.04.30-19.59.52:377][809]LogEngine: Changing dynamic resolution state.
+[2018.04.30-19.59.52:402][809]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.30-19.59.52:402][809]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.04.30-20.00.00:674][278]PIE: Warning: AttachTo: '/Game/Maps/UEDPIE_0_Building_Level.Building_Level:PersistentLevel.BP_MotionController_C_0. Laser Collision Point' is not static  (in blueprint "BP_MotionController"), cannot attach '/Game/Maps/UEDPIE_0_Building_Level.Building_Level:PersistentLevel.Landscape_2.RootComponent0' which is static to it. Aborting.
+[2018.04.30-20.00.04:988][565]LogSlate: Window 'havr Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.30-20.00.05:129][566]LogEngine: Changing dynamic resolution state.
+[2018.04.30-20.00.08:371][715]LogTemp: Repeating last play command: VR Preview
+[2018.04.30-20.00.08:404][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.30-20.00.08:405][715]LogHMD: Initializing OVRPlugin session
+[2018.04.30-20.00.08:447][715]PIE: New page: PIE session: Building_Level (Apr 30, 2018, 10:00:08 AM)
+[2018.04.30-20.00.08:447][715]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Building_Level
+[2018.04.30-20.00.08:626][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.179488s)
+[2018.04.30-20.00.08:627][715]LogAIModule: Creating AISystem for world Building_Level
+[2018.04.30-20.00.08:627][715]LogPlayLevel: PIE: World Init took: (0.000789s)
+[2018.04.30-20.00.08:627][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Building_Level.Building_Level to /Game/Maps/UEDPIE_0_Building_Level.Building_Level (0.180544s)
+[2018.04.30-20.00.08:663][715]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.30-20.00.08:672][715]LogInit: FAudioDevice initialized.
+[2018.04.30-20.00.08:804][715]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.30-20.00.08:844][715]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.04.30-20.00.08:844][715]LogLoad: Game class is 'GameModeBase'
+[2018.04.30-20.00.08:897][715]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Building_Level.Building_Level up for play (max tick rate 0) at 2018.04.30-15.00.08
+[2018.04.30-20.00.08:897][715]LogWorld: Bringing up level for play took: 0.052873
+[2018.04.30-20.00.08:969][715]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Building_Level -0.148
+[2018.04.30-20.00.08:971][715]LogEngine: Changing dynamic resolution state.
+[2018.04.30-20.00.08:999][715]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.30-20.00.08:999][715]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.04.30-20.05.55:465][396]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.04.30-20.05.55:465][396]LogPhysics: Warning: ForeachShape(Convex): [/Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6335_.LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6335_] ScaledElem[0] invalid
+[2018.04.30-20.05.55:466][396]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.04.30-20.05.55:466][396]LogPhysics: Warning: ForeachShape(Convex): [/Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6779_.LGLFXS29626S28-8CFRefrigerator-FBX__Extrusion__6779_] ScaledElem[0] invalid
+[2018.04.30-20.05.55:466][396]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.04.30-20.05.55:466][396]LogPhysics: Warning: ForeachShape(Convex): [/Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_.LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_] ScaledElem[0] invalid
+[2018.04.30-20.05.55:466][396]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.04.30-20.05.55:466][396]LogPhysics: Warning: ForeachShape(Convex): [/Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_.LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_] ScaledElem[1] invalid
+[2018.04.30-20.05.55:466][396]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.04.30-20.05.55:466][396]LogPhysics: Warning: ForeachShape(Convex): [/Game/Models/Appliances/Fridge/LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_.LGLFXS29626S28-8CFRefrigerator-FBX__Sweep__5645_] ScaledElem[2] invalid
+[2018.04.30-20.06.56:021][582]LogSlate: Window 'havr Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.30-20.06.56:217][583]LogEngine: Changing dynamic resolution state.
+[2018.04.30-20.08.14:478][986]LogTemp: Repeating last play command: VR Preview
+[2018.04.30-20.08.14:515][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.30-20.08.14:515][986]LogHMD: Initializing OVRPlugin session
+[2018.04.30-20.08.14:560][986]PIE: New page: PIE session: Building_Level (Apr 30, 2018, 10:08:14 AM)
+[2018.04.30-20.08.14:561][986]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Building_Level
+[2018.04.30-20.08.14:706][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144907s)
+[2018.04.30-20.08.14:707][986]LogAIModule: Creating AISystem for world Building_Level
+[2018.04.30-20.08.14:707][986]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2018.04.30-20.08.14:707][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Building_Level.Building_Level to /Game/Maps/UEDPIE_0_Building_Level.Building_Level (0.146135s)
+[2018.04.30-20.08.14:746][986]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.30-20.08.14:756][986]LogInit: FAudioDevice initialized.
+[2018.04.30-20.08.14:892][986]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.30-20.08.14:930][986]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.04.30-20.08.14:930][986]LogLoad: Game class is 'GameModeBase'
+[2018.04.30-20.08.14:988][986]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Building_Level.Building_Level up for play (max tick rate 0) at 2018.04.30-15.08.14
+[2018.04.30-20.08.14:989][986]LogWorld: Bringing up level for play took: 0.058527
+[2018.04.30-20.08.15:062][986]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Building_Level -0.054
+[2018.04.30-20.08.15:065][986]LogEngine: Changing dynamic resolution state.
+[2018.04.30-20.08.15:089][986]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.30-20.08.15:089][986]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.04.30-20.09.20:195][829]LogSlate: Window 'havr Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.30-20.09.20:400][830]Cmd: SELECT NONE
+[2018.04.30-20.09.20:420][830]LogEngine: Changing dynamic resolution state.
+[2018.04.30-20.09.49:498][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.09.54:219][388]BlueprintLog: New page: Compile Item_Door
+[2018.04.30-20.10.03:728][798]LogTexture: Display: Building textures: TexturesCom_WoodFine0061_12_seamless_S (BGRA8, 1024X473)
+[2018.04.30-20.10.03:728][798]LogMaterial: Missing cached shader map for material wood, compiling. 
+[2018.04.30-20.10.03:796][798]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.30-20.10.03:796][798]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.30-20.10.03:796][798]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.30-20.11.09:910][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.11.35:652][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.11.42:976][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.30-20.11.47:983][517]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.30-20.12.16:671][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.12.39:495][273]LogEditorTransaction: Undo Replace component used material
+[2018.04.30-20.12.49:966][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_MENU/MenuBP_3D/Spawn_Items/Item_Door" FILE="../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Door.uasset" SILENT=true
+[2018.04.30-20.12.50:111][757]LogSavePackage: Save=67.44ms
+[2018.04.30-20.12.50:111][757]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Item_Door5AFD531F421462D2E2A244839655168C.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Door.uasset'
+[2018.04.30-20.12.50:118][757]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Door.uasset
+[2018.04.30-20.12.52:438][840]LogSavePackage: Save=304.18ms
+[2018.04.30-20.12.52:438][840]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/BP_MotionController9C7051C24CFA511FE81DA0BCA77CCDE0.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2018.04.30-20.12.52:442][840]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2018.04.30-20.14.21:069][331]LogStaticMesh: Building static mesh Toilet_Water_Tube...
+[2018.04.30-20.14.21:103][331]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Appliances/toilet/Toilet_Water_Tube.Toilet_Water_Tube
+[2018.04.30-20.14.21:128][331]LogStaticMesh: Building static mesh Toilet_Water...
+[2018.04.30-20.14.21:137][331]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Appliances/toilet/Toilet_Water.Toilet_Water
+[2018.04.30-20.14.21:161][331]LogStaticMesh: Building static mesh Toilet_Valve...
+[2018.04.30-20.14.21:234][331]LogStaticMesh: Built static mesh [0.07s] /Game/Models/Appliances/toilet/Toilet_Valve.Toilet_Valve
+[2018.04.30-20.14.21:254][331]LogMaterial: Missing cached shader map for material Ceramic, compiling. 
+[2018.04.30-20.14.21:262][331]LogStaticMesh: Building static mesh Toilet_Tank_cover...
+[2018.04.30-20.14.21:279][331]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.30-20.14.21:279][331]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.30-20.14.21:279][331]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.30-20.14.21:279][331]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Appliances/toilet/Toilet_Tank_cover.Toilet_Tank_cover
+[2018.04.30-20.14.21:287][331]LogStaticMesh: Building static mesh Toilet_Tank...
+[2018.04.30-20.14.21:300][331]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Appliances/toilet/Toilet_Tank.Toilet_Tank
+[2018.04.30-20.14.21:306][331]LogStaticMesh: Building static mesh Toilet_Seat...
+[2018.04.30-20.14.21:349][331]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Appliances/toilet/Toilet_Seat.Toilet_Seat
+[2018.04.30-20.14.21:358][331]LogStaticMesh: Building static mesh Toilet_Lid...
+[2018.04.30-20.14.21:383][331]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Appliances/toilet/Toilet_Lid.Toilet_Lid
+[2018.04.30-20.14.21:391][331]LogStaticMesh: Building static mesh Toilet_Hinges...
+[2018.04.30-20.14.21:413][331]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Appliances/toilet/Toilet_Hinges.Toilet_Hinges
+[2018.04.30-20.14.21:420][331]LogStaticMesh: Building static mesh Toilet_Flush_Button...
+[2018.04.30-20.14.21:437][331]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Appliances/toilet/Toilet_Flush_Button.Toilet_Flush_Button
+[2018.04.30-20.14.21:444][331]LogStaticMesh: Building static mesh Toilet_Drainage_Tube...
+[2018.04.30-20.14.21:460][331]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Appliances/toilet/Toilet_Drainage_Tube.Toilet_Drainage_Tube
+[2018.04.30-20.14.21:467][331]LogStaticMesh: Building static mesh Toilet_Bolt_Caps...
+[2018.04.30-20.14.21:483][331]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Appliances/toilet/Toilet_Bolt_Caps.Toilet_Bolt_Caps
+[2018.04.30-20.14.21:490][331]LogStaticMesh: Building static mesh Toilet_Bowl...
+[2018.04.30-20.14.21:528][331]LogStaticMesh: Built static mesh [0.04s] /Game/Models/Appliances/toilet/Toilet_Bowl.Toilet_Bowl
+[2018.04.30-20.14.39:566][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.15.23:299][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.16.05:445][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.16.28:987][316]LogMaterial: Missing cached shader map for material M_Water_Lake, compiling. 
+[2018.04.30-20.16.29:019][316]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.30-20.16.29:019][316]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.04.30-20.16.29:020][316]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.30-20.16.34:013][339]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.30-20.17.02:082][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.17.02:141][600]BlueprintLog: New page: Compile Item_Toilet
+[2018.04.30-20.17.03:105][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_MENU/MenuBP_3D/Spawn_Items/Item_Toilet" FILE="../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Toilet.uasset" SILENT=true
+[2018.04.30-20.17.03:144][622]LogSavePackage: Save=36.32ms
+[2018.04.30-20.17.03:144][622]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Item_ToiletBA4771F746DEC05FED2A51A05B7E34D4.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Toilet.uasset'
+[2018.04.30-20.17.03:147][622]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Toilet.uasset
+[2018.04.30-20.17.11:777][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.17.20:942][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.17.22:895][966]LogEditorViewport: Clicking on Actor (LMB): Item_Toilet_C (Item_Toilet)
+[2018.04.30-20.17.25:205][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.30-20.18.00:325][565]BlueprintLog: New page: Compile Item_Toilet
+[2018.04.30-20.18.06:231][904]Cmd: DELETE
+[2018.04.30-20.18.06:231][904]Cmd: ACTOR DELETE
+[2018.04.30-20.18.06:297][904]LogEditorActor: Deleted Actor: Item_Toilet_C
+[2018.04.30-20.18.06:324][904]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2018.04.30-20.18.07:776][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.18.10:964][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.30-20.18.18:100][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.18.27:127][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.18.27:210][868]BlueprintLog: New page: Compile Item_Toilet
+[2018.04.30-20.18.28:298][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_MENU/MenuBP_3D/Spawn_Items/Item_Toilet" FILE="../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Toilet.uasset" SILENT=true
+[2018.04.30-20.18.28:342][885]LogSavePackage: Save=32.75ms
+[2018.04.30-20.18.28:342][885]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Item_Toilet481060D547F87D20731AEE8238C926A7.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Toilet.uasset'
+[2018.04.30-20.18.28:345][885]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Toilet.uasset
+[2018.04.30-20.18.48:167][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.30-20.18.48:187][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_MENU/MenuBP_3D/Spawn_Items/Item_Toilet" FILE="../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Toilet.uasset" SILENT=true
+[2018.04.30-20.18.48:226][635]LogSavePackage: Save=33.10ms
+[2018.04.30-20.18.48:226][635]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Item_ToiletB5B1B6214144A62329F809B349B26766.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Toilet.uasset'
+[2018.04.30-20.18.48:230][635]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Items/Item_Toilet.uasset
+[2018.04.30-20.18.50:092][717]BlueprintLog: New page: Compile Item_Toilet
+[2018.04.30-20.19.08:494][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.30-20.19.18:801][582]LogEditorViewport: Clicking on Actor (LMB): Item_Toilet_C (Item_Toilet)
+[2018.04.30-20.19.25:915][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.04.30-20.19.28:277][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.19.28:413][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Building_Level" FILE="../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Maps/Building_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.30-20.19.30:505][218]LogSavePackage: Save=2026.38ms
+[2018.04.30-20.19.30:505][218]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Building_LevelFA90597E4FE4DF5A59AB068D35D5F19B.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Maps/Building_Level.umap'
+[2018.04.30-20.19.30:512][218]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Maps/Building_Level.umap
+[2018.04.30-20.19.30:568][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Building_Level_BuiltData" FILE="../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Maps/Building_Level_BuiltData.uasset" SILENT=true
+[2018.04.30-20.19.33:018][218]LogSavePackage: Save=1958.04ms
+[2018.04.30-20.19.33:019][218]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Building_Level_BuiltData69BA7CD64BE77A45A4C4F4BC234D285E.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Maps/Building_Level_BuiltData.uasset'
+[2018.04.30-20.19.33:025][218]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/Maps/Building_Level_BuiltData.uasset
+[2018.04.30-20.19.38:547][581]LogEditorViewport: Clicking on Actor (LMB): Item_Chair_C (Item_Chair)
+[2018.04.30-20.19.39:168][621]Cmd: DELETE
+[2018.04.30-20.19.39:168][621]Cmd: ACTOR DELETE
+[2018.04.30-20.19.39:194][621]LogEditorActor: Deleted Actor: Item_Chair_C
+[2018.04.30-20.19.39:223][621]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2018.04.30-20.19.41:094][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.19.41:194][771]LogTemp: Repeating last play command: VR Preview
+[2018.04.30-20.19.41:232][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.30-20.19.41:232][771]LogHMD: Initializing OVRPlugin session
+[2018.04.30-20.19.41:277][771]PIE: New page: PIE session: Building_Level (Apr 30, 2018, 10:19:41 AM)
+[2018.04.30-20.19.41:277][771]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Building_Level
+[2018.04.30-20.19.41:425][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.148525s)
+[2018.04.30-20.19.41:426][771]LogAIModule: Creating AISystem for world Building_Level
+[2018.04.30-20.19.41:426][771]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2018.04.30-20.19.41:426][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Building_Level.Building_Level to /Game/Maps/UEDPIE_0_Building_Level.Building_Level (0.149703s)
+[2018.04.30-20.19.41:471][771]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.30-20.19.41:482][771]LogInit: FAudioDevice initialized.
+[2018.04.30-20.19.41:592][771]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.30-20.19.41:624][771]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.04.30-20.19.41:624][771]LogLoad: Game class is 'GameModeBase'
+[2018.04.30-20.19.41:675][771]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Building_Level.Building_Level up for play (max tick rate 0) at 2018.04.30-15.19.41
+[2018.04.30-20.19.41:676][771]LogWorld: Bringing up level for play took: 0.051631
+[2018.04.30-20.19.41:751][771]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Building_Level 0.635
+[2018.04.30-20.19.41:754][771]LogEngine: Changing dynamic resolution state.
+[2018.04.30-20.19.41:768][771]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.30-20.19.41:768][771]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.04.30-20.20.24:861][439]LogSlate: Window 'havr Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.30-20.20.25:020][440]LogEngine: Changing dynamic resolution state.
+[2018.04.30-20.20.41:043][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.20.41:560][207]BlueprintLog: New page: Compile Item_Toilet
+[2018.04.30-20.20.47:339][499]LogTemp: Repeating last play command: VR Preview
+[2018.04.30-20.20.47:384][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.30-20.20.47:384][499]LogHMD: Initializing OVRPlugin session
+[2018.04.30-20.20.47:431][499]PIE: New page: PIE session: Building_Level (Apr 30, 2018, 10:20:47 AM)
+[2018.04.30-20.20.47:431][499]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Building_Level
+[2018.04.30-20.20.47:581][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.149628s)
+[2018.04.30-20.20.47:581][499]LogAIModule: Creating AISystem for world Building_Level
+[2018.04.30-20.20.47:582][499]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2018.04.30-20.20.47:582][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Building_Level.Building_Level to /Game/Maps/UEDPIE_0_Building_Level.Building_Level (0.150607s)
+[2018.04.30-20.20.47:624][499]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.30-20.20.47:636][499]LogInit: FAudioDevice initialized.
+[2018.04.30-20.20.47:739][499]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.30-20.20.47:771][499]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.04.30-20.20.47:771][499]LogLoad: Game class is 'GameModeBase'
+[2018.04.30-20.20.47:825][499]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Building_Level.Building_Level up for play (max tick rate 0) at 2018.04.30-15.20.47
+[2018.04.30-20.20.47:825][499]LogWorld: Bringing up level for play took: 0.053893
+[2018.04.30-20.20.47:893][499]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Building_Level 0.777
+[2018.04.30-20.20.47:895][499]LogEngine: Changing dynamic resolution state.
+[2018.04.30-20.20.47:911][499]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.04.30-20.20.47:911][499]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.04.30-20.21.24:059][659]LogSlate: Window 'havr Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.30-20.21.24:235][660]LogEngine: Changing dynamic resolution state.
+[2018.04.30-20.21.46:003][316]LogMetaData: Removing '/Game/VR_MENU/MenuBP_3D/Spawn_Buttons/Spawn_Toilet.Spawn_Toilet:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VR_MENU/MenuBP_3D/Spawn_Toilet.PackageMetaData'
+[2018.04.30-20.21.46:003][316]LogMetaData: Removing '/Game/VR_MENU/MenuBP_3D/Spawn_Buttons/Spawn_Toilet.SKEL_Spawn_Toilet_C' ref from Metadata '/Game/VR_MENU/MenuBP_3D/Spawn_Toilet.PackageMetaData'
+[2018.04.30-20.21.46:003][316]LogMetaData: Removing '/Game/VR_MENU/MenuBP_3D/Spawn_Buttons/Spawn_Toilet.Spawn_Toilet_C' ref from Metadata '/Game/VR_MENU/MenuBP_3D/Spawn_Toilet.PackageMetaData'
+[2018.04.30-20.21.46:003][316]LogMetaData: Removing '/Game/VR_MENU/MenuBP_3D/Spawn_Buttons/Spawn_Toilet.Spawn_Toilet:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VR_MENU/MenuBP_3D/Spawn_Toilet.PackageMetaData'
+[2018.04.30-20.21.46:003][316]LogMetaData: Removing '/Game/VR_MENU/MenuBP_3D/Spawn_Buttons/Spawn_Toilet.Spawn_Toilet:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/VR_MENU/MenuBP_3D/Spawn_Toilet.PackageMetaData'
+[2018.04.30-20.21.46:003][316]LogMetaData: Removing '/Game/VR_MENU/MenuBP_3D/Spawn_Buttons/Spawn_Toilet.Spawn_Toilet:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VR_MENU/MenuBP_3D/Spawn_Toilet.PackageMetaData'
+[2018.04.30-20.21.46:003][316]LogMetaData: Removing '/Game/VR_MENU/MenuBP_3D/Spawn_Buttons/Spawn_Toilet.Spawn_Toilet:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/VR_MENU/MenuBP_3D/Spawn_Toilet.PackageMetaData'
+[2018.04.30-20.21.46:003][316]LogMetaData: Removing '/Game/VR_MENU/MenuBP_3D/Spawn_Buttons/Spawn_Toilet.Spawn_Toilet:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VR_MENU/MenuBP_3D/Spawn_Toilet.PackageMetaData'
+[2018.04.30-20.21.46:003][316]LogMetaData: Removing '/Game/VR_MENU/MenuBP_3D/Spawn_Buttons/Spawn_Toilet.Spawn_Toilet:EventGraph.K2Node_CallParentFunction_3' ref from Metadata '/Game/VR_MENU/MenuBP_3D/Spawn_Toilet.PackageMetaData'
+[2018.04.30-20.21.46:085][316]LogSavePackage: Save=22.71ms
+[2018.04.30-20.21.46:085][316]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Spawn_ToiletA3164831497DE9D93215C9B677B0C806.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Buttons/Spawn_Toilet.uasset'
+[2018.04.30-20.21.46:090][316]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Buttons/Spawn_Toilet.uasset
+[2018.04.30-20.22.01:999][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Bed_C_CHILDACTOR_24.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:040][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Bed_C_CHILDACTOR_26.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:076][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Bed_C_CHILDACTOR_28.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:078][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Bed_C_CHILDACTOR_24.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:078][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Bed_C_CHILDACTOR_26.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:078][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Bed_C_CHILDACTOR_28.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:108][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_CoffeeTable_C_CHILDACTOR_24.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:147][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_CoffeeTable_C_CHILDACTOR_26.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:168][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_CoffeeTable_C_CHILDACTOR_34.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:170][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_CoffeeTable_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:170][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_CoffeeTable_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:170][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_CoffeeTable_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:204][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Couch_C_CHILDACTOR_36.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:243][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Couch_C_CHILDACTOR_38.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:264][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Couch_C_CHILDACTOR_40.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:266][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Couch_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:266][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Couch_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:266][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Couch_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:295][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_CushionChair_C_CHILDACTOR_42.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:337][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_CushionChair_C_CHILDACTOR_44.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:356][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_CushionChair_C_CHILDACTOR_46.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:358][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_CushionChair_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:359][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_CushionChair_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:359][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_CushionChair_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:387][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Desk_C_CHILDACTOR_48.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:435][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Desk_C_CHILDACTOR_50.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:459][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Desk_C_CHILDACTOR_52.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:461][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Desk_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:461][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Desk_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:461][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Desk_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:488][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Door_C_CHILDACTOR_54.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:526][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Door_C_CHILDACTOR_56.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:553][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Door_C_CHILDACTOR_58.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:555][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Door_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:555][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Door_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:555][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Door_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:583][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_EndTable_C_CHILDACTOR_60.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:619][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_EndTable_C_CHILDACTOR_62.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:644][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_EndTable_C_CHILDACTOR_64.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:648][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_EndTable_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:648][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_EndTable_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:650][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_EndTable_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:676][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Fridge_C_CHILDACTOR_66.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:713][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Fridge_C_CHILDACTOR_68.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:733][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Fridge_C_CHILDACTOR_70.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:737][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Fridge_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:737][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Fridge_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:737][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Fridge_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:771][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_KitchenChair_C_CHILDACTOR_72.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:809][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_KitchenChair_C_CHILDACTOR_74.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:830][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_KitchenChair_C_CHILDACTOR_76.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:832][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_KitchenChair_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:832][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_KitchenChair_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:832][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_KitchenChair_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:864][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_ModernChair_C_CHILDACTOR_78.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:902][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_ModernChair_C_CHILDACTOR_80.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:921][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_ModernChair_C_CHILDACTOR_82.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:923][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_ModernChair_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:923][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_ModernChair_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:923][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_ModernChair_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:950][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_OfficeChair_C_CHILDACTOR_84.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.02:995][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_OfficeChair_C_CHILDACTOR_86.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:014][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_OfficeChair_C_CHILDACTOR_88.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:016][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_OfficeChair_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:016][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_OfficeChair_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:016][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_OfficeChair_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:043][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Stove_C_CHILDACTOR_90.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:085][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Stove_C_CHILDACTOR_92.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:107][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Stove_C_CHILDACTOR_94.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:108][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Stove_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:108][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Stove_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:109][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Stove_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:136][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Table1_C_CHILDACTOR_96.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:175][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Table1_C_CHILDACTOR_98.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:203][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Table1_C_CHILDACTOR_100.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:205][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Table1_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:205][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Table1_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:205][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Table1_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:233][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Table2_C_CHILDACTOR_102.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:272][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Table2_C_CHILDACTOR_104.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:296][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Table2_C_CHILDACTOR_106.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:301][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Table2_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:301][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Table2_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:301][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Table2_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:329][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Toaster_C_CHILDACTOR_108.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:367][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Toaster_C_CHILDACTOR_110.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:388][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Toaster_C_CHILDACTOR_112.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:390][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Toaster_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:390][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Toaster_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:390][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Toaster_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:429][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Wall_C_CHILDACTOR_114.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:467][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Wall_C_CHILDACTOR_116.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:488][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Wall_C_CHILDACTOR_118.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:490][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Wall_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:490][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Wall_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:490][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Wall_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:522][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Wall1_C_CHILDACTOR_120.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:562][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Wall1_C_CHILDACTOR_122.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:583][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Wall1_C_CHILDACTOR_124.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:585][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Wall1_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:585][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Wall1_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:585][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Wall1_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:611][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Wall2_C_CHILDACTOR_126.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:656][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Wall2_C_CHILDACTOR_128.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:676][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Wall2_C_CHILDACTOR_130.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:678][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Wall2_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:678][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Wall2_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:678][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Wall2_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:705][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Wall3_C_CHILDACTOR_132.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:747][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Wall3_C_CHILDACTOR_134.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:767][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Wall3_C_CHILDACTOR_136.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:769][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Wall3_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:769][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Wall3_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:769][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Wall3_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:799][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_WeirdCouch_C_CHILDACTOR_138.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:842][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_WeirdCouch_C_CHILDACTOR_140.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:868][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_WeirdCouch_C_CHILDACTOR_142.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:870][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_WeirdCouch_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:870][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_WeirdCouch_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:870][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_WeirdCouch_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:899][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_WoodenChair_C_CHILDACTOR_144.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:938][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_WoodenChair_C_CHILDACTOR_146.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:966][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_WoodenChair_C_CHILDACTOR_148.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:968][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_WoodenChair_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:968][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_WoodenChair_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.03:968][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_WoodenChair_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:431][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Bed_C_CHILDACTOR_162.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:469][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Bed_C_CHILDACTOR_164.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:495][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Bed_C_CHILDACTOR_166.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:496][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Bed_C_CHILDACTOR_162.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:496][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Bed_C_CHILDACTOR_164.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:496][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Bed_C_CHILDACTOR_166.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:523][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_CoffeeTable_C_CHILDACTOR_168.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:561][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_CoffeeTable_C_CHILDACTOR_170.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:584][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_CoffeeTable_C_CHILDACTOR_172.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:585][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_CoffeeTable_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:585][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_CoffeeTable_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:585][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_CoffeeTable_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:615][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Couch_C_CHILDACTOR_174.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:654][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Couch_C_CHILDACTOR_176.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:674][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Couch_C_CHILDACTOR_178.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:676][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Couch_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:676][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Couch_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:676][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Couch_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:714][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_CushionChair_C_CHILDACTOR_180.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:753][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_CushionChair_C_CHILDACTOR_182.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:775][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_CushionChair_C_CHILDACTOR_184.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:777][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_CushionChair_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:777][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_CushionChair_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:777][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_CushionChair_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:813][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Desk_C_CHILDACTOR_186.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:856][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Desk_C_CHILDACTOR_188.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:877][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Desk_C_CHILDACTOR_190.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:879][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Desk_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:879][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Desk_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:879][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Desk_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:906][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Door_C_CHILDACTOR_192.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:958][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Door_C_CHILDACTOR_194.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:979][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Door_C_CHILDACTOR_196.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:980][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Door_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:980][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Door_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.12:980][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Door_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:007][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_EndTable_C_CHILDACTOR_198.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:052][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_EndTable_C_CHILDACTOR_200.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:075][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_EndTable_C_CHILDACTOR_202.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:076][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_EndTable_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:076][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_EndTable_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:076][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_EndTable_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:111][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Fridge_C_CHILDACTOR_204.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:154][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Fridge_C_CHILDACTOR_206.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:176][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Fridge_C_CHILDACTOR_208.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:178][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Fridge_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:178][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Fridge_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:178][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Fridge_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:204][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_KitchenChair_C_CHILDACTOR_210.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:242][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_KitchenChair_C_CHILDACTOR_212.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:269][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_KitchenChair_C_CHILDACTOR_214.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:271][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_KitchenChair_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:271][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_KitchenChair_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:272][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_KitchenChair_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:299][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_ModernChair_C_CHILDACTOR_216.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:335][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_ModernChair_C_CHILDACTOR_218.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:360][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_ModernChair_C_CHILDACTOR_220.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:361][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_ModernChair_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:361][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_ModernChair_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:361][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_ModernChair_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:391][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_OfficeChair_C_CHILDACTOR_222.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:430][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_OfficeChair_C_CHILDACTOR_224.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:449][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_OfficeChair_C_CHILDACTOR_226.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:450][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_OfficeChair_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:450][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_OfficeChair_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:450][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_OfficeChair_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:481][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Stove_C_CHILDACTOR_228.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:521][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Stove_C_CHILDACTOR_230.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:541][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Stove_C_CHILDACTOR_232.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:543][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Stove_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:543][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Stove_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:543][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Stove_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:570][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Table1_C_CHILDACTOR_234.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:617][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Table1_C_CHILDACTOR_236.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:638][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Table1_C_CHILDACTOR_238.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:639][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Table1_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:639][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Table1_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:639][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Table1_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:666][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Table2_C_CHILDACTOR_240.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:711][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Table2_C_CHILDACTOR_242.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:731][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Table2_C_CHILDACTOR_244.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:733][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Table2_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:734][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Table2_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:734][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Table2_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:760][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Toaster_C_CHILDACTOR_246.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:796][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Toaster_C_CHILDACTOR_248.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:821][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Toaster_C_CHILDACTOR_250.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:822][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Toaster_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:823][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Toaster_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:823][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Toaster_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:848][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Wall_C_CHILDACTOR_252.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:886][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Wall_C_CHILDACTOR_254.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:910][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Wall_C_CHILDACTOR_256.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:912][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Wall_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:914][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Wall_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:914][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Wall_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:947][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Wall1_C_CHILDACTOR_258.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.13:985][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Wall1_C_CHILDACTOR_260.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:005][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Wall1_C_CHILDACTOR_262.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:006][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Wall1_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:006][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Wall1_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:006][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Wall1_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:040][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Wall2_C_CHILDACTOR_264.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:079][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Wall2_C_CHILDACTOR_266.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:099][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Wall2_C_CHILDACTOR_268.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:100][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Wall2_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:100][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Wall2_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:100][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Wall2_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:140][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Wall3_C_CHILDACTOR_270.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:183][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Wall3_C_CHILDACTOR_272.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:205][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Wall3_C_CHILDACTOR_274.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:206][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_Wall3_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:206][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_Wall3_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:206][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_Wall3_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:233][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_WeirdCouch_C_CHILDACTOR_276.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:296][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_WeirdCouch_C_CHILDACTOR_278.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:316][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_WeirdCouch_C_CHILDACTOR_280.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:318][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_WeirdCouch_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:318][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_WeirdCouch_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:318][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_WeirdCouch_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:344][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_WoodenChair_C_CHILDACTOR_282.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:387][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_WoodenChair_C_CHILDACTOR_284.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:410][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_WoodenChair_C_CHILDACTOR_286.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:411][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_Spawn_WoodenChair_C_CHILDACTOR_156.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:411][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_Spawn_WoodenChair_C_CHILDACTOR_158.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.14:411][213]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.DESTROYED_Spawn_WoodenChair_C_CHILDACTOR_160.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.22.18:349][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_MENU/MenuBP_3D/BP_ButtonSpawnParent" FILE="../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/BP_ButtonSpawnParent.uasset" SILENT=true
+[2018.04.30-20.22.18:550][329]LogSavePackage: Save=187.32ms
+[2018.04.30-20.22.18:550][329]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/BP_ButtonSpawnParentD19D4B804E802E7C513BA49E2453C976.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/BP_ButtonSpawnParent.uasset'
+[2018.04.30-20.22.18:554][329]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/BP_ButtonSpawnParent.uasset
+[2018.04.30-20.22.19:088][345]BlueprintLog: New page: Compile BP_ButtonSpawnParent
+[2018.04.30-20.23.15:408][628]LogSavePackage: Save=23.81ms
+[2018.04.30-20.23.15:408][628]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Spawn_Toilet0325B7FC4F256E8C3F98738D0ED82E87.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Buttons/Spawn_Toilet.uasset'
+[2018.04.30-20.23.15:411][628]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Buttons/Spawn_Toilet.uasset
+[2018.04.30-20.23.34:191][708]BlueprintLog: New page: Compile Spawn_Toilet
+[2018.04.30-20.23.35:530][758]LogSavePackage: Save=23.76ms
+[2018.04.30-20.23.35:531][758]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/Spawn_Toilet4D5E62AA4F7AFC586A285EB40C482F9A.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Buttons/Spawn_Toilet.uasset'
+[2018.04.30-20.23.35:534][758]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/Spawn_Buttons/Spawn_Toilet.uasset
+[2018.04.30-20.23.37:363][852]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.30-20.23.38:087][884]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.30-20.23.47:639][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.23.58:015][216]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.30-20.24.14:116][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.24.19:089][433]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.30-20.24.19:141][433]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_1242.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.24.19:199][433]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_1268.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.24.27:500][824]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_1374.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.24.27:536][824]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_1376.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.24.29:286][901]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_1507.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.24.29:325][901]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_1509.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.24.38:896][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.24.43:297][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_1640.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.24.43:335][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_1642.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.24.51:153][982]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_1773.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.24.51:187][982]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_1775.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.24.55:166][174]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_1906.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.24.55:200][174]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_1908.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.24.58:196][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_2039.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.24.58:234][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_2041.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.25.02:123][509]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_2172.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.25.02:167][509]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_2174.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.25.20:147][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.30-20.25.20:222][427]BlueprintLog: New page: Compile BP_MenuTabs
+[2018.04.30-20.25.21:310][427]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_2251.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.25.21:334][427]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_2253.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.25.21:469][427]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_2306.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.25.21:495][427]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.DESTROYED_BP_MenuTabs_C_CHILDACTOR_2308.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.04.30-20.25.21:978][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_MENU/MenuBP_3D/BP_MenuTabs" FILE="../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/BP_MenuTabs.uasset" SILENT=true
+[2018.04.30-20.25.22:033][443]LogSavePackage: Save=43.51ms
+[2018.04.30-20.25.22:033][443]LogSavePackage: Moving '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Saved/BP_MenuTabs63538E2246528827708745A44698C350.tmp' to '../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/BP_MenuTabs.uasset'
+[2018.04.30-20.25.22:037][443]LogSavePackage: Display: Finished SavePackage ../../../../../GitHubDDriveRep/Ha_VRJ_Test/havr/Content/VR_MENU/MenuBP_3D/BP_MenuTabs.uasset
+[2018.04.30-20.25.24:925][584]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.30-20.29.24:514][246]LogUObjectBase: Warning: Object is not registered
+[2018.04.30-20.29.24:775][246]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.261 s
+[2018.04.30-20.29.24:775][246]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.30-20.29.24:775][246]LogOutputDevice: Error: 
+[2018.04.30-20.29.24:775][246]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.04.30-20.29.24:775][246]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.04.30-20.29.24:775][246]LogOutputDevice: Error: Stack: 
+[2018.04.30-20.29.24:775][246]LogOutputDevice: Error: [Callstack] 0x00000000CBF1BA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.30-20.29.24:775][246]LogOutputDevice: Error: [Callstack] 0x00000000CBC7AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000CBC8ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000B6D23DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000B51DB2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000B482C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000B46B77AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000B46BAEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000B47F6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000C7266057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000C726BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000C749C253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000C72C0475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000C7298360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000C728B197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000ECAAE4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000ECAA1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000ECAB052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000ECA9D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x000000000CA0B85D USER32.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x000000000CA0B1EF USER32.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x00000000ECAB1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x0000000024A05475 UE4Editor.exe!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x0000000024A16BD0 UE4Editor.exe!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x0000000024A16C4A UE4Editor.exe!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x0000000024A24149 UE4Editor.exe!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x0000000024A25B57 UE4Editor.exe!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x000000000E111FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: [Callstack] 0x000000000F20F061 ntdll.dll!UnknownFunction []
+[2018.04.30-20.29.24:776][246]LogOutputDevice: Error: 
+[2018.04.30-20.29.24:785][246]LogStats:                SubmitErrorReport -  0.000 s
